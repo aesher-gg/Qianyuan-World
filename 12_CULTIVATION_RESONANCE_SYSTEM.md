@@ -39,7 +39,7 @@ Mortal (Non-Kultivator)
 |---|---|---|
 | **1. Pembukaan Simpul Meridian** | Melalui latihan penempaan fisik, mandi ramuan herbal pembilas kotoran tubuh (*Body Cleansing Herbs* Tier 1), atau bantuan pijat meridian oleh Guru/Tabib. | Membuka 12 Meridian Utama (*Standard Meridian Pattern*) agar Dantian mampu menampung energi Qi. |
 | **2. Asal-Usul Hukum Sah (*Law Origin*)** | Harus memiliki panduan resmi dari salah satu dari 3 jalur sah: bimbingan Guru/Mentor, menemukan Kitab Manual Kultivasi Tier 1, atau Pencerahan Sejati (§4.0). | Menentukan elemen Qi utama yang ditarik ke dalam Dantian. |
-| **3. Kondisi Vitalitas Sehat** | Tubuh dalam kondisi prima (HP & Stamina 100%, Satiety $\ge 50$, serta bebas dari status *Wound Trauma*, *Poison*, atau *Fatigue*). | Mencegah terjadinya kegagalan pernapasan saat Qi pertama kali mengalir. |
+| **3. Kondisi Vitalitas Sehat** | Tubuh dalam kondisi prima (HP & Stamina 100%, Satiety ≥ 50, serta bebas dari status *Wound Trauma*, *Poison*, atau *Fatigue*). | Mencegah terjadinya kegagalan pernapasan saat Qi pertama kali mengalir. |
 | **4. Poin Pemahaman Awal** | Mengumpulkan **5 Insight Points** dari narasi roleplay (meditasi pernapasan dasar, memahami konsep Dantian, atau latihan fisik). | Memastikan pemain memahami prinsip dasar pengarahan energi batin. |
 
 > 📌 **Catatan AI GM**: Proses inisiasi mortal menuju Body Refining Realm wajib dinarasikan secara imersif (misal: adegan merasakan kehangatan hawa Qi pertama mengalir di perut bawah / Dantian). Begitu inisiasi sukses, statistik karakter otomatis diperbarui menjadi **Body Refining Realm Early Stage (Qi Cap 50)**.
@@ -62,7 +62,7 @@ Terdapat **9 Major Realm** utama di dunia Qianyuan, di mana setiap Realm dibagi 
 | 8 | **Dao Integration Realm (He-Dao)** | **3.906.250** | Menyatu dengan salah satu hukum Nine Meridian Currents. |
 | 9 | **Tribulation Transcendence Realm (Du-Jie)** ⚡ | **19.531.250** | Menghadapi petir kesengsaraan langit untuk mencapai keabadian. |
 
-### 🔒 Formula Resm Qi Capacity (WAJIB DIPAKAI AI GM)
+### 🔒 Formula Resmi Qi Capacity (WAJIB DIPAKAI AI GM)
 
 ```
 QiCap(realm, stage) = RealmBase(realm) × StageMultiplier(stage)
@@ -75,9 +75,9 @@ QiCap(realm, stage) = RealmBase(realm) × StageMultiplier(stage)
 - **Peak Stage**: ×2,5
 
 *Contoh Perhitungan Qi Cap:*
-- *Core Formation Peak*: $6.250 \times 2,5 = \mathbf{15.625\text{ Qi Cap}}$
-- *Nascent Soul Early*: $31.250 \times 1,0 = \mathbf{31.250\text{ Qi Cap}}$
-- *Void Refinement Early*: $781.250 \times 1,0 = \mathbf{781.250\text{ Qi Cap}}$
+- Core Formation Peak: `6.250 × 2,5 = 15.625 Qi Cap`
+- Nascent Soul Early: `31.250 × 1,0 = 31.250 Qi Cap`
+- Void Refinement Early: `781.250 × 1,0 = 781.250 Qi Cap`
 
 ---
 
@@ -194,7 +194,7 @@ Bagi kultivator yang hendak menembus **Realm 7 ke atas (Void Refinement+)**, Lan
 Tribulation_Damage = BasePunishment(realm) × KarmaModifier × BoltFactor × Random(0.8–1.2)
 ```
 
-- **BasePunishment**: $5\%$ dari `QiCap(realm, Peak)` per gumpalan petir (*bolt*).
+- **BasePunishment**: `5% dari QiCap(realm, Peak)` per gumpalan petir (*bolt*).
 - **BoltFactor**: Minor Tribulation (3 bolt), Major (5 bolt), Full (7 bolt), Heaven-Defying (9 bolt).
 
 ### ⚖️ Formula KarmaModifier
@@ -203,8 +203,8 @@ Karma_Score = Merit_Points - Sin_Points
 KarmaModifier = clamp(1.0 + (Sin_Points - Merit_Points) / 1000, 0.5, 3.0)
 ```
 
-- **Merit Tinggi** ($\text{KarmaModifier} \to 0,5$): Tribulasi petir jauh lebih ringan.
-- **Sin Tinggi** ($\text{KarmaModifier} \to 3,0$): Tribulasi petir sangat destruktif (trope "dihukum Langit").
+- **Merit Tinggi** (`KarmaModifier → 0,5`): Tribulasi petir jauh lebih ringan.
+- **Sin Tinggi** (`KarmaModifier → 3,0`): Tribulasi petir sangat destruktif (trope "dihukum Langit").
 
 ---
 
@@ -236,11 +236,11 @@ KarmaModifier = clamp(1.0 + (Sin_Points - Merit_Points) / 1000, 0.5, 3.0)
 
 - [ ] Bagi Mortal: Syarat Inisiasi (§2) terpenuhi (pembilasan meridian, Law Origin, vitalitas sehat, 5 Insight Points)?
 - [ ] Hukum/teknik tervalidasi di **Law Origin Log** (bukan klaim instan di momen terobosan)?
-- [ ] Qi Cap karakter $\le \text{Formula Resmi } \text{QiCap}(\text{realm}, \text{stage})$?
+- [ ] Qi Cap karakter ≤ Formula Resmi `QiCap(realm, stage)`?
 - [ ] Bahan obat & Inti Monster (*Core*) memenuhi syarat minimum §6?
 - [ ] Tier material sesuai dengan rentang Realm ($\pm 1$ Tier)?
 - [ ] Poin Pemahaman (*Insight Points*) terkumpul sah dari narasi roleplay?
 - [ ] Untuk Realm 7+: Tribulasi Petir sudah dihitung menggunakan formula §7?
 - [ ] Perhitungan Karma (Merit vs Sin) jujur berdasarkan riwayat tindakan karakter?
 
-Jika **salah satu** poin di atas tidak terpenuhi $\to$ Inisiasi/Terobosan **DITOLAK TOTAL**. AI GM memberikan alasan mekanis yang jelas kepada pemain.
+Jika **salah satu** poin di atas tidak terpenuhi → Inisiasi/Terobosan **DITOLAK TOTAL**. AI GM memberikan alasan mekanis yang jelas kepada pemain.
