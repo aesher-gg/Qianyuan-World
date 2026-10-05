@@ -101,6 +101,12 @@ Puncak pegunungan salju Frostglass Crown menyimpan ancaman alamiah ekstrem yang 
 
 Perguruan utama penguasa ilmu pedang es, meditasi keheningan, dan pemeliharaan reruntuhan es. *(Lihat `28_FROST_EDGE_SCHOOL.md`)*.
 
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Grandmaster Han Bing-Fei** | Pemimpin Utama Frost Edge School | 110 | Soul Formation, Mid | **234.375** | *Tebasan Pedang Frostglass Pemutus Jiwa* — tebasan es raksasa yang membekukan aliran Qi musuh | Cold, berwibawa, sangat disiplin, memegang teguh kehormatan pedang |
+| **Tetua Pedang Elder Sword-Frost** | Kepala Kurikulum Teknik Pedang | 88 | Nascent Soul, Mid | **46.875** | *Aura Pedang Es Abadi* — pembentukan zirah es tak tembus pandang | Kaku, sangat keras pada murid yang malas, ahli taktik pertempuran es |
+| **Murid Senior Leng-Xue** | Instruktur Bertarung Murid Luar | 27 | Core Formation, Early | **6.250** | *Pedang Kilat Bunga Salju* — tusukan pedang beruntun yang melumpuhkan sendi | Tegas, adil, protektif pada keselamatan juniornya |
+
 ---
 
 ## Aliansi Dagang & Organisasi Sampingan

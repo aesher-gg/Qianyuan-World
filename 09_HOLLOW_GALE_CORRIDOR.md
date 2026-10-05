@@ -101,6 +101,12 @@ Koridor Ngarai Hollow Gale yang berangin kencang dan dipenuhi batu berongga meny
 
 Faksi penguasa koridor yang menguasai ilmu pergerakan angin, teknik serangan gelombang suara, dan jasa pengumpulan informasi rahasia. *(Lihat `29_HOLLOW_WIND_SECT.md`)*.
 
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Sect Leader Master Hollow-Wind** | Pemimpin Utama Sekte Hollow Wind | 118 | Soul Formation, Peak | **390.625** | *Badai Suara Pemutus Raga* — ledakan gelombang angin & suara pengguncang organ | Karismatik, cerdas, menguasai jaringan intelejen terbesar di barat |
+| **Tetua Gelombang Suara Elder Sound-Gale** | Kepala Divisi Intelijen & Pembunuh Bayaran | 85 | Nascent Soul, Mid | **46.875** | *Bisikan Duri Angin Tak Kasat Mata* — jarum Qi angin pelumpuh saraf | Dingin, misterius, mengamati dari kegelapan ngarai |
+| **Murid Inti Wind-Whisper** | Murid berbakat penyelidik cepat | 21 | Core Formation, Early | **6.250** | *Langkah Angin Tanpa Jejak* — teknik pergerakan udara tanpa menimbulkan getaran | Lincah, cerdik, bertugas mengawal dokumen paling rahasia |
+
 ---
 
 ## Aliansi Dagang & Organisasi Sampingan

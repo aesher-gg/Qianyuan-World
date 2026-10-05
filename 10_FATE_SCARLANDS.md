@@ -91,6 +91,19 @@ Organisasi peneliti independen yang mencatat peta perubahan anomali, fluktuasi h
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Arsiparis Utama Master Scholar-Yin** | Kepala Arsiparis Fate Scar Archive | 98 | Nascent Soul, Peak | **78.125** | *Kuasa Pena Pembeku Anomali* — tulisan Qi yang menyegel getaran ruang sementara | Bijaksana, tekun, berdedikasi memetakan seluruh perubahan lanskap Scarlands |
+| **Peneliti Lapangan Young Bai** | Pencatat Fluktuasi Ruang & Waktu | 26 | Core Formation, Early | **6.250** | *Jarum Pelacak Retakan Ruang* — pengikatan aura Qi penanda koordinat aman | Pemberani, ingin tahu, suka berpetualang menembus zona berbahaya |
+
+---
+
+### 🛡️ Pasukan Pengawal Garis Perbatasan (Scar Barrier Joint Guards)
+*Lokasi: Pos Perbatasan Scar-Watch & Gerbang Utama*
+
+Pasukan gabungan gabungan dari sepuluh sekte utama benua yang bertugas mengamankan garis pembatas dan menangkap penyusup ilegal.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Komandan Pasukan Jenderal Zhao-Scar** | Panglima Pasukan Gabungan | 115 | Soul Formation, Mid | **234.375** | *Perisai Segel Sembilan Arus Perbatasan* — benteng Qi raksasa penahan gelombang anomali | Disiplin, dingin, sangat tegas melarang siapapun masuk tanpa surat izin resmi |
+| **Wakil Komandan Feng-Steel** | Pengawas Shift Malam Perbatasan | 52 | Core Formation, Peak | **15.625** | *Panah Perak Penembus Kabut Anomali* — tembakan panah Qi pemutus komunikasi iblis | Kaku, sangat patuh prosedur, membenci penjelajah liar tanpa lisensi |
 
 ---
 
