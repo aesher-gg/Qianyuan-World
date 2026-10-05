@@ -22,7 +22,31 @@ Cultivation Resonance System adalah sistem inti pengembangan kekuatan kultivator
 
 ---
 
-## 🌀 2. Struktur Realm Universal & Formula Qi Cap
+## 🧍 2. Syarat Inisiasi Kultivasi Mortal (Mortal Cultivation Initiation Requirements)
+
+Setiap karakter pemain memulai perjalanan sebagai **Mortal (Manusia Biasa tanpa Qi / Non-Kultivator)**. Untuk melangkah pertama kali menembus gerbang kultivasi menuju **Body Refining Realm Early Stage (Qi-Guan Early — Qi Cap 50)**, seorang Mortal wajib memenuhi **4 Syarat Inisiasi Kultivasi**:
+
+```
+Mortal (Non-Kultivator)
+ ├── 1. Pembukaan Simpul Meridian (Meridian Awakening / Body Cleansing)
+ ├── 2. Asal-Usul Hukum Sah (Validated Law Origin: Master / Manual / Insight)
+ ├── 3. Kondisi Vitalitas Sehat (HP & Stamina Full, Tanpa Wound/Trauma)
+ └── 4. Akumulasi Poin Pemahaman Awal (5 Insight Points dari Roleplay)
+      └── ⚡ Inisiasi Sukses → Body Refining Realm Early Stage (Qi Cap 50)
+```
+
+| Syarat Inisiasi | Deskripsi & Cara Pemenuhan | Dampak Mekanis |
+|---|---|---|
+| **1. Pembukaan Simpul Meridian** | Melalui latihan penempaan fisik, mandi ramuan herbal pembilas kotoran tubuh (*Body Cleansing Herbs* Tier 1), atau bantuan pijat meridian oleh Guru/Tabib. | Membuka 12 Meridian Utama (*Standard Meridian Pattern*) agar Dantian mampu menampung energi Qi. |
+| **2. Asal-Usul Hukum Sah (*Law Origin*)** | Harus memiliki panduan resmi dari salah satu dari 3 jalur sah: bimbingan Guru/Mentor, menemukan Kitab Manual Kultivasi Tier 1, atau Pencerahan Sejati (§4.0). | Menentukan elemen Qi utama yang ditarik ke dalam Dantian. |
+| **3. Kondisi Vitalitas Sehat** | Tubuh dalam kondisi prima (HP & Stamina 100%, Satiety $\ge 50$, serta bebas dari status *Wound Trauma*, *Poison*, atau *Fatigue*). | Mencegah terjadinya kegagalan pernapasan saat Qi pertama kali mengalir. |
+| **4. Poin Pemahaman Awal** | Mengumpulkan **5 Insight Points** dari narasi roleplay (meditasi pernapasan dasar, memahami konsep Dantian, atau latihan fisik). | Memastikan pemain memahami prinsip dasar pengarahan energi batin. |
+
+> 📌 **Catatan AI GM**: Proses inisiasi mortal menuju Body Refining Realm wajib dinarasikan secara imersif (misal: adegan merasakan kehangatan hawa Qi pertama mengalir di perut bawah / Dantian). Begitu inisiasi sukses, statistik karakter otomatis diperbarui menjadi **Body Refining Realm Early Stage (Qi Cap 50)**.
+
+---
+
+## 🌀 3. Struktur Realm Universal & Formula Qi Cap
 
 Terdapat **9 Major Realm** utama di dunia Qianyuan, di mana setiap Realm dibagi menjadi 4 Stage (**Early ×1.0**, **Mid ×1.5**, **Late ×2.0**, **Peak ×2.5**).
 
@@ -57,7 +81,7 @@ QiCap(realm, stage) = RealmBase(realm) × StageMultiplier(stage)
 
 ---
 
-## 🔮 3. Pola Meridian Tubuh (Meridian Patterns)
+## 🔮 4. Pola Meridian Tubuh (Meridian Patterns)
 
 Kualitas fondasi meridian menentukan kapasitas dan kecepatan regenerasi Qi karakter:
 
@@ -70,9 +94,9 @@ Kualitas fondasi meridian menentukan kapasitas dan kecepatan regenerasi Qi karak
 
 ---
 
-## ⚔️ 4. Sistem Asal-Usul Hukum (Law Origin) & Jalur Kultivasi
+## ⚔️ 5. Sistem Asal-Usul Hukum (Law Origin) & Jalur Kultivasi
 
-### 🔐 4.0 Asal-Usul Hukum (Law Origin) — Syarat Sah
+### 🔐 5.0 Asal-Usul Hukum (Law Origin) — Syarat Sah
 Setiap Hukum Kultivasi yang dipraktikkan karakter harus dapat dilacak dari salah satu dari 3 jalur berikut:
 
 | Jalur Asal-Usul | Syarat Sah | Contoh Tidak Sah (Otomatis Ditolak) |
@@ -83,7 +107,7 @@ Setiap Hukum Kultivasi yang dipraktikkan karakter harus dapat dilacak dari salah
 
 ---
 
-### 🌿 4.1 Jalur Hukum Kultivasi Utama Qianyuan (Nine Meridian Laws)
+### 🌿 5.1 Jalur Hukum Kultivasi Utama Qianyuan (Nine Meridian Laws)
 
 #### A. 🪵 Hukum Raga Serat Kayu & Kehidupan (*Wood & Life Qi Law*)
 - **Elemen Dominan**: Wood Qi + Life Qi (*Whispering Root Forest / Vermilion Basin*).
@@ -124,7 +148,7 @@ Setiap Hukum Kultivasi yang dipraktikkan karakter harus dapat dilacak dari salah
 #### G. ☠️ Hukum Racun Miasma & Anggrek Darah (*Poison & Blood Qi Law*)
 - **Elemen Dominan**: Water Qi + Poison Qi (*Nine-Reed Mire*).
 - **Mekanik Unik**: Memberikan bonus kerusakan racun +20% dan kekebalan terhadap miasma rawa.
-- **Kelemahan Wajib**: Mempercepat akumulasi *Sin Points* (§6) saat menggunakan teknik pembusuk Dantian.
+- **Kelemahan Wajib**: Mempercepat akumulasi *Sin Points* (§7) saat menggunakan teknik pembusuk Dantian.
 - **Sekte Pengguna**: Mire Blood Orchid Sect (`25`).
 
 #### H. 🌀 Hukum Anomali Ruang & Takdir (*Fate & Mutated Qi Law*)
@@ -139,7 +163,7 @@ Setiap Hukum Kultivasi yang dipraktikkan karakter harus dapat dilacak dari salah
 
 ---
 
-## 🧪 5. Bahan Minimum Terobosan (Breakthrough Material Floor)
+## 🧪 6. Bahan Minimum Terobosan (Breakthrough Material Floor)
 
 Untuk melakukan terobosan Realm, kultivator wajib memenuhi syarat bahan minimum berikut:
 
@@ -162,7 +186,7 @@ Poin Pemahaman (Insight Points) = WAJIB dari narasi roleplay
 
 ---
 
-## ⚡ 6. Formula Tribulasi Petir & Sistem Karma (Merit vs Sin)
+## ⚡ 7. Formula Tribulasi Petir & Sistem Karma (Merit vs Sin)
 
 Bagi kultivator yang hendak menembus **Realm 7 ke atas (Void Refinement+)**, Langit akan menurunkan kesengsaraan petir (*Heavenly Tribulation*).
 
@@ -184,9 +208,9 @@ KarmaModifier = clamp(1.0 + (Sin_Points - Merit_Points) / 1000, 0.5, 3.0)
 
 ---
 
-## 🗺️ 7. Pemetaan Sekte & Lokasi Ujian Terobosan (Trials & Tribulations)
+## 🗺️ 8. Pemetaan Sekte & Lokasi Ujian Terobosan (Trials & Tribulations)
 
-### 7.1 Pemetaan Sekte Utama Qianyuan
+### 8.1 Pemetaan Sekte Utama Qianyuan
 
 | Sekte / Perguruan Utama | Wilayah Markas | Hukum Utama | Elemen Dominan |
 |---|---|---|---|
@@ -201,21 +225,22 @@ KarmaModifier = clamp(1.0 + (Sin_Points - Merit_Points) / 1000, 0.5, 3.0)
 | **Hollow Wind Sect** (`29`) | Hollow Gale Corridor | Hukum Angin & Gema Suara | Wind + Sound Qi |
 | **Golden Thread Medicine Hall** (`30`)| Ibu Kota Yuanjing | Hukum Penyembuhan Emas | Wood + Life Qi |
 
-### 7.2 Lokasi Ujian & Tribulasi
+### 8.2 Lokasi Ujian & Tribulasi
 - **Trial Kehampaan (Realm 6→7)**: Reruntuhan Gushatta (*Western Deserts*) atau Reruntuhan Kuil Akar Purba (*Whispering Root Forest*).
 - **Tribulasi Petir Realm 7→8**: Platform Tribulasi milik masing-masing sekte utama.
 - **Tribulasi Petir Agung (Realm 8→9)**: **Scar of Heaven / Celah Takdir Purba** (*Fate Scarlands*) — lokasi retakan langit tempat berkumpulnya sembilan arus gaib.
 
 ---
 
-## 🛡️ 8. Checklist Validasi AI GM (Wajib Diperiksa Setiap Terobosan)
+## 🛡️ 9. Checklist Validasi AI GM (Wajib Diperiksa Setiap Inisiasi & Terobosan)
 
+- [ ] Bagi Mortal: Syarat Inisiasi (§2) terpenuhi (pembilasan meridian, Law Origin, vitalitas sehat, 5 Insight Points)?
 - [ ] Hukum/teknik tervalidasi di **Law Origin Log** (bukan klaim instan di momen terobosan)?
 - [ ] Qi Cap karakter $\le \text{Formula Resmi } \text{QiCap}(\text{realm}, \text{stage})$?
-- [ ] Bahan obat & Inti Monster (*Core*) memenuhi syarat minimum §5?
+- [ ] Bahan obat & Inti Monster (*Core*) memenuhi syarat minimum §6?
 - [ ] Tier material sesuai dengan rentang Realm ($\pm 1$ Tier)?
 - [ ] Poin Pemahaman (*Insight Points*) terkumpul sah dari narasi roleplay?
-- [ ] Untuk Realm 7+: Tribulasi Petir sudah dihitung menggunakan formula §6?
+- [ ] Untuk Realm 7+: Tribulasi Petir sudah dihitung menggunakan formula §7?
 - [ ] Perhitungan Karma (Merit vs Sin) jujur berdasarkan riwayat tindakan karakter?
 
-Jika **salah satu** poin di atas tidak terpenuhi $\to$ Terobosan **DITOLAK TOTAL**. AI GM memberikan alasan mekanis yang jelas kepada pemain.
+Jika **salah satu** poin di atas tidak terpenuhi $\to$ Inisiasi/Terobosan **DITOLAK TOTAL**. AI GM memberikan alasan mekanis yang jelas kepada pemain.
