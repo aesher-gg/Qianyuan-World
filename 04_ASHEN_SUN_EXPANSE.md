@@ -1,70 +1,92 @@
-# 04 — ASHEN SUN EXPANSE
+# 🔥 Qianyuan-World — V. Ashen Sun Expanse (Gurun Pasir Ashen Sun)
 
-## 1. Overview
-Ashen Sun Expanse adalah wilayah padang pasir membara dan bukit pasir luas yang diselimuti oleh aura panas terik matahari spiritual. Wilayah ini terkenal dengan kota-kota oasis karavan, rute perdagangan rempah/relik, serta kondisi bertahan hidup (*desert survival*) yang sangat keras.
-
----
-
-## 2. Geography
-* **Medan**: Lautan pasir lepas, bukit pasir bergerak (*shifting dunes*), ngarai batu pasir merah, oasis tersembunyi, dan reruntuhan kota kuno tertimbun pasir.
-* **Iklim**: Sangat panas membara di siang hari, dingin membeku di malam hari.
-* **Batas Wilayah**: Berbatasan dengan Western Sacred Deserts di barat dan Fate Scarlands di selatan.
+> **Modul:** 04 — Ashen Sun Expanse
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
 
 ---
 
-## 3. Qi Ecology
-* **Elemen Qi Dominan**: Fire Qi + Sun Qi.
-* **Kepadatan Qi**: Kering dan Membakar (Sangat kuat di siang hari, menyusut di malam hari).
-* **Fenomena Qi**: *Heat Mirage* — Ilusi optik bernuansa Qi yang memanipulasi jarak dan lokasi oasis bagi pengembara yang kelelahan.
+## Fakta Cepat
+
+| Statistik | Nilai |
+|---|---|
+| **Luas Total** | ± 8,1 juta li² |
+| **Populasi Total** | ± 21 juta jiwa |
+| **Kekayaan Total** | ± 420 juta Tael Perak / Spirit Stones Equivalent |
+| **Jarak Internal** | Oasis dan pos karavan berjarak 200–600 li satu sama lain — medan laut pasir bergeser (*Shifting Dunes*) yang berbahaya |
+| **Qi Density Modifier** | **×1,3 (Fire + Sun Qi)** — memberikan bonus kekuatan serangan elemen Api +20%, namun menurunkan Stamina Max dan memicu dehidrasi jika tanpa pasokan air (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
+| **Monster Khas Wilayah** | Sandstorm Scorpion, Sun Lizard, Dune Camel, Flame-Viper (detail: `20_BESTIARY_ECOLOGY.md`) |
 
 ---
 
-## 4. Settlements
-* **Kota Oasis Sunfire (Sunfire Oasis)**: Kota utama pusat persinggahan karavan, bursa rempah, dan pertukaran informasi gurun.
-* **Benteng Sandgate (Sandgate Post)**: Pos perbatasan bersenjata yang mengawasi arus masuk pengembara dan karavan dagang.
-* **Pasar Debu Merah (Red Dust Market)**: Pasar bebas tempat transaksi relik terkubur dan bahan alkimia gurun.
+## Lokasi Utama & Situs Khusus
+
+### 🏜️ Kota Oasis Sunfire (Sunfire Oasis)
+2.200 li dari Yuanjing. Kota persinggahan karavan terbesar di gurun barat, berpusat di sekeliling mata air spiritual murni, dilindungi oleh formasi penahan badai pasir.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemimpin Oasis Master Yan-Sun** | Penguasa Sunfire Oasis | 95 | Soul Formation, Mid | **234.375** | *Telapak Matahari Membara* — gelombang Qi api panas murni penekan musuh | Tegas, tenang, sangat menjaga keamanan mata air spiritual kota |
+| **Ketua Karavan Red Sand Boss Huo** | Pemimpin Red Sand Caravan | 54 | Core Formation, Peak | **15.625** | *Cambuk Api Gurun* — serangkaian cambukan pedang ber-Qi api memisahkan perkelahian | Pragmatis, berpengalaman navigasi oasis, menghargai kejujuran dagang |
+| **Nona Kedai Air Murni Xiao Mei** | Pemilik kedai minuman penyegar | 29 | Qi Gathering, Late | **500** | *Tebasan Pisau Buah Gurun* — gerakan pisau cepat untuk memotong es/buah | Ceria, pandai mengumpulkan rumor karavan, benci pembeli yang berutang |
 
 ---
 
-## 5. Resources
-* **Bahan Alkimia**: Sunfire Flower, Desert Cactus Essence, Fire Amber.
-* **Mineral**: Sunstone, Flame Crystal, Red Sand Ore.
-* **Relik**: Artifact pecahan kota kuno era pra-Fate Scar.
+### 🏰 Benteng Sandgate (Sandgate Post)
+1.800 li dari Yuanjing (400 li sebelum Sunfire Oasis). Pos pemeriksaan perbatasan bersenjata yang diawasi oleh pasukan Kekaisaran dan pengawal lokal.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Benteng Meng Fire-Blade** | Komandan Sandgate Post | 48 | Core Formation, Early | **6.250** | *Pedang Api Pemotong Badai* — tebasan pedang berenergi api membakar perisai lawan | Kaku, sangat disiplin, memeriksa dokumen kargo karavan secara teliti |
+| **Pengawas Pasokan Air Zhao** | Petugas distribusi air benteng | 39 | Foundation Establishment, Mid | **1.875** | *Cangkul Es Penahan Dehidrasi* — pembentukan Qi dingin tipis meredakan panas | Teliti, tidak menyukai pemborosan air, menolak suap |
 
 ---
 
-## 6. Organizations
-* **Red Sand Caravan (Karavan Pasir Merah)**: Faksi perdagangan dan pengawalan terbesar yang menguasai rute-rute oasis.
-* **Mata Elang Pasir (Dojo/Guild Tentara Bayaran)**: Pengawal karavan dan pemburu monster gurun.
+### 🕌 Reruntuhan Istana Sunken Sun (Buried Sun Palace)
+2.600 li dari Yuanjing. Kompleks istana kuno pra-bencana yang tertimbun pasir lepas, sesekali tersingkap saat terjadi badai pasir agung.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Abu Gurun Master Chi** | Penjaga rahasia reruntuhan | 130 | Soul Formation, Peak | **390.625** | *Naga Abu Membara* — pusaran debu panas melumpuhkan aliran Qi musuh | Misterius, benci pemburu harta karun serakah, menguji keteguhan batin penjelajah |
+| **Buronan Pemburu Relik Mo Blade** | Penjelajah reruntuhan terlarang | 41 | Core Formation, Mid | **9.375** | *Pedang Bayangan Pasir* — tebasan cepat tersamar pasir terbang | Waspada, tanpa ragu menyerang siapa saja yang mengintai barang temuannya |
 
 ---
 
-## 7. Spirit Beasts
-* **Sandstorm Scorpion**: Kalajengking raksasa bermandikan Qi api yang mampu berkamuflase di dalam pasir.
-* **Sun Lizard**: Kadal raksasa pemburu yang memanfaatkan pantulan sinar matahari untuk membutakan mangsa.
-* **Dune Camel**: Binatang beban spiritual yang tahan terhadap dehidrasi dan cuaca ekstrem gurun.
+## Sekte & Faksi Lokal
+
+### 🐪 Red Sand Caravan (Karavan Pasir Merah)
+*Markas Utama: Sunfire Oasis — 2.200 li dari Yuanjing*
+
+Faksi perdagangan, pengawalan logistik, dan navigasi gurun terbesar di Ashen Sun Expanse. *(Lihat `24_RED_SAND_CARAVAN.md`)*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Agung Master Chitu** | Pemimpin Klan Karavan Utama | 85 | Nascent Soul, Mid | **46.875** | *Perisai Cahaya Matahari* — gelombang Qi emas penahan badai gurun | Cerdas, berwibawa, memegang teguh keselamatan anggota karavan dan kargo |
+| **Kepala Pengawal Iron-Dune** | Komandan Armada Unta | 47 | Core Formation, Mid | **9.375** | *Gada Besi Pemecah Pasir* — pukulan gada berat menghancurkan pertahanan musuh | Garang, setia, berpengalaman melumpuhkan monster gurun |
 
 ---
 
-## 8. Economy
-* **Komoditas Utama**: Rempah gurun, kristal elemen api, garam spiritual, minyak tanah spiritual.
-* **Tingkat Harga**: Sangat mahal untuk air bersih dan pakan; sedang untuk bahan elemen api.
-* **Jalur Perdagangan**: Rute Karavan Utama yang menghubungkan wilayah barat dengan Yuanjing.
+### 🦅 Mata Elang Pasir (Dojo / Guild Tentara Bayaran Gurun)
+*Lokasi: Sunfire Oasis & Sandgate Post*
+
+Guild tentara bayaran independen spesialis pengawalan pribadi, perburuan Sandstorm Scorpion, dan misi penyelamatan di laut pasir.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Guild Eagle-Eye Feng** | Pemimpin Mata Elang Pasir | 62 | Core Formation, Peak | **15.625** | *Panah Cahaya Elang* — tembakan panah Qi berakurasi tinggi dari jarak jauh | Tajam, tenang di bawah tekanan, menolak pekerjaan kontrak licik/pembunuhan liar |
 
 ---
 
-## 9. Dangers
-* **Bahaya Lingkungan**: Badai pasir spiritual (*Sandstorm*), dehidrasi ekstrem, perubahan suhu mendadak.
-* **Ancaman Wild**: Serangan kawalan Sandstorm Scorpion di jalur karavan tanpa pengawal.
-* **Konflik Sosial**: Penjarahan karavan oleh bandit padang pasir independen.
+### ⚔️ Sindikat Perampok Pasir Dune-Scar (Lembah Pasir Merah)
+*2.400 li dari Yuanjing — Perbatasan Gurun Barat*
+
+Kawanan penyamun padang pasir yang membajak karavan air dan mencuri barang peninggalan reruntuhan kuno.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kepala Perampok "Sand Viper" Sha-Mu** | Pemimpin penyamun gurun | 45 | Core Formation, Early | **6.250** | *Belati Beracun Api Gurun* — tusukan beracun membakar Dantian lawan | Kejam, licik, menggunakan ilusi pasir untuk menjebak korban kelelahan |
 
 ---
 
-## 10. Events
-* **Keluarnya Relik Pasir Bergeser (Shifting Ruins Unearthing)**: Event musiman di mana badai pasir mengungkap reruntuhan istana kuno selama beberapa hari.
-* **Perang Rute Oasis (Oasis Route Conflict)**: Perebutan hak atas sumber air baru antara karavan dagang.
-
----
-
-## 11. GM Notes
-* Setiap Shichen yang dihabiskan di luar ruangan tanpa perlindungan air/pakaian gurun mengurangi Satiety/Stamina sebesar 15 poin dan berisiko memicu Dehidrasi/Heatstroke.
+## GM Notes & Instructions
+* Berada di Ashen Sun Expanse mengurangi Satiety & Stamina sebesar 15 poin per Shichen jika tidak menggunakan perlindungan air/pakaian gurun.
+* Badai pasir spiritual (*Sandstorm*) memicu penalti visibility dan Hit Rate sebesar -25%.
