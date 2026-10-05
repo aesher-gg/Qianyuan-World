@@ -46,7 +46,7 @@ Cairan Perak Bulan (*Moonlight Liquid*), Batu Bayangan Kuno, Informasi Rahasia P
 
 ## 9. Relations
 * **Sekutu**: Kelompok Racun Bayangan.
-* **Musuh**: Jade Purity Palace (berbenturan doktrin).
+* **Musuh**: Golden Thread Medicine Hall (berbenturan doktrin).
 
 ---
 

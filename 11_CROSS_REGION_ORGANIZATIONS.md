@@ -51,7 +51,7 @@ Setiap organisasi lintas wilayah dideskripsikan mengikuti struktur baku sebagai 
 ### 3.2 Merchant Alliance (Aliansi Pedagang Qianyuan)
 * **Name**: Grand Merchant Alliance
 * **Type**: Konsorsium Ekonomi & Bursa Komoditas
-* **Origin**: Central Plains / Yuanjing
+* **Origin**: Yuanjing Capital
 * **Headquarters**: Financial Ring (Cincin 4, Yuanjing)
 * **Purpose**: Mengatur stabilitas harga, mengelola rute perdagangan darat/laut/udara, dan mengoperasikan rumah lelang pusat.
 * **Leadership**: Dewan Tujuh Saudagar Emas
@@ -131,8 +131,8 @@ Setiap organisasi lintas wilayah dideskripsikan mengikuti struktur baku sebagai 
 ### 3.6 Bounty Tribunal (Tribunal Buronan & Pemburu Hadiah)
 * **Name**: Bounty Tribunal
 * **Type**: Organisasi Penegak Hukum Independen & Bursa Bounties
-* **Origin**: Central Plains
-* **Headquarters**: Central Hall of Justice (Central Plains)
+* **Origin**: Vermilion River Basin
+* **Headquarters**: Vermilion Hall of Justice (Vermilion Port)
 * **Purpose**: Menerbitkan daftar buronan, mengelola hadiah penangkapan (*bounties*), dan memfasilitasi pekerjaan bagi tentara bayaran/pemburu hadiah.
 * **Leadership**: Tiga Hakim Bayangan
 * **Ranks**: Hakim -> Pengawas Buronan -> Pemburu Emas -> Pemburu Perak -> Pemburu Perunggu
