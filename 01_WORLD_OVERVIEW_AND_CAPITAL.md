@@ -1,69 +1,110 @@
-# 01 — WORLD OVERVIEW & CAPITAL
+# 🗺️ Qianyuan-World — Ikhtisar Dunia & Ibu Kota
 
-## 1. Overview
-Qianyuan-World adalah dunia kultivasi spiritual (Xianxia/Wuxia) berukuran luas yang didasari oleh fluktuasi sembilan denyut energi alam gaib yang dikenal sebagai **Nine Meridian Currents**. Dunia ini memadukan konsep realisme keras, pertarungan taktis, dinamika faksi politik, serta hukum kultivasi yang terikat erat pada keselarasan Qi alam.
-
----
-
-## 2. Premis Nine Meridian Currents
-Dunia Qianyuan disokong oleh sembilan arus utama energi spiritual yang mengalir melintasi seluruh benua dan samudra:
-1. **Water Current** — Mempengaruhi aliran sungai, laut, rawa, dan kelembapan spiritual.
-2. **Wood Current** — Mendorong pertumbuhan flora spiritual, hutan, dan energi kehidupan.
-3. **Fire Current** — Membakar gurun, vulkanik, dan energi intensitas matahari.
-4. **Earth Current** — Mengokohkan pegunungan, batuan, tambang, dan kestabilan daratan.
-5. **Metal Current** — Mengandung bijih spiritual, ketajaman alami, dan energi struktur.
-6. **Ice Current** — Mendinginkan wilayah utara, salju abadi, dan energi keheningan.
-7. **Wind Current** — Menggerakkan koridor angin, suara, dan pergerakan udara.
-8. **Star Current** — Mengalirkan energi kosmik, navigasi astral, dan formasi langit.
-9. **Fate Current** — Energi abnormal yang terdistorsi dan terkonsentrasi di wilayah reruntuhan kuno (Fate Scarlands).
+> **Modul:** 01 — World Overview & Capital
+> **Cakupan:** Statistik benua Qianyuan, peta jarak antar-wilayah, Ibu Kota Yuanjing, struktur tujuh cincin, dan NPC Kekaisaran Qianyuan
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `02`–`10` (detail wilayah regional), `11_CROSS_REGION_ORGANIZATIONS.md` (faksi kekaisaran), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (ekonomi pusat)
 
 ---
 
-## 3. Sejarah Singkat Dunia
-* **Era Fondasi (Grand Meridian Era)**: Ketika Nine Meridian Currents pertama kali terpetakan dan manusia mulai memahami konvergensi energi alam untuk membentuk pembukaan meridian tubuh.
-* **Era Perang Dinasti Spiritual**: Konflik antar klan kuno untuk merebutkan titik simpul meridian (*Meridian Nodes*) yang memicu lahirnya garis keturunan klan agung dan pembentukan pilar Kekaisaran Pusat.
-* **Era Bencana Fate Scar**: Kejadian distorsi energi raksasa akibat kehancuran salah satu simpul arus gaib, mengisolasi wilayah Fate Scarlands dan mengubah tatanan hukum ruang-waktu di daerah tersebut.
-* **Era Era Damai Terdistribusi (Era Saat Ini)**: Pembagian wilayah kekuasaan resmi antara Kekaisaran Yuanjing, sepuluh sekte utama, dan federasi pedagang lintas wilayah.
+## I. Ikhtisar Dunia Qianyuan
+
+| Statistik | Nilai |
+|---|---|
+| **Luas Total Benua** | ± 52 juta li² |
+| **Populasi Total** | ± 310 juta jiwa |
+| **Kekayaan Total** | ± 4,5 miliar Tael Perak / Spirit Stones Equivalent |
+| **Fondasi Energi** | Nine Meridian Currents (Water, Wood, Fire, Earth, Metal, Ice, Wind, Star, Fate) |
 
 ---
 
-## 4. Struktur Kekuasaan Global
-Tatanan politik dan kekuasaan di Qianyuan dibagi menjadi empat tingkatan utama:
-1. **Imperial Court (Kekaisaran Yuanjing)**: Pemegang otoritas tertinggi hukum hukum awam dan penyeimbang faksi kultivasi utama.
-2. **Ten Great Sects & Schools**: Organisasi kultivasi dominan yang menguasai wilayah spesifik dan simpul Qi utama.
-3. **Cross-Region Alliances**: Merchant Alliance, Spirit Beast Union, Grand Courier Network, dan Bounty Tribunal yang mengontrol arus ekonomi dan informasi.
-4. **Independent Sects & Wandering Cultivators (Sanxiu)**: Sekte lokal, dojo, dan kultivator independen yang bertahan di antara kekuatan raksasa.
+### Peta Jarak Utama (dari Ibu Kota Yuanjing, Pusat Benua)
+
+| Wilayah Destination | Jarak dari Yuanjing | Waktu Tempuh (Kuda Cepat / Karavan) | Waktu Tempuh (Kultivator Terbang / Core Formation+) | Waktu Tempuh (Kapal Udara Lingzhou) |
+|---|---|---|---|---|
+| **Vermilion River Basin** | 900 li | 4–5 hari | 12 jam | 1 hari |
+| **Blackstone Skyreach** | 1.200 li | 6–7 hari | 18 jam | 1,5 hari |
+| **Ashen Sun Expanse** | 2.200 li | 12–14 hari | 2 hari | 2,5 hari |
+| **Nine-Reed Mire** | 1.700 li | 9–10 hari | 1.5 hari | 2 hari |
+| **Astral Tide Sea** | 1.500 li (+ jalur perahu) | 8–9 hari | 1,2 hari | 1,8 hari |
+| **Whispering Root Forest** | 1.300 li | 7–8 hari | 1 hari | 1,5 hari |
+| **Frostglass Crown** | 2.500 li | 14–16 hari | 2,5 hari | 3 hari |
+| **Hollow Gale Corridor** | 1.800 li | 10–11 hari | 1,5 hari | 2 hari |
+| **Fate Scarlands** | 3.100 li (Zona Terisolasi) | 18–22 hari | 3,5 hari | 4 hari (Terbatas) |
 
 ---
 
-## 5. Yuanjing — Ibu Kota Kekaisaran
-Yuanjing adalah pusat peradaban, politik, dan hukum benua Qianyuan. Kota ini dibangun di atas simpul pertemuan tiga denyut Meridian Currents (Water, Earth, Metal) yang memberikan perlindungan formasi abadi.
+### Jarak Antar-Wilayah Berdekatan (Perbatasan Langsung)
 
-### Struktur Tujuh Cincin Kota (Seven Ring City Structure):
-* **Cincin 1 — Imperial Sanctum (Istana Kekaisaran)**: Kediaman Kaisar, Aula Dewan Agung, dan Formasi Pelindung Inti Kota. Akses sangat terbatas.
-* **Cincin 2 — Noble & Grand Minister District**: Kediaman keluarga klan bangsawan tinggi, jenderal perang, dan pejabat kementerian kultivasi.
-* **Cincin 3 — Great Sect Embassies & Dao Archives**: Perwakilan resmi sekte-sekte besar, perpustakaan Dao kuno pusat, dan Dao Registry.
-* **Cincin 4 — Merchant Guilds & Grand Financial Ring**: Pusat Kantor Alliance Merchant, bursa lelang komoditas spiritual utama, dan Bank Giok Kekaisaran.
-* **Cincin 5 — Craftsmen & Alchemist Enclave**: Bengkel kerja penempaan tingkat tinggi, aula pembuat alkimia, dan pengrajin formasi.
-* **Cincin 6 — Common Resident & Martial Arts Droms**: Pemukiman warga biasa, sekolah bela diri menengah, kedai, dan penginapan pengembara.
-* **Cincin 7 — Outer Marketplace & Transit Hub**: Pelabuhan udara Lingzhou, pasar bebas luar, terminal karavan darat, dan area pemeriksaan migrasi.
+- **Vermilion River Basin ↔ Whispering Root Forest**: 800 li (perbatasan sungai dan kanopi hutan)
+- **Vermilion River Basin ↔ Nine-Reed Mire**: 950 li (perbatasan delta sungai dan rawa)
+- **Blackstone Skyreach ↔ Hollow Gale Corridor**: 1.100 li (perbatasan tebing gunung dan ngarai angin)
+- **Blackstone Skyreach ↔ Frostglass Crown**: 1.400 li (perbatasan pegunungan batu dan gletser es)
+- **Ashen Sun Expanse ↔ Hollow Gale Corridor**: 1.300 li (perbatasan pasir dan lorong angin)
+- **Ashen Sun Expanse ↔ Fate Scarlands**: 1.600 li (garis pembatas perbatasan selatan)
+- **Nine-Reed Mire ↔ Whispering Root Forest**: 750 li (perbatasan rawa dan hutan purba)
+- **Astral Tide Sea ↔ Vermilion River Basin**: 1.050 li (muara sungai menuju laut)
 
----
-
-## 6. Pemerintahan & Hukum Pusat
-* **Hukum Kekaisaran**: Melarang pembunuhan liar warga biasa di area kota, penipuan bursa komoditas utama, serta sabotase formasi publik.
-* **Pengadilan Dao (Dao Registry)**: Mengatur pendaftaran identitas kultivator, izin pendirian sekte/dojo baru, dan pendaftaran hak atas tambang spiritual.
+> 📌 **Catatan Anti-Cheat Perjalanan**: Setiap pergerakan karakter, pengiriman kargo, atau perburuan bahan wajib mematuhi tabel jarak dan durasi waktu di atas. Perjalanan instan tanpa formasi teleportasi resmi Kekaisaran atau Lingzhou kecepatan tinggi dianggap **batal / cheat**.
 
 ---
 
-## 7. Kalender & Konsep Waktu Qianyuan
-* **1 Tahun** = 9 Bulan (sesuai jumlah Nine Meridian Currents).
-* **1 Bulan** = 30 Hari.
-* **1 Hari** = 12 Shichen (1 Shichen = 2 Jam Bumi).
-* **Musim**: Ditentukan oleh arus dominan Meridian Current yang sedang berada pada puncaknya (*Peak Current Season*).
+## II. Ibu Kota & Kekaisaran Yuanjing
+
+### 🏯 Ibu Kota Yuanjing (元晶帝都)
+
+**Populasi**: 4,5 juta jiwa. Pusat pemerintahan Kekaisaran Qianyuan, dibangun di atas simpul konvergensi tiga arus gaib (*Water, Earth, Metal Currents*).
+
+- **Otoritas Pusat**: Kaisar Qianyuan (Kaisar Xuan Yuan), Permaisuri Feng Qingyue, Dewan Empat Menteri Agung.
+- **Karakteristik**: Berdiri melintasi Tujuh Cincin Kota (*Seven Ring Structure*). Memegang teguh Hukum Kekaisaran, memungut pajak spiritual, dan menyeimbangkan persaingan antara sepuluh sekte utama.
+- **Pusat Keuangan**: Kantor Pusat Aliansi Pedagang (*Merchant Alliance*) dan Bursa Lelang Lingzhou utama bertempat di Cincin 4.
 
 ---
 
-## 8. GM Notes & Instructions
-* Saat karakter berada di Yuanjing, hukum kekaisaran berlaku sangat ketat. Pertarungan tanpa izin di Cincin 1–5 akan segera memicu respon dari Imperial Guard.
-* Lingkungan Qi di Yuanjing sangat stabil dan seimbang karena formasi perlindungan tujuh cincin.
+### Structure Tujuh Cincin Kota Yuanjing
+
+1. **Cincin 1 — Imperial Sanctum**: Istana Kaisar & Formasi Inti Pelindung Kota. Akses khusus pejabat tinggi.
+2. **Cincin 2 — Noble & Minister District**: Kediaman keluarga klan bangsawan dan jenderal kekaisaran.
+3. **Cincin 3 — Great Sect Embassies & Dao Archives**: Perwakilan resmi sekte besar dan Dao Registry.
+4. **Cincin 4 — Merchant Guilds & Financial Ring**: Bursa lelang komoditas, Bank Giok, dan markas Merchant Alliance.
+5. **Cincin 5 — Craftsmen & Alchemist Enclave**: Bengkel tempa senjata dan kuali alkimia pusat.
+6. **Cincin 6 — Resident & Martial Arts District**: Pemukiman umum, sekolah bela diri, dan penginapan pengembara.
+7. **Cincin 7 — Outer Marketplace & Transit Hub**: Pelabuhan udara Lingzhou, pasar bebas, dan terminal karavan.
+
+---
+
+### NPC Utama Ibu Kota Yuanjing
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kaisar Xuan Yuan** | Penguasa Kekaisaran Qianyuan | 185 | Nascent Soul, Puncak | **78.125** | *Telapak Segel Sembilan Arus* — hentakan Qi berunsur emas yang menekan aura Dantian lawan | Berwibawa, bijaksana, tidak terburu-buru, namun sangat tegas saat mengeksekusi pelanggar hukum kota |
+| **Permaisuri Feng Qingyue** | Permaisuri Utama & Alchemist Istana | 142 | Core Formation, Puncak | **15.625** | *Jarum Teratai Bintang* — serangan jarum Qi pelumpuh saraf dari balik lengan baju | Cerdas, tenang, berwawasan luas tentang alkimia medis, dingin dalam percaturan politik |
+| **Jenderal Zhao Wu-Tian** | Panglima Pasukan Pengawal Kekaisaran | 120 | Soul Formation, Awal | **156.250** | *Tebasan Pembelah Gunung* — tebasan pedang berat berdaya hancur tinggi | Keras, patuh pada kedisiplinan militer, membenci bandit dan sekte pemberontak |
+| **Kepala Intelijen Mo Ying** | Kepala Biro Pengawasan Bayangan | 98 | Core Formation, Mid | **9.375** | *Langkah Bayangan Senyap* — teknik stealth berpindah posisi tanpa memicu getaran Qi | Pendiam, jarang tersenyum, mengamati dari kegelapan, bertindak secepat kilat jika ada ancaman |
+| **Petugas Dao Lin Shu** | Penguji Sertifikasi Dao Registry | 65 | Foundation Establishment, Mid | **1.875** | *Cermin Deteksi Inti Qi* — teknik pemindaian keaslian Realm dan penyumbatan meridian | Ramah, teliti, taat prosedur pendaftaran identitas kultivator baru |
+| **Pengemis Tua Lu** | Gelandangan misterius Cincin 6 | 210 | Non-Kultivator (Mantan Soul Formation) | — *(Meridian Rusak)* | *Tongkat Bambu Pemutus Keheningan* — refleks fisik ilmu lama tanpa energi Qi | Terlihat pikun dan pemalas, namun pandangannya sangat tajam menganalisis potensi murid muda |
+
+---
+
+### 🌐 Pos Perbatasan Gerban Utama Yuanjing (100 li dari Yuanjing)
+Pos pemeriksaan militer Kekaisaran yang menyaring setiap karavan, perahu udara Lingzhou, dan kultivator yang hendak memasuki area luar kota.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Pos Meng Kang** | Komandan Perbatasan Gerbang Luar | 52 | Foundation Establishment, Peak | **3.125** | *Perisai Zirah Besi Kekaisaran* — formasi pelindung tubuh menahan serangan fisik | Kaku, menolak segala bentuk suap, sangat ketat memeriksa tanda pengenal kultivator |
+| **Inspektur Chen Yan** | Petugas Deteksi Barang Terlarang | 44 | Core Formation, Early | **6.250** | *Mata Pendeteksi Miasma* — penglihatan khusus pendeteksi racun dan bahan terlarang | Cerdik, tidak banyak bicara, mengamati kargo karavan dengan teliti |
+
+---
+
+### 🌿 Lembah Bambu Serat Giok (Imperial Jade Bamboo Valley — 150 li dari Yuanjing)
+Hutan alami bambu spiritual hijau di pinggiran ibu kota. Lingkungan ini dipenuhi aura Wood Qi dan diselimuti kabut embun penenang jiwa.
+* **Bahaya Alam / Debuff**: Mengabaikan formasi jalan dapat memicu disorientasi arah (*Confusion Effect*) dan penalti Movement Speed -10%.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Bambu Qing Xiu** | Mantan Penasihat Istana | 135 | Soul Formation, Early | **156.250** | *Tebasan Daun Bambu Hijau* — lemparan daun ber-Qi yang mampu menembus batu tebal | Menyukai ketenangan, benci kebisingan politik kota, hanya mau berbicara pada orang yang sopan |
+
+---
+
+## III. GM Notes & Instructions
+* Saat karakter berada di Yuanjing, Hukum Kekaisaran berlaku mutlak. Pertarungan tanpa izin di Cincin 1–5 akan segera direspon oleh Pasukan Pengawal Kekaisaran pimpinan Jenderal Zhao Wu-Tian.
+* Gunakan tabel jarak untuk mengalkulasi perjalanan antara Yuanjing dan wilayah luar.
