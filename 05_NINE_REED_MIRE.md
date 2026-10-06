@@ -1,7 +1,7 @@
 # 🌿 Qianyuan-World — VI. Nine-Reed Mire (Rawa Sembilan Alang-Alang)
 
 > **Modul:** 05 — Nine-Reed Mire
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3.3 (efek racun & miasma), `20_BESTIARY_ECOLOGY.md` (monster rawa ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3.3 (efek racun & miasma), `21_BESTIARY_ECOLOGY.md` (monster rawa ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 380 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Pemukiman panggung dan pos rawa berjarak 100–400 li satu sama lain — navigasi menggunakan perahu dayung kayu ringan (*Mire Skiff*) |
 | **Qi Density Modifier** | **×1,3 (Water + Poison Qi)** — memberikan bonus racun +20% bagi praktisi kultivasi racun/miasma, namun memberikan penalti pemulihan HP alami -15% bagi kultivator biasa (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Miasma Python, Swamp Toad, Giant Poison Centipede, Mud Leech (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Miasma Python, Swamp Toad, Giant Poison Centipede, Mud Leech (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -74,7 +74,7 @@
 ### 🌺 Mire Blood Orchid Sect (Sekte Anggrek Darah Rawa)
 *Markas Utama: Blood Orchid Valley — 2.050 li dari Yuanjing*
 
-Sekte penguasa rawa yang mempraktikkan seni racun, racikan alkimia terlarang, dan ilmu pembunuhan terselubung. *(Lihat `25_MIRE_BLOOD_ORCHID_SECT.md`)*.
+Sekte penguasa rawa yang mempraktikkan seni racun, racikan alkimia terlarang, dan ilmu pembunuhan terselubung. *(Lihat `26_MIRE_BLOOD_ORCHID_SECT.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

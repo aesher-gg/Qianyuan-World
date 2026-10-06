@@ -1,4 +1,4 @@
-# 30 — GOLDEN THREAD MEDICINE HALL
+# 31 — GOLDEN THREAD MEDICINE HALL
 
 ## 1. Overview
 Golden Thread Medicine Hall adalah organisasi rumah pengobatan, peneliti alkimia medis, dan perkumpulan tabib terkemuka di benua Qianyuan.

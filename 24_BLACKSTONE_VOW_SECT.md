@@ -1,4 +1,4 @@
-# 23 — BLACKSTONE VOW SECT
+# 24 — BLACKSTONE VOW SECT
 
 ## 1. Overview
 Blackstone Vow Sect adalah sekte kultivasi defensif keras yang menguasai teknik penguatan tubuh (*Body Refining*), penggunaan senjata berat, dan seni penempaan logam di wilayah pegunungan Blackstone Skyreach.

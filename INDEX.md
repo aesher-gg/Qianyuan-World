@@ -51,30 +51,30 @@ Dokumen **INDEX.md** adalah peta navigasi utama dan pintu masuk tunggal (*Master
 | **17** | `17_ROLES_PROFESSIONS_SYSTEM.md` | Primary Role, Secondary Role, Social Role | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/17_ROLES_PROFESSIONS_SYSTEM.md) |
 | **18** | `18_SPIRIT_GARDENING_SYSTEM.md` | Budidaya Herba, Spirit Soil, Pest, Crossbreeding | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/18_SPIRIT_GARDENING_SYSTEM.md) |
 | **19** | `19_BEAST_BOND_SYSTEM.md` | Penjinakan, Kontrak Taming, Trust, Evolusi Beast | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/19_BEAST_BOND_SYSTEM.md) |
-| **20** | `20_BESTIARY_ECOLOGY.md` | Database Makhluk Liar, Habitat, Threat Level, Drops | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/20_BESTIARY_ECOLOGY.md) |
+| **20** | `20_SPIRIT_AIRSHIP_SYSTEM.md` | Sistem Kapal Udara Lingzhou & Transportasi Udara | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/20_SPIRIT_AIRSHIP_SYSTEM.md) |
+| **21** | `21_BESTIARY_ECOLOGY.md` | Database Makhluk Liar, Habitat, Threat Level, Drops | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/21_BESTIARY_ECOLOGY.md) |
 
 ---
 
 ### ⚔️ Specific Sects & Factions
 | Modul | File Name | Fokus & Wilayah Dominan | Raw Link |
 | :--- | :--- | :--- | :--- |
-| **21** | `21_MOONLIT_ABYSS_SECT.md` | Moon + Shadow Qi / Stealth & Ilusi | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/21_MOONLIT_ABYSS_SECT.md) |
-| **22** | `22_RIVER_LANTERN_SCHOOL.md` | Water Martial Arts / Pelayaran Sungai | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/22_RIVER_LANTERN_SCHOOL.md) |
-| **23** | `23_BLACKSTONE_VOW_SECT.md` | Earth + Metal Qi / Body Refining & Forging | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/23_BLACKSTONE_VOW_SECT.md) |
-| **24** | `24_RED_SAND_CARAVAN.md` | Fire + Sun Qi / Karavan Gurun & Survival | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/24_RED_SAND_CARAVAN.md) |
-| **25** | `25_MIRE_BLOOD_ORCHID_SECT.md` | Poison + Water Qi / Racun & Assassination | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/25_MIRE_BLOOD_ORCHID_SECT.md) |
-| **26** | `26_STAR_COMPASS_SCHOOL.md` | Water + Star Qi / Navigasi Bintang & Laut | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/26_STAR_COMPASS_SCHOOL.md) |
-| **27** | `27_ROOTBOUND_COVENANT_SECT.md` | Wood + Life Qi / Hutan & Beast Bond | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/27_ROOTBOUND_COVENANT_SECT.md) |
-| **28** | `28_FROST_EDGE_SCHOOL.md` | Ice + Stillness Qi / Ilmu Pedang Es | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/28_FROST_EDGE_SCHOOL.md) |
-| **29** | `29_HOLLOW_WIND_SECT.md` | Wind + Sound Qi / Kecepatan & Informasi | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/29_HOLLOW_WIND_SECT.md) |
-| **30** | `30_GOLDEN_THREAD_MEDICINE_HALL.md` | Wood + Water Qi / Pengobatan & Diagnosis | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/30_GOLDEN_THREAD_MEDICINE_HALL.md) |
+| **22** | `22_MOONLIT_ABYSS_SECT.md` | Moon + Shadow Qi / Stealth & Ilusi | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/22_MOONLIT_ABYSS_SECT.md) |
+| **23** | `23_RIVER_LANTERN_SCHOOL.md` | Water Martial Arts / Pelayaran Sungai | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/23_RIVER_LANTERN_SCHOOL.md) |
+| **24** | `24_BLACKSTONE_VOW_SECT.md` | Earth + Metal Qi / Body Refining & Forging | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/24_BLACKSTONE_VOW_SECT.md) |
+| **25** | `25_RED_SAND_CARAVAN.md` | Fire + Sun Qi / Karavan Gurun & Survival | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/25_RED_SAND_CARAVAN.md) |
+| **26** | `26_MIRE_BLOOD_ORCHID_SECT.md` | Poison + Water Qi / Racun & Assassination | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/26_MIRE_BLOOD_ORCHID_SECT.md) |
+| **27** | `27_STAR_COMPASS_SCHOOL.md` | Water + Star Qi / Navigasi Bintang & Laut | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/27_STAR_COMPASS_SCHOOL.md) |
+| **28** | `28_ROOTBOUND_COVENANT_SECT.md` | Wood + Life Qi / Hutan & Beast Bond | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/28_ROOTBOUND_COVENANT_SECT.md) |
+| **29** | `29_FROST_EDGE_SCHOOL.md` | Ice + Stillness Qi / Ilmu Pedang Es | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/29_FROST_EDGE_SCHOOL.md) |
+| **30** | `30_HOLLOW_WIND_SECT.md` | Wind + Sound Qi / Kecepatan & Informasi | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/30_HOLLOW_WIND_SECT.md) |
+| **31** | `31_GOLDEN_THREAD_MEDICINE_HALL.md` | Wood + Water Qi / Pengobatan & Diagnosis | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/31_GOLDEN_THREAD_MEDICINE_HALL.md) |
 
 ---
 
-### ☁️ Airship System & Custom Content
+### 🎭 Custom Content & Databases
 | Modul | File Name | Fungsi & Deskripsi | Raw Link |
 | :--- | :--- | :--- | :--- |
-| **31** | `31_SPIRIT_AIRSHIP_SYSTEM.md` | Sistem Kapal Udara Lingzhou & Transportasi Udara | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/31_SPIRIT_AIRSHIP_SYSTEM.md) |
 | **32** | `32_CUSTOM_EVENTS.md` | Database Event Khusus & Krisis Wilayah | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/32_CUSTOM_EVENTS.md) |
 | **33** | `33_CUSTOM_LAWS.md` | Database Hukum Kultivasi Khusus & Kitab Kuno | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/33_CUSTOM_LAWS.md) |
 | **34** | `34_CUSTOM_SECTS.md` | Database Sekte / Dojo Baru Ciptaan Pemain | [Raw Link](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/34_CUSTOM_SECTS.md) |

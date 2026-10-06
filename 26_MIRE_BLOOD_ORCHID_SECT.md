@@ -1,4 +1,4 @@
-# 25 — MIRE BLOOD ORCHID SECT
+# 26 — MIRE BLOOD ORCHID SECT
 
 ## 1. Overview
 Mire Blood Orchid Sect adalah sekte spesialis racun, pengobatan ekstrim, racikan alkimia terlarang, dan seni pembunuhan terselubung di wilayah Nine-Reed Mire.

@@ -1,7 +1,7 @@
 # ❄️ Qianyuan-World — IX. Frostglass Crown (Mahkota Kaca Es)
 
 > **Modul:** 08 — Frostglass Crown
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3 (status hipotermia/frostbite), `20_BESTIARY_ECOLOGY.md` (monster es ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3 (status hipotermia/frostbite), `21_BESTIARY_ECOLOGY.md` (monster es ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 320 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Benteng dan pos gletser berjarak 150–500 li satu sama lain — perjalanan melintasi tebing es terjal dan badai salju abadi |
 | **Qi Density Modifier** | **×1,4 (Ice + Stillness Qi)** — memberikan bonus pertahanan pedang es +20% dan ketahanan fokus mental +15%, namun memicu penalti Stamina -10% per Shichen bagi bukan praktisi es (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Ice-Crystal Wolf, Frost Snow Ape, Glacier Eagle, Snow-Spider (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Ice-Crystal Wolf, Frost Snow Ape, Glacier Eagle, Snow-Spider (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -64,7 +64,7 @@
 ### 🗡️ Frost Edge School (Sekolah Pedang Frost Edge)
 *Markas Utama: Frost-Edge Fortress — 2.500 li dari Yuanjing*
 
-Perguruan utama penguasa teknik ilmu pedang es, meditasi keheningan batin, dan pelindung gletser es abadi. *(Lihat `28_FROST_EDGE_SCHOOL.md`)*.
+Perguruan utama penguasa teknik ilmu pedang es, meditasi keheningan batin, dan pelindung gletser es abadi. *(Lihat `29_FROST_EDGE_SCHOOL.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

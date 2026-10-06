@@ -1,7 +1,7 @@
 # ⛰️ Qianyuan-World — IV. Blackstone Skyreach (Pegunungan Batu Hitam)
 
 > **Modul:** 03 — Blackstone Skyreach
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `21_BESTIARY_ECOLOGY.md` (monster wilayah ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 850 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Benteng dan kota tambang berjarak 100–450 li satu sama lain — medan tebing terjal yang dipenuhi jembatan gantung rantai besi |
 | **Qi Density Modifier** | **×1,4 (Earth + Metal Qi)** — memberikan bonus pertahanan fisik +20% dan efisiensi penempaan senjata/zirah (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Ironclad Bear, Stone Ridge Ape, Cliff Falcon, Iron-Eating Beetle (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Ironclad Bear, Stone Ridge Ape, Cliff Falcon, Iron-Eating Beetle (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 

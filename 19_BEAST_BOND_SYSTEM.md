@@ -1,7 +1,7 @@
 # 19 — BEAST BOND SYSTEM
 
 ## 1. Overview
-Beast Bond System mengatur ikatan, penjinakan (*taming*), pembuatan kontrak (*contract*), serta perkembangan hubungan antara kultivator dan binatang spiritual (*spirit beast*). Modul ini berfokus pada mekanisme hubungan interaktif karakter dengan beast binaannya (berbeda dengan `20_BESTIARY_ECOLOGY.md` yang berfokus pada ekologi alam liar).
+Beast Bond System mengatur ikatan, penjinakan (*taming*), pembuatan kontrak (*contract*), serta perkembangan hubungan antara kultivator dan binatang spiritual (*spirit beast*). Modul ini berfokus pada mekanisme hubungan interaktif karakter dengan beast binaannya (berbeda dengan `21_BESTIARY_ECOLOGY.md` yang berfokus pada ekologi alam liar).
 
 ---
 

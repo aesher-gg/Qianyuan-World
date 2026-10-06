@@ -1,4 +1,4 @@
-# 24 — RED SAND CARAVAN
+# 25 — RED SAND CARAVAN
 
 ## 1. Overview
 Red Sand Caravan adalah konsorsium karavan dagang, tentara bayaran pengawal, dan penyedia logistik utama di wilayah gurun Ashen Sun Expanse.

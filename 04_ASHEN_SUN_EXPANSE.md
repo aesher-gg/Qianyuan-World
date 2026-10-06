@@ -1,7 +1,7 @@
 # 🔥 Qianyuan-World — V. Ashen Sun Expanse (Gurun Pasir Ashen Sun)
 
 > **Modul:** 04 — Ashen Sun Expanse
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `21_BESTIARY_ECOLOGY.md` (monster wilayah ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 420 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Oasis dan pos karavan berjarak 200–600 li satu sama lain — medan laut pasir bergeser (*Shifting Dunes*) yang berbahaya |
 | **Qi Density Modifier** | **×1,3 (Fire + Sun Qi)** — memberikan bonus kekuatan serangan elemen Api +20%, namun menurunkan Stamina Max dan memicu dehidrasi jika tanpa pasokan air (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Sandstorm Scorpion, Sun Lizard, Dune Camel, Flame-Viper (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Sandstorm Scorpion, Sun Lizard, Dune Camel, Flame-Viper (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -56,7 +56,7 @@
 ### 🐪 Red Sand Caravan (Karavan Pasir Merah)
 *Markas Utama: Sunfire Oasis — 2.200 li dari Yuanjing*
 
-Faksi perdagangan, pengawalan logistik, dan navigasi gurun terbesar di Ashen Sun Expanse. *(Lihat `24_RED_SAND_CARAVAN.md`)*.
+Faksi perdagangan, pengawalan logistik, dan navigasi gurun terbesar di Ashen Sun Expanse. *(Lihat `25_RED_SAND_CARAVAN.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

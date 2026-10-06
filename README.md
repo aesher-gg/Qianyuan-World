@@ -15,9 +15,8 @@ Repository Qianyuan-World diorganisasikan ke dalam file `.md` terstruktur sebaga
 * **Gambaran Dunia & Ibu Kota**: `01_WORLD_OVERVIEW_AND_CAPITAL.md` (Nine Meridian Currents & Yuanjing).
 * **Modul Wilayah (02–10)**: Modul geografis, ekologi Qi, dan bahaya regional.
 * **Organisasi Lintas Wilayah**: `11_CROSS_REGION_ORGANIZATIONS.md`.
-* **Sistem Game Inti (12–20)**: Kultivasi, Ekonomi, Vitalitas Tubuh, Pertarungan Taktis, Crafting, Profesi, Kebun Spiritual, Beast Bond, dan Bestiary.
-* **Sekte Spesifik (21–30)**: 10 Sekte/Perguruan utama.
-* **Kapal Udara Lingzhou**: `31_SPIRIT_AIRSHIP_SYSTEM.md`.
+* **Sistem Game Inti (12–21)**: Kultivasi, Ekonomi, Vitalitas Tubuh, Pertarungan Taktis, Crafting, Profesi, Kebun Spiritual, Beast Bond, Kapal Udara Lingzhou, dan Bestiary.
+* **Sekte Spesifik (22–31)**: 10 Sekte/Perguruan utama.
 * **Konten Dinamis (32–35)**: Database Event, Laws, Sects, dan Techniques ciptaan pemain.
 * **Database Pemain**: File `players.md` dan direktori `players/`.
 

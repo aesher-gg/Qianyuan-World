@@ -1,4 +1,4 @@
-# 31 — SPIRIT AIRSHIP SYSTEM
+# 20 — SPIRIT AIRSHIP SYSTEM
 
 ## 1. Overview
 Spirit Airship System (Sistem Kapal Udara / Lingzhou) adalah sistem transportasi udara dan pertempuran armada langit antar-wilayah di Qianyuan-World. Perjalanan menggunakan Lingzhou bukan sekadar narasi pengalihan "beberapa hari kemudian tiba", melainkan gameplay aktif yang melibatkan manajemen bahan bakar, navigasi cuaca, dan pertemuan tak terduga (*encounters*).

@@ -1,7 +1,7 @@
 # 🌊 Qianyuan-World — VII. Astral Tide Sea (Lautan Pasang Astral)
 
 > **Modul:** 06 — Astral Tide Sea
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan maritim), `20_BESTIARY_ECOLOGY.md` (monster laut ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan maritim), `21_BESTIARY_ECOLOGY.md` (monster laut ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 520 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Pelabuhan dan kepulauan berjarak 150–800 li satu sama lain — navigasi menggunakan kapal perang laut atau kapal jelajah (*Cloud Cruiser*) |
 | **Qi Density Modifier** | **×1,1 (Water + Star Qi)** — memberikan bonus pertahanan dan navigasi rasi bintang +15% di bawah langit malam, namun menurunkan efektivitas teknik Api sebesar -25% (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Astral Whale, Sea Serpent, Spotted Coral Shark, Star-Crab (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Astral Whale, Sea Serpent, Spotted Coral Shark, Star-Crab (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -64,7 +64,7 @@
 ### 🧭 Star Compass School (Sekolah Kompas Bintang)
 *Markas Utama: Observatorium Bintang, Pelabuhan Star-Compass — 1.500 li dari Yuanjing*
 
-Sekte penguasa laut dan astronomi yang memadukan Qi air dengan energi rasi bintang (*Water + Star Qi*). *(Lihat `26_STAR_COMPASS_SCHOOL.md`)*.
+Sekte penguasa laut dan astronomi yang memadukan Qi air dengan energi rasi bintang (*Water + Star Qi*). *(Lihat `27_STAR_COMPASS_SCHOOL.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

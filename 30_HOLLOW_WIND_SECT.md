@@ -1,4 +1,4 @@
-# 29 — HOLLOW WIND SECT
+# 30 — HOLLOW WIND SECT
 
 ## 1. Overview
 Hollow Wind Sect adalah sekte gerakan cepat, manipulasi gelombang angin dan suara (*Wind + Sound Qi*), serta jaringan pengintai di wilayah Hollow Gale Corridor.

@@ -1,4 +1,4 @@
-# 26 — STAR COMPASS SCHOOL
+# 27 — STAR COMPASS SCHOOL
 
 ## 1. Overview
 Star Compass School adalah sekolah pelayaran, astronomi, dan formasi maritim yang memadukan Qi air dengan energi rasi bintang (*Water + Star Qi*) di wilayah Astral Tide Sea.

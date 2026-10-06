@@ -1,7 +1,7 @@
 # 🌲 Qianyuan-World — VIII. Whispering Root Forest (Hutan Akar Berbisik)
 
 > **Modul:** 07 — Whispering Root Forest
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `19_BEAST_BOND_SYSTEM.md` (sistem taming & kontrak), `20_BESTIARY_ECOLOGY.md` (monster hutan ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `19_BEAST_BOND_SYSTEM.md` (sistem taming & kontrak), `21_BESTIARY_ECOLOGY.md` (monster hutan ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 360 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Pemukiman dan pos pemburu berjarak 120–450 li satu sama lain — medan kanopi lebat dan labirin akar raksasa |
 | **Qi Density Modifier** | **×1,5 (Wood + Life Qi)** — memberikan bonus pemulihan HP & Stamina alami +25% dan efisiensi taming beast +20% (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Emerald Panther, Wood-Deer, Ancient Bear, Green Vine Snake (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Emerald Panther, Wood-Deer, Ancient Bear, Green Vine Snake (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -64,7 +64,7 @@
 ### 🌿 Rootbound Covenant Sect (Sekte Perjanjian Akar)
 *Markas Utama: Ancient Tree Sanctuary — 1.600 li dari Yuanjing*
 
-Sekte penguasa hutan yang mempraktikkan kultivasi kayu, penyembuhan murni, dan kontrak simbiosis dengan binatang spiritual. *(Lihat `27_ROOTBOUND_COVENANT_SECT.md`)*.
+Sekte penguasa hutan yang mempraktikkan kultivasi kayu, penyembuhan murni, dan kontrak simbiosis dengan binatang spiritual. *(Lihat `28_ROOTBOUND_COVENANT_SECT.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

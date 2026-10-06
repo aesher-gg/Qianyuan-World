@@ -1,4 +1,4 @@
-# 21 — MOONLIT ABYSS SECT
+# 22 — MOONLIT ABYSS SECT
 
 ## 1. Overview
 Moonlit Abyss Sect adalah sekte kultivasi misterius yang menyerap energi rembulan dan bayangan (*Moon + Shadow Qi*). Sekte ini bergerak dalam kerahasiaan malam, terkenal akan ilmu pedang bayangan, manipulasi ilusi, serta seni pembunuhan dan pengintaian.

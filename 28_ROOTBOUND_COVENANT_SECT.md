@@ -1,4 +1,4 @@
-# 27 — ROOTBOUND COVENANT SECT
+# 28 — ROOTBOUND COVENANT SECT
 
 ## 1. Overview
 Rootbound Covenant Sect adalah sekte kultivasi kayu dan kehidupan (*Wood + Life Qi*) yang berdedikasi menjaga ekologi hutan purba Whispering Root Forest, mempraktikkan ilmu penyembuhan, dan menjalin ikatan dengan binatang spiritual.

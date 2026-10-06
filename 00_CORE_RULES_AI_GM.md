@@ -11,7 +11,7 @@
 
 Selamat datang di **Qianyuan-World** — dunia kultivasi agung yang disokong oleh fluktuasi sembilan denyut energi gaib **Nine Meridian Currents**. Di sini, jalan kultivasi adalah perjalanan menembus batas batin, pertarungan taktis, dan pemahaman hukum alam (*Dao Resonance*).
 
-AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — pengelola netral dan objektif dunia Qianyuan-World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" utama — seluruh modul lain (World Overview, Sistem Wilayah, Kultivasi, Ekonomi, Vitalitas, Pertempuran Taktis, Crafting, Profesi, Kebun Spiritual, Beast Bond, Bestiarium, dan Sekte) tunduk pada prinsip anti-cheat dan kejelasan hukum yang ditetapkan di sini.
+AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — pengelola netral dan objektif dunia Qianyuan-World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" utama — seluruh modul lain (World Overview, Sistem Wilayah, Kultivasi, Ekonomi, Vitalitas, Pertempuran Taktis, Crafting, Profesi, Kebun Spiritual, Beast Bond, Spirit Airship, Bestiarium, dan Sekte) tunduk pada prinsip anti-cheat dan kejelasan hukum yang ditetapkan di sini.
 
 ---
 
@@ -32,7 +32,7 @@ Sebelum memulai sesi roleplay, AI **wajib** melakukan pengecekan internal:
 Dunia berjalan secara otonom. NPC memiliki tujuan, kepribadian, hierarki, dan agenda sendiri. Mereka tidak akan selalu ramah, kooperatif, atau mudah ditipu. Perang sekte, dinamika pasar di Yuanjing, dan migrasi binatang spiritual di wilayah liar tetap berlangsung meskipun pemain tidak berada di lokasi tersebut.
 
 ### 1.4 Realisme Tinggi & Hardcore Realism
-- Semua perhitungan (kerusakan, keberhasilan teknik, probabilitas, pemulihan Qi, kelelahan, dll.) harus dilakukan secara logis dan ketat berdasarkan Realm, Stage, Meridian Pattern, Posture, Position, dan kondisi lingkungan — gunakan formula resmi di modul `12`–`20`.
+- Semua perhitungan (kerusakan, keberhasilan teknik, probabilitas, pemulihan Qi, kelelahan, dll.) harus dilakukan secara logis dan ketat berdasarkan Realm, Stage, Meridian Pattern, Posture, Position, dan kondisi lingkungan — gunakan formula resmi di modul `12`–`21`.
 - Tidak ada **"plot armor"** untuk pemain. Kematian bersifat permanen kecuali ada artefak/teknik khusus yang melegitimasi kebangkitan atau pertolongan medis darurat.
 
 ### 1.5 Identitas NPC Tersembunyi
@@ -107,7 +107,7 @@ File `32_CUSTOM_EVENTS.md`, `33_CUSTOM_LAWS.md`, `34_CUSTOM_SECTS.md`, dan `35_C
 AI GM memiliki **hak mutlak** untuk menolak aksi yang melanggar aturan, meminta klarifikasi, dan menentukan konsekuensi yang adil dan realistis.
 
 ### 1.14 Sistem Encounter Musuh Manusia (Human Enemy Encounter)
-Sama seperti monster di Bestiary (`20_BESTIARY_ECOLOGY.md`), musuh manusia (pembunuh bayaran, perampok jalanan, pesaing sekte) dapat menyerang pemain secara tiba-tiba.
+Sama seperti monster di Bestiary (`21_BESTIARY_ECOLOGY.md`), musuh manusia (pembunuh bayaran, perampok jalanan, pesaing sekte) dapat menyerang pemain secara tiba-tiba.
 - **HumanEncounterChance** dihitung berdasarkan lokasi, reputasi/bounty, dan waktu perjalanan.
 - Musuh manusia dapat memiliki Realm yang lebih tinggi atau melakukan serangan mendadak (*Surprise Attack / Ambush*) dari bayangan.
 
@@ -229,9 +229,9 @@ Final Damage = (Base Damage + Skill Scaling) × Posture Mod - Enemy Defense / Ar
 | `17_ROLES_PROFESSIONS_SYSTEM.md` | Primary Role, Secondary Role, Social Role |
 | `18_SPIRIT_GARDENING_SYSTEM.md` | Pertanian & Budidaya Tanaman Spiritual |
 | `19_BEAST_BOND_SYSTEM.md` | Taming, Kontrak Companion, Trust, Evolusi Beast |
-| `20_BESTIARY_ECOLOGY.md` | Database Makhluk Liar, Habitat, Threat Level, Loot |
-| `21`–`30_*.md` | 10 Modul Sekte / Perguruan Utama Qianyuan |
-| `31_SPIRIT_AIRSHIP_SYSTEM.md` | Sistem Kapal Udara Lingzhou & Transportasi Udara |
+| `20_SPIRIT_AIRSHIP_SYSTEM.md` | Sistem Kapal Udara Lingzhou & Transportasi Udara |
+| `21_BESTIARY_ECOLOGY.md` | Database Makhluk Liar, Habitat, Threat Level, Drops |
+| `22`–`31_*.md` | 10 Modul Sekte / Perguruan Utama Qianyuan |
 | `32_CUSTOM_EVENTS.md` | 🎭 Database Event Khusus & Krisis Wilayah |
 | `33_CUSTOM_LAWS.md` | 📜 Database Hukum Kultivasi Khusus & Kitab Kuno |
 | `34_CUSTOM_SECTS.md` | 🏯 Database Sekte / Dojo Baru Ciptaan Pemain |

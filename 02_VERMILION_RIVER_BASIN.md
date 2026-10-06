@@ -1,7 +1,7 @@
 # 🌊 Qianyuan-World — III. Vermilion River Basin (Lembah Sungai Vermilion)
 
 > **Modul:** 02 — Vermilion River Basin
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `21_BESTIARY_ECOLOGY.md` (monster wilayah ini)
 
 ---
 
@@ -14,7 +14,7 @@
 | **Kekayaan Total** | ± 720 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Kota dan desa di sepanjang sungai berjarak 80–350 li satu sama lain — wilayah jalur air utama yang sangat hidup |
 | **Qi Density Modifier** | **×1,2 (Water + Wood Qi)** — memberikan bonus pemulihan Qi +20% untuk penggunan teknik Air & Kehidupan (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Vermilion Carp, Mud Crocodile, Misty Heron, Giant Water Snake (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Vermilion Carp, Mud Crocodile, Misty Heron, Giant Water Snake (detail: `21_BESTIARY_ECOLOGY.md`) |
 
 ---
 
@@ -81,7 +81,7 @@ Sekte penguasa pelayaran dan keamanan sungai. Berfokus pada seni bertarung di at
 ### 🏥 Golden Thread Medicine Hall (Cabang Lembah Riverine)
 *Lokasi: Pelabuhan Zhuque & Desa Bunga Embun*
 
-Cabang utama organisasi medis benua yang mengelola pembelian herba segar dan rumah pengobatan gratis bagi masyarakat sungai. *(Lihat `30_GOLDEN_THREAD_MEDICINE_HALL.md`)*.
+Cabang utama organisasi medis benua yang mengelola pembelian herba segar dan rumah pengobatan gratis bagi masyarakat sungai. *(Lihat `31_GOLDEN_THREAD_MEDICINE_HALL.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|

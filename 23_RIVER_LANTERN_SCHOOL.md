@@ -1,4 +1,4 @@
-# 22 — RIVER LANTERN SCHOOL
+# 23 — RIVER LANTERN SCHOOL
 
 ## 1. Overview
 River Lantern School adalah sekolah bela diri dan pelayaran yang menguasai ilmu pertarungan air (*Water Martial Arts*) dan navigasi sungai. Faksi ini menjadi penguasa keamanan lalu lintas air di sepanjang aliran Sungai Vermilion.

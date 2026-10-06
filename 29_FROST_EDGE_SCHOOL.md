@@ -1,4 +1,4 @@
-# 28 — FROST EDGE SCHOOL
+# 29 — FROST EDGE SCHOOL
 
 ## 1. Overview
 Frost Edge School adalah perguruan tinggi ilmu pedang es (*Ice Swordsmanship*) dan meditasi keheningan batin yang berpusat di wilayah gletser Frostglass Crown.

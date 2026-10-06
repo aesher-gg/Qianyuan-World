@@ -1,4 +1,4 @@
-# 20 — BESTIARY ECOLOGY
+# 21 — BESTIARY ECOLOGY
 
 ## 1. Overview
 Bestiary Ecology adalah dokumen database dan aturan ekologi alam liar bagi seluruh makhluk spiritual (*spirit beasts*) dan monster di benua Qianyuan. Modul ini mendefinisikan sifat ekologis, habitat, tingkatan ancaman, serta perilaku alami makhluk liar di alam bebas (berbeda dari `19_BEAST_BOND_SYSTEM.md` yang mengatur hubungan bonding dengan pemain).
