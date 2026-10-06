@@ -1,7 +1,7 @@
 # 🌊 Qianyuan-World — VII. Astral Tide Sea (Lautan Pasang Astral)
 
 > **Modul:** 06 — Astral Tide Sea
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan maritim), `20_BESTIARY_ECOLOGY.md` (monster laut ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `11_CROSS_REGION_ORGANIZATIONS.md` (Merchant Alliance & Sea Captains Guild), `12_CULTIVATION_RESONANCE_SYSTEM.md` §6 (kalkulasi QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (bursa mutiara & grade barang), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan maritim & perahu), `20_BESTIARY_ECOLOGY.md` (monster laut ini), `21_MOONLIT_ABYSS_SECT.md` (sekte abiss), `26_STAR_COMPASS_SCHOOL.md` (sekte utama), `31_SPIRIT_AIRSHIP_SYSTEM.md` (transportasi laut & udara)
 
 ---
 
@@ -15,6 +15,22 @@
 | **Jarak Internal** | Pelabuhan dan kepulauan berjarak 150–800 li satu sama lain — navigasi menggunakan kapal perang laut atau kapal jelajah (*Cloud Cruiser*) |
 | **Qi Density Modifier** | **×1,1 (Water + Star Qi)** — memberikan bonus pertahanan dan navigasi rasi bintang +15% di bawah langit malam, namun menurunkan efektivitas teknik Api sebesar -25% (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
 | **Monster Khas Wilayah** | Astral Whale, Sea Serpent, Spotted Coral Shark, Star-Crab (detail: `20_BESTIARY_ECOLOGY.md`) |
+
+---
+
+## Bahaya Alam Laut & Palung Dalam (Environmental Hazards)
+
+Eksplorasi di lautan lepas dan palung bawah laut Astral Tide Sea menyimpan ancaman alamiah yang menguji ketahanan fisik serta pertahanan aura kultivator:
+
+1. **🌊 Tekanan Meremukkan Palung Gelap (*Abyssal Crushing Pressure*)**
+   - **Lokasi Dampak:** Zona Palung Gelap (*Astral Abyss*) pada kedalaman lebih dari 800 meter.
+   - **Efek Mekanis:** Tekanan air raksasa tanpa sinar matahari yang langsung meremukkan raga tanpa perisai Qi aktif. Memicu status *Crushing Pressure & Suffocation* (kerusakan HP fisik **20–50 poin per Shichen** dan penalti Movement Speed -40%).
+2. **🌪️ Badai Pasang Astral (*Astral Tide Storms*)**
+   - **Lokasi Dampak:** Perairan lepas laut timur saat konyjungsi rasi bintang malam.
+   - **Efek Mekanis:** Gelombang pasang raksasa bercahaya yang mengocok kestabilan perahu/kapal. Memicu pemeriksaan kestabilan Posture (*Balance Check*) dengan penalti mendadak *Severely Off-Balance*, serta risiko kapal karam jika formasi pelindung runtuh.
+3. **🌌 Miasma Kabut Pasang (*Mist Tide Miasma*)**
+   - **Lokasi Dampak:** Kepulauan Karang Gelap dan muara laut dangkal.
+   - **Efek Mekanis:** Uap air laut bercahaya bintang yang membiaskan cahaya dan mengacaukan fungsi kompas biasa. Memicu status *Navigation Disorientation* (penalti Hit Rate/Accuracy -20% dan risiko tersesat di perairan lepas).
 
 ---
 
@@ -59,6 +75,33 @@
 
 ---
 
+### 🏮 🆕 Mercusuar Formasi Bintang Terluar (Outer Star Formations Lighthouse)
+1.350 li dari Yuanjing (150 li sebelum Pelabuhan Star-Compass). Menara pemancar Qi bintang yang dibangun di atas tebing karang terisolasi untuk membimbing kapal menembus badai laut.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penjaga Mercusuar Old Star-Guang** | Pengawas Pemancar Qi Bintang | 65 | Foundation Establishment, Peak | **3.125** | *Sinar Lentera Penembus Kabut* — tembakan berkas cahaya Qi pembuka pandangan | Pendiam, sangat teliti merawat kanta kristal bintang, setia pada tugasnya |
+
+---
+
+### 🏛️ 🆕 Reruntuhan Kota Bawah Laut (Sunken Citadel Ruins)
+2.600 li dari Yuanjing (200 li melintasi Palung Bintang Bawah Laut). Reruntuhan struktur batu purba pra-bencana yang tenggelam di kedalaman 1.200 meter, menyimpan batu meteorit *Astral Crystal*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Entitas Penjaga Sunken Citadel** | Roh formasi pelindung batu purba | — | Setara Void Refinement, Early | **781.250** | *Gelombang Pusaran Air Purba* — ledakan aura tekanan air raksasa penolak penyusup | Tanpa emosi, bereaksi otomatis menyerang siapapun yang berniat merusak reruntuhan |
+
+---
+
+### 🏴‍☠️ 🆕 Gua Kepulauan Karang Gelap (Dark Coral Isle Cave)
+2.100 li dari Yuanjing (250 li di timur laut Benteng Pulau Coral). Gua karang tersembunyi yang menjadi markas armada bajak laut *Black Flag Astral Pirates*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Wakil Bajak "Sea-Viper" Ah-Lang** | Perencana Serangan Perahu Bajak | 36 | Foundation Establishment, Late | **2.500** | *Belati Beracun Duri Karang* — tusukan cepat beracun melumpuhkan saraf lawan | Licik, pengecut, hanya berani menyerang kapal kargo yang terpisah dari armada pengawal |
+
+---
+
 ## Sekte & Faksi Lokal
 
 ### 🧭 Star Compass School (Sekolah Kompas Bintang)
@@ -74,6 +117,24 @@ Sekte penguasa laut dan astronomi yang memadukan Qi air dengan energi rasi binta
 
 ---
 
+### 🌙 Moonlit Abyss Sect (Sekte Jurang Bulan)
+*Markas Utama: Abyss Sanctum, Pulau Terisolasi — 1.800 li dari Yuanjing*
+
+Sekte kultivasi misterius yang bergerak dalam kerahasiaan malam, memadukan Niat Pedang dengan energi bulan perak (*Moon Qi*) dan pembelokan bayangan (*Shadow Qi*). *(Lihat `21_MOONLIT_ABYSS_SECT.md`)*.
+
+---
+
+### ⛵ 🆕 Serikat Kapten Laut "Bintang Timur" (Eastern Star Sea Captains Guild)
+*Lokasi: Pelabuhan Star-Compass & Benteng Pulau Coral*
+
+Jaringan nakhoda kapal independen yang mengandalkan sertifikasi navigasi Star Compass School untuk mengawal kargo dagang internasional.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Laut Captain Hai-Long** | Pemimpin Serikat Kapten Laut | 52 | Core Formation, Early | **6.250** | *Kemudi Besi Pemutus Ombak* — dorongan Qi air penstabil haluan kapal saat badai | Berani, jujur, memegang teguh keselamatan penumpang dan kargo laut |
+
+---
+
 ### 🏴‍☠️ Bajak Laut Astral Bendera Hitam (Kepulauan Karang Gelap)
 *2.100 li dari Yuanjing — Perairan Lepas Pesisir Timur*
 
@@ -86,5 +147,6 @@ Armada raider laut independen yang menyergap kapal dagang kargo tanpa formasi pe
 ---
 
 ## GM Notes & Instructions
-* Berada di Astral Tide Sea pada malam hari berbintang memberikan bonus jangkauan teknik formasi sebesar +20%.
-* Pertarungan di bawah air di Zona Palung Gelap memerlukan perisai Qi khusus agar tidak terkena debuff suffocating & crushing pressure.
+* Berada di Astral Tide Sea pada malam hari berbintang memberikan bonus jangkauan teknik formasi dan navigasi sebesar **+20%**.
+* Pertarungan di bawah air di Zona Palung Gelap memerlukan perisai Qi khusus agar tidak terkena debuff *Suffocating & Crushing Pressure*.
+* Teknik bertipe Api (*Fire-based techniques*) mengalami penurunan efektivitas damage sebesar **-25%** di seluruh wilayah maritim ini.
