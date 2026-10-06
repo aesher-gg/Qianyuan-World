@@ -77,6 +77,7 @@
 > **Sifat Wajib:** READ-ONLY bagi AI GM selama roleplay berlangsung. AI GM memanggil file spesifik di `players/` HANYA saat karakter baru dimuat pertama kali (Jalur A di `00_CORE_RULES_AI_GM.md`).
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 (3 jalur input pemain), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (mata uang & item), `17_ROLES_PROFESSIONS_SYSTEM.md` (role & profesi)
 
+
 ---
 
 ## 🛠️ 4. Panduan Inisiasi Karakter Baru AI GM
