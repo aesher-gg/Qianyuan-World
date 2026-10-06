@@ -72,18 +72,3 @@
 [1–2 paragraf: siapa dia, sifatnya, motivasinya, relasi penting dengan NPC kanon jika ada]
 
 ```
-
----
-
-## 🛠️ 4. Panduan Inisiasi Karakter Baru AI GM
-
-Saat AI GM menerima giliran pertama dari pemain, AI GM wajib mengidentifikasi Jalur Input Karakter (§1.6 di `00`):
-
-1. **Jalur A (Karakter Katalog Terdaftar)**: AI GM membaca file di `players/<character_name>.md`, memuat seluruh nilai atribut di atas ke dalam blok "Profil Karakter" di balasan pertama, dan menarasikan awal kedatangan karakter di lokasi spesifik.
-2. **Jalur B (Melanjutkan Sesi Sebelumnya)**: AI GM mengambil data dari blok "Profil Karakter" terakhir yang ditempelkan pemain tanpa menyentuh folder `players/`.
-3. **Jalur C (Karakter Spontan Baru)**: AI GM menggunakan statistik default awal untuk *Body Refining Realm Early Stage*:
-   - `QiCap`: **50**
-   - `HPMax`: **25** (`50 × 0.5`)
-   - `Stamina`: **100** | `Satiety`: **100** | `Focus`: **100** | `Resolve`: **100** | `Fatigue`: **0**
-   - `Mata Uang`: 50 Silver Taels & 100 Copper Taels.
-   - `Equipment`: Pakaian Baju Kain Biasa & Pedang/Pisau Besi Tua.
