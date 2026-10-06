@@ -24,8 +24,8 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| - | - | - | - | -|
-| - | - | - | - |
+| **Lin Feng** *(contoh)* | Kota Vermilion Port, Vermilion River Basin | Foundation Establishment, Early | River Lantern School (Murid Luar) | [`Lin_Feng.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Lin_Feng.md) |
+| **Ye Chen** | Benteng Skyreach, Blackstone Skyreach | Body Refining, Early | Blackstone Vow Sect (Murid Magang) | [`Ye_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Ye_Chen.md) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
@@ -70,5 +70,4 @@
 
 **Latar Belakang & Kepribadian:**
 [1–2 paragraf: siapa dia, sifatnya, motivasinya, relasi penting dengan NPC kanon jika ada]
-
 ```
