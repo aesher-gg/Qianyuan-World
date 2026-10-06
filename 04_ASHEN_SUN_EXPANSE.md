@@ -1,7 +1,7 @@
 # 🔥 Qianyuan-World — V. Ashen Sun Expanse (Gurun Pasir Ashen Sun)
 
 > **Modul:** 04 — Ashen Sun Expanse
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `11_CROSS_REGION_ORGANIZATIONS.md` (Merchant Alliance & Serikat Karavan), `12_CULTIVATION_RESONANCE_SYSTEM.md` §6 (kalkulasi QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (bursa kristal api & air), `14_VITALITY_BODY_SYSTEM.md` (dehidrasi & status panas), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan pasir & badai), `20_BESTIARY_ECOLOGY.md` (monster gurun ini), `24_RED_SAND_CARAVAN.md` (sekte utama), `29_HOLLOW_WIND_SECT.md` (sekte tetangga)
 
 ---
 
@@ -15,6 +15,22 @@
 | **Jarak Internal** | Oasis dan pos karavan berjarak 200–600 li satu sama lain — medan laut pasir bergeser (*Shifting Dunes*) yang berbahaya |
 | **Qi Density Modifier** | **×1,3 (Fire + Sun Qi)** — memberikan bonus kekuatan serangan elemen Api +20%, namun menurunkan Stamina Max dan memicu dehidrasi jika tanpa pasokan air (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
 | **Monster Khas Wilayah** | Sandstorm Scorpion, Sun Lizard, Dune Camel, Flame-Viper (detail: `20_BESTIARY_ECOLOGY.md`) |
+
+---
+
+## Bahaya Alam Gurun & Badai Pasir (Environmental Hazards)
+
+Eksplorasi di hamparan laut pasir panas dan bukit pasir bergeser Ashen Sun Expanse menyimpan ancaman alamiah yang sangat ganas bagi kultivator:
+
+1. **🏜️ Sengatan Terik Dehidrasi (*Sunfire Dehydration Heat*)**
+   - **Lokasi Dampak:** Seluruh padang pasir terbuka di luar zona oasis.
+   - **Efek Mekanis:** Suhu udara ekstrem di bawah sengatan *Sun Qi* menguras Stamina & Satiety sebesar **-15 poin per Shichen** (`14`). Tanpa pasokan air minum spiritual atau pakaian pelindung panas, karakter menderita status *Heatstroke / Exhaustion* (penalti Movement Speed -30% dan pemulihan Qi berkurang -25%).
+2. **🌪️ Badai Pasir Spiritual (*Great Sandstorm Storms*)**
+   - **Lokasi Dampak:** Jalur laut pasir bergeser dan lereng bukit pasir barat.
+   - **Efek Mekanis:** Angin kencang bersuhu tinggi membawa jutaan butir pasir ber-Qi api. Memicu status *Sandstorm Blindness* (jarak pandang berkurang hingga kurang dari 3 meter, penalti Accuracy/Hit Rate -25%, dan risiko terpisah dari rombongan karavan).
+3. **⏳ Pasir Isap Bergeser (*Shifting Quicksand Dunes*)**
+   - **Lokasi Dampak:** Lembah Pasir Merah Kelam dan sekitar reruntuhan tertimbun.
+   - **Efek Mekanis:** Perangkap pasir hisap yang berputar mengikuti getaran langkah kaki. Memicu pemeriksaan Agility/Strength dengan risiko terperangkap (*Entangled*), serta risiko kelemahan pernapasan (*Suffocation Danger*) jika tenggelam lebih dari 2 Shichen.
 
 ---
 
@@ -51,6 +67,33 @@
 
 ---
 
+### 💧 🆕 Pos Pengawas Sumur Batu Gurun (Stone Well Watchpost)
+2.000 li dari Yuanjing (200 li sebelum Sunfire Oasis). Pos menara batu pengawas yang melindungi sumur air spiritual tua di tengah rute karavan gurun tengah.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Sumur Feng-Sha** | Komandan Pengawal Sumur Batu | 45 | Core Formation, Early | **6.250** | *Panah Api Penembus Kabut Pasir* — tembakan panah Qi api presisi tinggi | Disiplin, tegas, sangat menjaga kebersihan pasokan air sumur |
+
+---
+
+### 🏛️ 🆕 Gua Reruntuhan Altar Api Purba (Ancient Flame Altar Ruins)
+2.750 li dari Yuanjing (150 li melintasi Reruntuhan Istana Sunken Sun). Reruntuhan altar batu tempat pemujaan matahari purba yang menyimpan batu kristal *Sunfire Gem* murni.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Entitas Penjaga Altar Api Purba** | Roh formasi pelindung altar | — | Setara Void Refinement, Early | **781.250** | *Gelombang Api Surya Purba* — ledakan aura panas raksasa membakar perisai Qi | Tanpa emosi, bereaksi otomatis menyerang siapapun yang berniat merusak altar |
+
+---
+
+### 🏜️ 🆕 Lembah Pasir Merah Kelam (Dark Red Sand Valley)
+2.400 li dari Yuanjing (200 li di selatan Sunfire Oasis). Lembah pasir terpencil berbukit terjal yang menjadi sarang perampok *Dune-Scar Outlaws*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemburu Pasir Ah-Lian** | Pemandu penjelajah bukit pasir | 30 | Foundation Establishment, Early | **1.250** | *Langkah Melayang Di Atas Pasir* — pergerakan cepat tanpa meninggalkan jejak kaki | Pendiam, berpengalaman membaca pergerakan buata gurun, jujur |
+
+---
+
 ## Sekte & Faksi Lokal
 
 ### 🐪 Red Sand Caravan (Karavan Pasir Merah)
@@ -76,6 +119,17 @@ Guild tentara bayaran independen spesialis pengawalan pribadi, perburuan Sandsto
 
 ---
 
+### 💎 🆕 Serikat Penambang Kristal Api "Batu Surya" (Sunfire Crystal Miners Guild)
+*Lokasi: Sunfire Oasis & Sandgate Post*
+
+Jaringan ekstraktor mineral independen yang mengekstraksi *Sunfire Gem*, *Flame Ore*, dan kristal api dari bukit pasir panas untuk disuplai ke benteng tempa benua.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Kristal Master Yan-Chun** | Pemimpin Serikat Batu Surya | 51 | Core Formation, Early | **6.250** | *Perisai Kargo Api Surya* — benteng aura Qi pelindung mineral dari panas | Cerdik, berpengalaman menilai grade kristal api, pandai berbisnis |
+
+---
+
 ### ⚔️ Sindikat Perampok Pasir Dune-Scar (Lembah Pasir Merah)
 *2.400 li dari Yuanjing — Perbatasan Gurun Barat*
 
@@ -88,5 +142,6 @@ Kawanan penyamun padang pasir yang membajak karavan air dan mencuri barang penin
 ---
 
 ## GM Notes & Instructions
-* Berada di Ashen Sun Expanse mengurangi Satiety & Stamina sebesar 15 poin per Shichen jika tidak menggunakan perlindungan air/pakaian gurun.
-* Badai pasir spiritual (*Sandstorm*) memicu penalti visibility dan Hit Rate sebesar -25%.
+* Berada di Ashen Sun Expanse memberikan bonus kekuatan serangan elemen Api sebesar **+20%**.
+* Eksplorasi gurun pasir menguras Satiety & Stamina sebesar **-15 poin per Shichen** jika tidak menggunakan pasokan air spiritual atau pakaian pelindung gurun.
+* Terjadinya badai pasir spiritual (*Great Sandstorm*) memicu penalti visibility dan Hit Rate/Accuracy sebesar **-25%**.
