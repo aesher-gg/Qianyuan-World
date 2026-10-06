@@ -24,8 +24,8 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| - | - | - | - | [-|
-| - | - | - | [- |
+| - | - | - | - | -|
+| - | - | - | - |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
