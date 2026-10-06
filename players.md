@@ -1,94 +1,70 @@
-# 📇 Qianyuan-World — Players (Katalog Data Karakter Awal)
+## 📇 1. Overview & Aturan Read-Only Katalog
 
-> **Modul:** players — dirujuk lewat `INDEX.md` §3, HANYA dipakai saat karakter yang namanya terdaftar di sini dimainkan untuk **pertama kali**.
-> **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** Ini murni katalog & referensi **data awal** karakter — bukan sistem save, bukan checkpoint, bukan status terkini. AI tidak pernah menulis, mengedit, atau menyarankan perubahan pada file ini maupun file individual di folder `players/`. Hanya **admin (aesher-gg)** yang berhak mengubah isinya, langsung di GitHub, di luar sesi roleplay.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `12_CULTIVATION_RESONANCE_SYSTEM.md` (Law Origin & QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (Item Origin & mata uang)
+`players.md` dan file individual di direktori `players/` murni merupakan **katalog template data awal** karakter. Konsekuensi teknis bagi AI Game Master:
 
----
-
-## 0. Aturan Pemakaian (WAJIB DIPAHAMI AI GM)
-
-1. File ini dan file individual di folder `players/` **hanya** berisi kondisi karakter **sebelum cerita dimulai**. Bukan status "terakhir dimainkan", bukan save slot, bukan progres yang sedang berjalan.
-2. AI membaca file karakter **satu kali saja** — persis di momen karakter yang namanya ada di sini mulai dimainkan untuk **pertama kalinya**. Sejak saat itu, seluruh perkembangan karakter (HP berubah, Qi terpakai, item baru, breakthrough, pindah lokasi, dst.) **hanya** dicatat di dalam blok "Profil Karakter" pada percakapan yang sedang berjalan (format resmi ada di `00_CORE_RULES_AI_GM.md` §2) — **tidak pernah** ditulis balik ke file mana pun.
-3. **Instruksi Fetch untuk AI GM:** Untuk mencegah batasan ekstraktor teks AI (misalnya limit 300 baris), data detail setiap karakter telah dipisahkan ke file individual di dalam folder `players/`. AI GM **WAJIB** mengambil/fetch file RAW karakter spesifik yang dimaksud (`players/<Nama_Karakter>.md`) melalui Link RAW pada tabel §1 di bawah saat:
-   - Karakter tersebut dimainkan untuk **pertama kalinya**.
-   - Pemain/Player bertanya atau menanyakan informasi/status/latar belakang mengenai karakter/player lain yang terdaftar di `players.md`.
-4. AI **dilarang keras**: menulis ke file mana pun, menyarankan pemain "menyimpan"/"update" progres ke file ini, atau memperlakukan isi file karakter sebagai kondisi yang **terkini** setelah roleplay berjalan.
-5. Untuk **melanjutkan** karakter yang sudah pernah dimainkan sebelumnya (bukan memulai baru), pemain menempelkan ulang blok "Profil Karakter" **terakhir** dari sesi sebelumnya di pesan pembuka. Folder `players/` **tidak dipakai** untuk kasus itu — isinya tetap/statis.
+1. **Sifat Read-Only**: AI GM **TIDAK PERNAH** menulis, mengedit, merevisi, atau memperbarui isi file `players.md` maupun file di direktori `players/`. File-file ini hanya dapat diubah secara manual oleh pemilik repository (admin/developer).
+2. **Prosedur Fetch Awal (Jalur A)**: Saat pemain menyebutkan nama karakter terdaftar atau mengirimkan link RAW file di `players/`, AI GM melakukan *fetch* satu kali untuk memuat statistik awal karakter sebagai titik mulai narasi.
+3. **Pencatatan Perkembangan**: Setelah roleplay berjalan, seluruh perkembangan karakter (HP, Qi, Item, Exp, Level, Waktu World) dicatat dan ditransfer secara dinamis murni lewat **blok "Profil Karakter"** di dalam percakapan pada setiap giliran balasan (§2 di `00`).
 
 ---
 
-## 1. Daftar Katalog Karakter Terdaftar
+## 📋 2. Player Directory Registry (Katalog Pemain Terdaftar)
 
-> Klik atau fetch link RAW individual untuk memuat data awal lengkap karakter secara utuh tanpa terpotong limit ekstraktor teks AI.
-
-| Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
-|---|---|---|---|---|
-| **Lin Feng** *(contoh)* | Kota Vermilion Port, Vermilion River Basin | Foundation Establishment, Early | River Lantern School (Murid Luar) | [`Lin_Feng.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Lin_Feng.md) |
-| **Ye Chen** | Benteng Skyreach, Blackstone Skyreach | Body Refining, Early | Blackstone Vow Sect (Murid Magang) | [`Ye_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Ye_Chen.md) |
-
-*(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
+| Player ID | Character Name | Starting Region | Realm & Primary Role | File Path | Raw Link | Status |
+|---|---|---|---|---|---|---|
+| `PLR-001` | **Lin Feng** | Vermilion River Basin (`02`) | Body Refining Early · Martial Swordsman | `players/Lin_Feng.md` | `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Lin_Feng.md` | 🟢 Ready to Load |
+| `PLR-002` | **Ye Chen** | Blackstone Skyreach (`03`) | Body Refining Early · Forge Blacksmith | `players/Ye_Chen.md` | `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Ye_Chen.md` | 🟢 Ready to Load |
 
 ---
 
-## 2. Template Kosong (Untuk Admin — Salin untuk Mendaftarkan Karakter Baru di `players/[Nama_Karakter].md`)
+## 📄 3. Save File Format Template Standard (`players/<character_name>.md`)
+
+Setiap pembuatan file save karakter baru di direktori `players/<character_name>.md` wajib menggunakan struktur baku sebagai berikut:
 
 ```markdown
-# 👤 [Nama Karakter]
+# 📜 CHARACTER SAVE FILE: [CHARACTER NAME]
 
-> **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `01`–`10` (Regional Modules)
+## 1. Basic Info
+- **Player ID**: [Misal: PLR-001]
+- **Character Name**: [Nama Karakter]
+- **Origin / Background**: [Asal-usul / Background Cerita Singkat]
+- **Primary Role**: [Role Utama per `17` - Misal: Combat Swordsman]
+- **Secondary Role**: [Profesi Sekunder per `17` - Misal: Alchemist / Blacksmith]
+- **Social Role**: [Kedudukan Sosial - Misal: Sanxiu / Wandering Cultivator]
 
----
+## 2. Cultivation Profile
+- **Realm**: [Major Realm per `12` - Misal: Body Refining Realm]
+- **Stage**: [Stage per `12` - Early / Mid / Late / Peak]
+- **Qi Capacity (QiCap)**: [Formula: `QiCap = RealmBase × StageMultiplier` per `12`]
+- **Meridian Pattern**: [Pola Meridian Terbuka - Misal: 3/9 Meridian Currents]
+- **Dao Resonance**: [Resonansi Elemen Utama - Misal: Water + Wood Qi]
+- **Insight Points**: [5 / 100]
 
-**Nama Karakter:** [Nama Karakter]
-**Lokasi Awal:** [nama lokasi, sesuai modul 01–10]
-**Realm & Stage Awal:** [Realm, Stage] — Qi Cap: [angka] *(kalkulasi: RealmBase × StageMultiplier per `12`)*
-**Hukum Kultivasi Awal:** [nama Hukum, atau "Belum ada — akan ditentukan lewat roleplay"]
-**Law Origin (jika sudah ada Hukum):** Jalur [Guru/Manual/Pencerahan] — [detail singkat]
-**Sekte/Afiliasi Awal:** [nama sekte + peran, atau "Sanxiu"]
+## 3. Vital Attributes
+- **HP**: [Formula: `HPMax = QiCap × 0.5 + PhysicalBonus` per `14`]
+- **Qi**: [Sama dengan QiCap saat penuh]
+- **Stamina**: [100 / 100]
+- **Satiety**: [100 / 100]
+- **Focus**: [100 / 100]
+- **Resolve**: [100 / 100]
+- **Fatigue**: [0 / 100]
+- **Status Luka / Trauma**: Normal / Non-Wounded
 
-**Kondisi Awal:** HP X/Y · Qi X/Y · Stamina X/100 · Satiety X% · Kondisi Normal · Karma Netral
+## 4. Equipment & Inventory
+- **Senjata Utama**: [Nama Senjata - Tier / Grade Value per `13`]
+- **Zirah / Pelindung**: [Nama Zirah / Pakaian Ber-Qi]
+- **Aksesoris**: [Cincin Pouch / Liontin Identitas]
+- **Mata Uang**: [Gold Taels] × X | [Silver Taels] × XX | [Copper Taels] × XXX | [Spirit Stones Tier 1] × XX
 
-**Currency Awal:**
-- Copper Taels × [jumlah]
-- Silver Taels × [jumlah]
-- Gold Taels × [jumlah]
-- Spirit Stones Tier 1 × [jumlah]
+**Inventory (Tas / Pouch)**:
+- [Item 1 - Kuantitas - Deskripsi Singkat]
+- [Item 2 - Kuantitas - Deskripsi Singkat]
 
-**Equipment Awal (terpakai/digenggam):**
-- Senjata: [nama item — Tier/Grade, asal singkat, atau "Tidak ada"]
-- Zirah/Pelindung: [nama item, atau "Tidak ada"]
-- Aksesoris: [nama item, atau "Tidak ada"]
+## 5. Techniques & Arts
+1. [Nama Jurus 1] - Element: [Elemen] - Mastery: [Basic / Proficient / Master]
+2. [Nama Jurus 2] - Element: [Elemen] - Mastery: [Basic / Proficient / Master]
 
-**Inventory Awal (dibawa, tidak terpakai):**
-- [Item 1 — Tier/Grade, asal singkat]
-- [Item 2]
-
-**Teknik Awal:**
-- [teknik — sumber]
-
-**Latar Belakang & Kepribadian:**
-[1–2 paragraf: siapa dia, sifatnya, motivasinya, relasi penting dengan NPC kanon jika ada]
-# 📇 Qianyuan-World — Players Database Index & Template Save Standar
-
-> **Modul:** Players Index (`players.md`)
-> **Fungsi:** Katalog direktori pemain aktif dan format baku template save karakter awal di dalam direktori `players/`.
-> **Sifat Wajib:** READ-ONLY bagi AI GM selama roleplay berlangsung. AI GM memanggil file spesifik di `players/` HANYA saat karakter baru dimuat pertama kali (Jalur A di `00_CORE_RULES_AI_GM.md`).
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 (3 jalur input pemain), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (mata uang & item), `17_ROLES_PROFESSIONS_SYSTEM.md` (role & profesi)
-
-
----
-
-## 🛠️ 4. Panduan Inisiasi Karakter Baru AI GM
-
-Saat AI GM menerima giliran pertama dari pemain, AI GM wajib mengidentifikasi Jalur Input Karakter (§1.6 di `00`):
-
-1. **Jalur A (Karakter Katalog Terdaftar)**: AI GM membaca file di `players/<character_name>.md`, memuat seluruh nilai atribut di atas ke dalam blok "Profil Karakter" di balasan pertama, dan menarasikan awal kedatangan karakter di lokasi spesifik.
-2. **Jalur B (Melanjutkan Sesi Sebelumnya)**: AI GM mengambil data dari blok "Profil Karakter" terakhir yang ditempelkan pemain tanpa menyentuh folder `players/`.
-3. **Jalur C (Karakter Spontan Baru)**: AI GM menggunakan statistik default awal untuk *Body Refining Realm Early Stage*:
-   - `QiCap`: **50**
-   - `HPMax`: **25** (`50 × 0.5`)
-   - `Stamina`: **100** | `Satiety`: **100** | `Focus`: **100** | `Resolve`: **100** | `Fatigue`: **0**
-   - `Mata Uang`: 50 Silver Taels & 100 Copper Taels.
-   - `Equipment`: Pakaian Baju Kain Biasa & Pedang/Pisau Besi Tua.
+## 6. Location & World State
+- **Current Region**: [Misal: Vermilion River Basin (`02`)]
+- **Specific Location**: [Misal: Kota Vermilion Port / Pelabuhan Zhuque]
+- **Current World Date**: Bulan [1–9], Tanggal [1–30], Shichen [1–12]
