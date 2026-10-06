@@ -1,7 +1,7 @@
 # 🌊 Qianyuan-World — III. Vermilion River Basin (Lembah Sungai Vermilion)
 
 > **Modul:** 02 — Vermilion River Basin
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `11_CROSS_REGION_ORGANIZATIONS.md` (Merchant Alliance & Asosiasi Alkemis), `12_CULTIVATION_RESONANCE_SYSTEM.md` §6 (kalkulasi QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (bursa herba & perdagangan air), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan maritim & perahu), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini), `22_RIVER_LANTERN_SCHOOL.md` (sekte utama), `30_GOLDEN_THREAD_MEDICINE_HALL.md` (sekte medis)
 
 ---
 
@@ -13,8 +13,24 @@
 | **Populasi Total** | ± 62 juta jiwa |
 | **Kekayaan Total** | ± 720 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Kota dan desa di sepanjang sungai berjarak 80–350 li satu sama lain — wilayah jalur air utama yang sangat hidup |
-| **Qi Density Modifier** | **×1,2 (Water + Wood Qi)** — memberikan bonus pemulihan Qi +20% untuk penggunan teknik Air & Kehidupan (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
+| **Qi Density Modifier** | **×1,2 (Water + Wood Qi)** — memberikan bonus pemulihan Qi +20% untuk penggunaan teknik Air & Kehidupan (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
 | **Monster Khas Wilayah** | Vermilion Carp, Mud Crocodile, Misty Heron, Giant Water Snake (detail: `20_BESTIARY_ECOLOGY.md`) |
+
+---
+
+## Bahaya Alam Sungai & Rawa (Environmental Hazards)
+
+Eksplorasi di sepanjang Lembah Sungai Vermilion menyimpan ancaman alamiah khas perairan dan rawa yang menguji ketangkasan kultivator:
+
+1. **🌫️ Kabut Miasma Rawa (*Misty Marsh Miasma*)**
+   - **Lokasi Dampak:** Rawa Teratai Kelam dan muara sungai dangkal.
+   - **Efek Mekanis:** Uap air beracun bercampur spora jamur rawa memicu status *Marsh Poisoning*. Karakter mengalami penalti regenerasi Qi sebesar -20% dan penalti Accuracy/Hit Rate -15% akibat pandangan terhalang kabut tebal.
+2. **🌊 Pusaran Jeram Liar (*Wild Rapid Whirlpools*)**
+   - **Lokasi Dampak:** Tikungan Jeram Lembah Embun Merah dan cabang sungai tengah.
+   - **Efek Mekanis:** Arus bawah air yang sangat deras sanggup membalikan perahu kargo kecil. Memicu pemeriksaan kestabilan Posture (*Balance Check*) dengan penalti mendadak *Severely Off-Balance*, serta risiko tenggelam (*Suffocation Danger*) jika tidak menggunakan perisai Qi air.
+3. **🦟 Swarm Serangga Penyerap Qi (*Qi-Draining River Swarms*)**
+   - **Lokasi Dampak:** Tepi rawa-rawa liar pada malam hari.
+   - **Efek Mekanis:** Kawanan lintah dan serangga rawa spiritual yang peka terhadap getaran energi. Memicu pengurasan Stamina **-15 per Shichen** dan penalti regenerasi HP alami jika tidak diolesi minyak sereh spiritual atau dibendung perisai aura.
 
 ---
 
@@ -63,12 +79,39 @@
 
 ---
 
+### 🪵 🆕 Pos Pengawas Dermaga Bambu (Bamboo Pier Watchpost)
+850 li dari Yuanjing (50 li sebelum Kota Vermilion Port). Pos terdepan patroli *River Lantern School* yang mengawasi retribusi pelayaran perahu kargo dan memantau pergerakan bajak air.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Dermaga Feng-Biao** | Komandan Patroli Dermaga Bambu | 46 | Core Formation, Early | **6.250** | *Panah Tali Bambu Penahan Perahu* — tembakan panah Qi pengunci gerak perahu | Disiplin, tegas, sangat teliti memeriksa surat izin berlayar |
+
+---
+
+### 🏛️ 🆕 Gua Reruntuhan Kuil Air Purba (Ancient Water Temple Ruins)
+1.550 li dari Yuanjing (150 li melintasi Lembah Embun Merah). Reruntuhan batu bawah laut rawa tempat tersimpannya prasasti kitab teknik air purba dan sumber air embun murni.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Entitas Penjaga Kuil Air Purba** | Roh formasi pelindung prasasti | — | Setara Void Refinement, Early | **781.250** | *Pusaran Gelombang Air Purba* — dinding air bertekanan raksasa penolak penyusup | Tanpa emosi, bereaksi otomatis menyerang siapapun yang berniat merusak prasasti |
+
+---
+
+### 🪷 🆕 Rawa Teratai Kelam (Dark Lotus Marsh)
+1.300 li dari Yuanjing (50 li di timur Dermaga Tiga Muara). Rawa-rawa berlumpur pekat yang diselimuti kabut miasma, habitat *Mud Crocodile* liar dan lokasi persembunyian perampok sungai.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemburu Rawa Ah-Hei** | Pemandu penjelajah rawa lumpur | 31 | Foundation Establishment, Early | **1.250** | *Langkah Papan Kayu Rawa* — pergerakan cepat berjalan di atas lumpur hidup | Pendiam, waspada pada buaya rawa, menghargai pembayaran emas murni |
+
+---
+
 ## Sekte & Faksi Lokal
 
 ### 🌊 River Lantern School (Sekolah Lentera Sungai)
 *Markas Utama: Akademia Lentera Air, Pelabuhan Zhuque — 900 li dari Yuanjing*
 
-Sekte penguasa pelayaran dan keamanan sungai. Berfokus pada seni bertarung di atas air, navigasi arus deras, dan penggunaan alat lentera penembus kabut.
+Sekte penguasa pelayaran dan keamanan sungai. Berfokus pada seni bertarung di atas air, navigasi arus deras, dan penggunaan alat lentera penembus kabut. *(Lihat `22_RIVER_LANTERN_SCHOOL.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -101,6 +144,18 @@ Kelompok perampok air independen yang bersembunyi di rawa-rawa sungai dangkal da
 
 ---
 
+### ⛵ 🆕 Kafilah Dagang Jalur Sungai "Lentera Emas" (Golden Lantern River Syndicate)
+*Lokasi: Dermaga Pelabuhan Zhuque & Tiga Muara*
+
+Jaringan pedagang perahu independen yang menguasai jasa transportasi pasokan herba spiritual dan mineral halus dari Lembah Sungai Vermilion menuju pasar ibu kota Yuanjing.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Jin-He** | Pemimpin Kafilah Lentera Emas | 49 | Core Formation, Early | **6.250** | *Perisai Kargo Air* — benteng aura Qi pelindung muatan perahu dari percikan api | Cerdik, pandai bermusyawarah, sangat dipercaya pemilik ladang herba desa |
+
+---
+
 ## GM Notes & Instructions
-* Wilayah Vermilion River Basin memberi bonus regenerasi Qi Air/Kayu sebesar +20%.
+* Wilayah Vermilion River Basin memberi bonus regenerasi Qi Air/Kayu sebesar **+20%**.
 * Pertarungan di atas perahu atau dalam air memerlukan pemeriksaan Posture/Position tambahan sesuai `15_COMBAT_TACTICAL_SYSTEM.md`.
+* Karakter yang melintasi Rawa Teratai Kelam tanpa minyak penawar miasma wajib mengalkulasi bahaya alam (*Environmental Hazards*) sesuai tabel di atas pada setiap Shichen.

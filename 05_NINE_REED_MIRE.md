@@ -1,7 +1,7 @@
 # 🌿 Qianyuan-World — VI. Nine-Reed Mire (Rawa Sembilan Alang-Alang)
 
 > **Modul:** 05 — Nine-Reed Mire
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3.3 (efek racun & miasma), `20_BESTIARY_ECOLOGY.md` (monster rawa ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `14_VITALITY_BODY_SYSTEM.md` §3.3 (efek racun & miasma), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan perairan & rawa), `18_SPIRIT_GARDENING_SYSTEM.md` (budidaya herba racun), `20_BESTIARY_ECOLOGY.md` (monster rawa ini), `25_MIRE_BLOOD_ORCHID_SECT.md` (sekte utama)
 
 ---
 
@@ -14,14 +14,30 @@
 | **Kekayaan Total** | ± 380 juta Tael Perak / Spirit Stones Equivalent |
 | **Jarak Internal** | Pemukiman panggung dan pos rawa berjarak 100–400 li satu sama lain — navigasi menggunakan perahu dayung kayu ringan (*Mire Skiff*) |
 | **Qi Density Modifier** | **×1,3 (Water + Poison Qi)** — memberikan bonus racun +20% bagi praktisi kultivasi racun/miasma, namun memberikan penalti pemulihan HP alami -15% bagi kultivator biasa (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md` §6) |
-| **Monster Khas Wilayah** | Miasma Python, Swamp Toad, Giant Poison Centipede, Mud Leech (detail: `20_BESTIARY_ECOLOGY.md`) |
+| **Monster Khas Wilayah** | Miasma Python, Swamp Toad, Giant Poison Centipede, Mud Leech, Miasma Eel (detail: `20_BESTIARY_ECOLOGY.md`) |
 
 ---
 
-## Lokasi Utama & Situs Khusus
+## Anomali Lingkungan & Bahaya Rawa (Swamp Environmental Hazards)
+
+Medan berlumpur dan udara beracun di Nine-Reed Mire mengharuskan kultivator ekstra waspada terhadap bahaya alam berikut:
+
+1. **☠️ Miasma Korosif Alang-Alang Purba (*Corrosive Reed Miasma*)**
+   - **Lokasi Dampak:** Zona Tengah dan Zona Dalam Labirin Alang-Alang Sembilan.
+   - **Efek Mekanis:** Uap miasma hijau kehitaman yang menembus saluran pernapasan. Memicu status *Toxic Corrosion* (penalti pemulihan HP -30% dan kerusakan Qi **-10 per Shichen** jika tidak meminum *Antidote Pill* Grade 2+ atau menggunakan formasi pemurni udara).
+2. **🌀 Lumpur Hisap Beracun (*Toxic Quicksand & Sinkholes*)**
+   - **Lokasi Dampak:** Perbatasan rawa terbuka dan celah antar-semak alang-alang.
+   - **Efek Mekanis:** Langkah teledor memicu jebakan lumpur hisap. Karakter mengalami status *Immobilized* (Movement Speed -70%, Posture mendadak *Severely Off-Balance*), memerlukan test Strength/Qi Control untuk melepaskan diri sebelum tenggelam dalam 3 turn.
+3. **🩸 Wabah Lintah Rawa Parasit (*Parasitic Mud Leech Infestation*)**
+   - **Lokasi Dampak:** Perairan tenang Dangkal dan Reruntuhan Benteng Ular.
+   - **Efek Mekanis:** Lintah mikro tak kasat mata menempel pada kulit saat menyelam/melintasi air rawa. Memicu status *Blood Drain Trauma* (kehilangan Stamina **-10 per jam** dan risiko *Infested Blood Wound*).
+
+---
+
+## Lokasi Utama & Pemukiman Rawa
 
 ### 🛖 Desa Panggung Mirewood (Mirewood Stilt Village)
-1.700 li dari Yuanjing. Pemukiman utama rawa yang dibangun di atas tiang-tiang kayu keras melayang di atas permukaan air beracun.
+1.700 li dari Yuanjing. Pemukiman utama rawa yang dibangun di atas tiang-tiang kayu keras melayang di atas permukaan air beracun. Jembatan gantung tali menjadi penghubung antar-rumah panggung.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -32,12 +48,22 @@
 ---
 
 ### 🌙 Pasar Kabut Kelam (Dark Mist Bazaar)
-1.850 li dari Yuanjing (150 li dari Desa Mirewood). Pasar malam tersembunyi tempat transaksi racun terlarang, serangga spiritual, dan penawaran jasa assassin.
+1.850 li dari Yuanjing (150 li dari Desa Mirewood). Pasar malam tersembunyi yang dibangun di atas platform kayu raksasa melayang. Tempat transaksi racun terlarang, serangga spiritual, kulit reptil rawa, dan penawaran jasa assassin.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Pengawas Pasar "Kabut Hitam" Gu** | Pengelola Dark Mist Bazaar | 58 | Core Formation, Peak | **15.625** | *Jaring Serangga Racun Bayangan* — jebakan Qi tak kasat mata di sekeliling lapak | Pragmatis, dingin, melarang keras pertarungan terbuka di area bazaar |
 | **Pedagang Racun Boss Du** | Pemilik Toko Racun Seribu Serangga | 46 | Core Formation, Early | **6.250** | *Semburan Debu Kalajengking* — racun perusak saluran saraf cepat | Licik, pandai bersilat kata, hanya mau menerima pembayaran Spirit Stones |
+
+---
+
+### ⚓ 🆕 Dermaga Panggung Lumpur Hitam (Black Mud Stilt Landing)
+1.600 li dari Yuanjing (100 li sebelum Desa Mirewood). Pos perbatasan perairan rawa tempat penambangan minyak bumi/tar rawa dan titik sewa perahu dayung *Mire Skiff*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pengawas Dermaga "Si Tangan Besi" Hei-Gou** | Pengelola Persewaan Perahu & Tar Rawa | 53 | Foundation Establishment, Peak | **3.125** | *Pukulan Jangkar Lumpur* — hentakan fisik berat merobohkan pengacau dermaga | Kasar, jujur, sangat menghargai pembayaran tepat waktu |
+| **Nelayan Rawa Tua Lao-Ba** | Nahkoda perahu kayuh senior | 68 | Body Refining, Mid | **75** | *Kemudi Bambu Penepis Arus* — dorongan dayung menghindari jebakan lumpur | Pendiam, hafal setiap kedalaman air rawa, benci penumpang yang panik |
 
 ---
 
@@ -69,6 +95,25 @@
 
 ---
 
+### 🏛️ 🆕 Reruntuhan Benteng Ular Purba (Ancient Serpent Fort Ruins)
+1.950 li dari Yuanjing (50 li melintasi Labirin Alang-Alang). Benteng batu purba yang terendam air rawa cokelat, menjadi habitat spesies Ular Miasma raksasa dan menyimpan prasasti teknik racun kuno.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Ular Rawa Master Serpent-Eye** | Penjaga Prasasti Ular Purba | 135 | Nascent Soul, Early | **31.250** | *Patukan Qi Ular Hitam* — serangan aura serangga & racun perusak meridian | Menyendiri, tenang bagaikan ular berdiam, membenci perusak benteng |
+| **Penjaga Formasi Ular Kuno** | Entitas batu pelindung benteng | — | Setara Void Refinement, Early | **781.250** | *Semburan Kabut Racun Batu Purba* — ledakan energi racun otomatis menolak penjarah | Tidak beremosi, bereaksi otomatis jika formasi batu diganggu |
+
+---
+
+### 🕷️ 🆕 Gua Sarang Serangga Spiritual (Spirit Insect Cavern)
+1.750 li dari Yuanjing (100 li di utara Dark Mist Bazaar). Gua tebing tanah rawa yang dipenuhi sarang lipan beracun dan laba-laba rawa bersinar. Tempat berburu bahan racun langka.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pawang Serangga Rawa Master Venom-Reed** | Peneliti Serangga Beracun | 51 | Core Formation, Mid | **9.375** | *Panggilan Seribu Lipan* — kawanan serangga spiritual mengepung target | Eksentrik, obsesif pada serangga langka, bersahabat pada sesama peracik |
+
+---
+
 ## Sekte & Faksi Lokal
 
 ### 🌺 Mire Blood Orchid Sect (Sekte Anggrek Darah Rawa)
@@ -95,6 +140,31 @@ Jaringan kontraktor assassin independen dan penyedia serangga spiritual beracun 
 
 ---
 
+## Aliansi Dagang & Perkumpulan Rawa
+
+### 💊 🆕 Kafilah Penawar Racun "Embun Rawa" (Dew-Mire Antidote Caravan)
+*Lokasi: Dermaga Lumpur Hitam & Desa Mirewood*
+
+Federasi pedagang herbalis yang khusus mendistribusikan pil penawar racun, salep pelindung kulit, dan minyak serangga ke seluruh pengembara di Nine-Reed Mire.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Rawa Boss Zhao** | Pemimpin Kafilah Embun Rawa | 48 | Core Formation, Early | **6.250** | *Perisai Minyak Penolak Serangga* — olesan uap minyak pembakar serangga rawa | Cerdik, ramah, mengutamakan keselamatan keselamatan jalur pasokan obat |
+
+---
+
+### ⚓ 🆕 Perhimpunan Penyelam & Pencari Artefak Rawa (Mire Salvagers Guild)
+*Lokasi: Dermaga Lumpur Hitam & Dark Mist Bazaar*
+
+Serikat pengembara bebas yang menguasai keahlian menyelam di dasar rawa beracun untuk mengangkat barang antik dari kapal karam atau reruntuhan purba.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ketua Salvager "Mata Belut" Lin** | Pemimpin Serikat Salvager Rawa | 44 | Core Formation, Mid | **9.375** | *Tebasan Tombak Pembelah Air* — tusukan tombak Qi cepat di dalam air keruh | Pemberani, pragmatis, membagi keuntungan secara adil kepada penyelam |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Nine-Reed Mire tanpa perlindungan/penawar racun memicu pemicuan tes Poison Status setiap 2 Shichen.
 * Berada di Zona Dalam Labirin Alang-Alang memberikan penalti Hit Rate -15% akibat pekatnya kabut Miasma.
+* Pertarungan di atas perahu dayung (*Mire Skiff*) atau di dalam air berlumpur memerlukan pemeriksaan Posture/Position tambahan sesuai `15_COMBAT_TACTICAL_SYSTEM.md`.

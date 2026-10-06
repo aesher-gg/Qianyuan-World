@@ -1,173 +1,145 @@
-# 11 — CROSS-REGION ORGANIZATIONS
+# 🌐 Qianyuan-World — XII. Organisasi Lintas Wilayah, Sanxiu, & Tokoh Gelap
 
-## 1. Overview
-Dokumen ini mendefinisikan seluruh organisasi besar yang beroperasi melintasi batas-batas wilayah di benua Qianyuan. Dibuatnya file tunggal ini bertujuan untuk mengonsolidasikan struktur, jaringan, layanan, serta pengaruh politik faksi lintas wilayah agar tidak tercecer di banyak file terpisah.
-
----
-
-## 2. Organization Template Standard
-Setiap organisasi lintas wilayah dideskripsikan mengikuti struktur baku sebagai berikut:
-- **Name**: Nama resmi organisasi
-- **Type**: Jenis (Kekaisaran, Konsorsium, Serikat, jaringan, Arsip, dll)
-- **Origin**: Wilayah/asal-usul pembentukan
-- **Headquarters**: Lokasi markas pusat
-- **Purpose**: Tujuan utama & doktrin
-- **Leadership**: Pemimpin/Dewan Direksi
-- **Ranks**: Struktur hierarki & tingkatan
-- **Resources**: Sumber daya & aset utama
-- **Territories**: Cabang/pos di berbagai wilayah
-- **Allies**: Sekutu resmi
-- **Rivals**: Faksi pesaing/musuh
-- **Rules**: Aturan internal & hukum anggota
-- **Services**: Layanan yang disediakan bagi umum/kultivator
-- **Political Influence**: Pengaruh politik di benua
-- **Known Information**: Informasi umum yang diketahui publik
-- **Hidden Information**: Rahasia/agenda tersembunyi (khusus GM)
+> **Modul:** 11 — Cross-Region Organizations
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (ikhtisar populasi benua), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (bursa & mata uang), `17_ROLES_PROFESSIONS_SYSTEM.md` (profesi & peran sosial), `02`–`10` (lokasi cabang tiap organisasi)
 
 ---
 
-## 3. Registered Cross-Region Organizations
+## 1. Ikhtisar
 
-### 3.1 Imperial Court (Pengadilan Kekaisaran Yuanjing)
-* **Name**: Imperial Court of Yuanjing
-* **Type**: Kekaisaran Pusat / Pemerintahan Benua
-* **Origin**: Yuanjing Capital
-* **Headquarters**: Imperial Sanctum (Cincin 1, Yuanjing)
-* **Purpose**: Menjaga stabilitas benua, menyeimbangkan faksi sekte, memungut pajak spiritual, dan menegakkan Hukum Kekaisaran.
-* **Leadership**: Kaisar Qianyuan + Dewan Empat Menteri Agung
-* **Ranks**: Kaisar -> Menteri Agung -> Jenderal -> Inspektur Wilayah -> Penjaga Perbatasan -> Petugas Sipil
-* **Resources**: Formasi Pertahanan Tujuh Cincin, Kas Negara (Jutaan Tael Perak/Batu Spiritual), Pasukan Pengawal Kekaisaran.
-* **Territories**: Yuanjing, serta pos garnisun di seluruh pintu masuk wilayah utama.
-* **Allies**: Dao Registry, Merchant Alliance.
-* **Rivals**: Faksi Demonis & Kelompok Pemberontak Bebas.
-* **Rules**: Dilarang melanggar Hukum Kekaisaran; sabotase fasilitas publik diancam hukuman mati.
-* **Services**: Izin wilayah, pengadilan sengketa lahan, pemberian gelar kehormatan.
-* **Political Influence**: Mutlak di wilayah pusat, sedang-tinggi di wilayah luar.
-* **Known Information**: Penguasa resmi seluruh tanah Qianyuan dan pemegang otoritas hukum tertinggi.
-* **Hidden Information**: Mengendalikan formasi rahasia yang dapat menyedot Qi di wilayah ibu kota jika terjadi pemberontakan sekte.
+Dokumen ini mengonsolidasikan seluruh organisasi besar yang beroperasi melintasi batas-batas wilayah di benua Qianyuan, serta mengatalogkan kultivator pengembara bebas (*Sanxiu*), kultivator sesat/demonis (*Demonic Outlaws*), dan kriminal mortal non-kultivator. Memisahkan faksi resmi dan dunia hitam memberikan kejelasan hukum, hierarki, dan profil NPC bagi AI GM di setiap wilayah.
 
 ---
 
-### 3.2 Merchant Alliance (Aliansi Pedagang Qianyuan)
-* **Name**: Grand Merchant Alliance
-* **Type**: Konsorsium Ekonomi & Bursa Komoditas
-* **Origin**: Central Plains / Yuanjing
-* **Headquarters**: Financial Ring (Cincin 4, Yuanjing)
-* **Purpose**: Mengatur stabilitas harga, mengelola rute perdagangan darat/laut/udara, dan mengoperasikan rumah lelang pusat.
-* **Leadership**: Dewan Tujuh Saudagar Emas
-* **Ranks**: Saudagar Emas -> Kepala Cabang Kota -> Pedagang Utama -> Agen Perdagangan -> Kurir Kargo
-* **Resources**: Perusahaan Lingzhou (Kapal Udara), Rumah Leklang Utama, Gudang Logistik Bintang.
-* **Territories**: Kantor cabang di seluruh kota utama di 9 wilayah.
-* **Allies**: Imperial Court, Grand Courier Network, Red Sand Caravan.
-* **Rivals**: Pasar Gelap & Bajak Laut/Gurun.
-* **Rules**: Transaksi wajib mematuhi standar mata uang resmi; penipuan bursa di-blacklist dari seluruh rumah lelang.
-* **Services**: Perbankan/Simpan Pinjam, Lelang Barang Langka, Jasa Kargo Lingzhou, Penilaian Harga Barang (*Appraisal*).
-* **Political Influence**: Sangat tinggi melalui dominasi jalur pasokan logistik dan mata uang.
-* **Known Information**: Organisasi terkaya di Qianyuan yang menguasai pasar lelang terbesar.
-* **Hidden Information**: Memiliki jaringan intelijen ekonomi yang mampu memanipulasi kelangkaan barang untuk menjatuhkan sekte pesaing.
+## 2. Organisasi Lintas Wilayah Utama
+
+### 🏯 2.1 Pengadilan Kekaisaran Qianyuan (Imperial Court of Yuanjing)
+Pemerintahan pusat benua Qianyuan yang mengawasi hukum benua, memungut pajak spiritual, dan menyeimbangkan persaingan antar-sekte besar.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kaisar Xuan Yuan** | Penguasa Kekaisaran Qianyuan | 185 | Nascent Soul, Peak | **78.125** | *Telapak Segel Sembilan Arus* — hentakan Qi berunsur emas yang menekan aura Dantian lawan | Berwibawa, bijaksana, tidak terburu-buru, sangat tegas mengeksekusi pelanggar hukum |
+| **Jenderal Zhao Wu-Tian** | Panglima Pasukan Pengawal Kekaisaran | 120 | Soul Formation, Early | **156.250** | *Tebasan Pembelah Gunung* — tebasan pedang berat berdaya hancur tinggi | Keras, patuh pada kedisiplinan militer, membenci bandit dan sekte pemberontak |
+| **Kepala Intelijen Mo Ying** | Kepala Biro Pengawasan Bayangan | 98 | Core Formation, Mid | **9.375** | *Langkah Bayangan Senyap* — teknik stealth berpindah posisi tanpa memicu getaran Qi | Pendiam, jarang tersenyum, mengamati dari kegelapan, bertindak secepat kilat |
 
 ---
 
-### 3.3 Spirit Beast Union (Serikat Pawang & Pelindung Spirit Beast)
-* **Name**: Spirit Beast Union
-* **Type**: Serikat Pawang, Peneliti, & Konservasi Makhluk Spiritual
-* **Origin**: Whispering Root Forest
-* **Headquarters**: Root-Bound Sanctuary
-* **Purpose**: Mempelajari ekologi binatang spiritual, memfasilitasi kontrak binaan (*Beast Bond*), dan mencegah perburuan liar yang merusak ekosistem.
-* **Leadership**: Master Pawang Agung
-* **Ranks**: Pawang Agung -> Peneliti Utama -> Pemburu Lisensi -> Penjaga Ekologi -> Anggota Magang
-* **Resources**: Kandang Penangkaran Beast Langka, Metode Kontrak Jiwa, Padang Rumput Spiritual.
-* **Territories**: Whispering Root Forest, Vermilion Basin, serta pos cabang di setiap perbatasan wilayah liar.
-* **Allies**: Rootbound Covenant Sect.
-* **Rivals**: Pemburu Liar Ilegal & Alchemist Organ Tubuh Beast.
-* **Rules**: Dilarang membantai induk beast yang sedang mengasuh anak; perburuan wajib berlisensi.
-* **Services**: Jasa penjinakan beast (*Taming*), sertifikasi binatang binaan, penjualan pakan spiritual khusus, perawatan luka beast.
-* **Political Influence**: Sedang, namun berpengaruh kuat di daerah-daerah yang mengandalkan beast sebagai moda transportasi/tempur.
-* **Known Information**: Penyedia jasa taming dan perawatan spirit beast paling tepercaya di benua.
-* **Hidden Information**: Menyimpan metode evolusi rahasia yang mampu membangkitkan garis keturunan binatang purba (*Ancient Bloodline*).
+### 🪙 2.2 Aliansi Pedagang Agung Qianyuan (Grand Merchant Alliance)
+Konsorsium bursa komoditas dan logistik yang menguasai rumah lelang utama, bank giok, serta armada kapal udara Lingzhou.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Emas Han Jing** | Utusan Merchant Alliance Cabang Utama | 48 | Core Formation, Early | **6.250** | *Sentuhan Sempoa Giok* — pertahanan Qi tipis pembalik serang darurat | Cerdik, sopan, mengukur segala tindakan dari segi untung-rugi |
+| **Saudagar Jin-Ye** | Kepala Kafilah Herba & Logistik Wilayah | 47 | Core Formation, Early | **6.250** | *Perisai Aromatik Herba* — aura uap minyak herba pemantul serangan fisik | Cerdik, pandai menawar, sangat menjaga kerahasiaan rute perdagangan |
 
 ---
 
-### 3.4 Grand Courier Network (Jaringan Kurir Agung)
-* **Name**: Grand Courier Network
-* **Type**: Jaringan Ekspedisi, Informasi Kilat, & Logistik Ringan
-* **Origin**: Hollow Gale Corridor
-* **Headquarters**: Wind-Gale City (Hollow Gale Corridor)
-* **Purpose**: Memastikan pengiriman pesan, dokumen rahasia, dan paket kilat antar-wilayah berlangsung dalam waktu singkat.
-* **Leadership**: Pengawas Angin Utama
-* **Ranks**: Pengawas Angin -> Kurir Sayap Emas -> Kurir Ngarai -> Penjaga Pos
-* **Resources**: Burung Kurir Wind-Runner, Perahu Sayap Ringan, Pos Transit Berjarak 100 Li.
-* **Territories**: Pos transit di setiap kota dan wilayah benua Qianyuan.
-* **Allies**: Hollow Wind Sect, Merchant Alliance.
-* **Rivals**: Perampok Jalur Udara & Mata-Mata Independen.
-* **Rules**: Kerahasiaan surat/paket adalah mutlak; kurir yang membocorkan isi surat akan dikeluarkan dan di-hunt.
-* **Services**: Pengiriman Surat Kilat, Jasa Pengawalan Dokumen Rahasia, Perekaman Pesan Suara via Echo Stone.
-* **Political Influence**: Sedang-Tinggi karena memegang arus komunikasi antar-pemerintah dan sekte.
-* **Known Information**: Cara tercepat dan teraman untuk mengirim pesan ke seluruh penjuru benua.
-* **Hidden Information**: Menyadur sebagian ringkasan informasi dari surat-surat tidak terenkripsi untuk dijual ke pasar intelijen.
+### 🐾 2.3 Serikat Pawang & Pelindung Spirit Beast (Spirit Beast Union)
+Serikat pawang dan peneliti ekologi binatang spiritual yang mengelola kontrak ikatan jiwa (*Beast Bond*) dan mencegah perburuan liar.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Pawang Elder Beast-Master** | Kepala Serikat Pawang Spirit Beast | 86 | Nascent Soul, Mid | **46.875** | *Seruan Jiwa Binatang Purba* — memanggil bantuan kawanan beast di sekitar | Penyabar, penyayang binatang spiritual, tegas pada pemburu liar |
+| **Pawang Jiwa Master Green-Lian** | Peneliti Kontrak Binaan Spirit Beast | 52 | Core Formation, Peak | **15.625** | *Cahaya Segel Ikatan Jiwa* — pancaran aura Qi memenangkan binatang spiritual liar | Penyabar, lembut pada binatang, pembenci perburuan liar |
 
 ---
 
-### 3.5 Dao Registry (Pengadilan & Pendaftaran Hukum Dao)
-* **Name**: Dao Registry Council
-* **Type**: Lembaga Pendaftaran Sekte, Identitas Kultivator, & Hukum Dao
-* **Origin**: Yuanjing Capital
-* **Headquarters**: Dao Archives (Cincin 3, Yuanjing)
-* **Purpose**: Mencatat pendaftaran resmi seluruh kultivator, sekte/dojo baru, klaim hak tambang, serta pencatatan tingkat kultivasi (*Realm Certification*).
-* **Leadership**: Dewan Tetua Dao
-* **Ranks**: Tetua Agung -> Penguji Realm -> Pencatat Hukum -> Petugas Lapangan
-* **Resources**: Arsip Kitab Dao Kuno, Alat Pengukur Inti Qi Pusat, Cermin Identitas Spiritual.
-* **Territories**: Cabang utama di setiap ibu kota wilayah.
-* **Allies**: Imperial Court, Ten Great Sects.
-* **Rivals**: Sekte Iblis & Kultivator Liar Tak Terdaftar.
-* **Rules**: Pendaftaran wajib mencantumkan asal-usul kultivasi yang sah; pemalsuan identity berujung pencabutan sertifikat.
-* **Services**: Penerbitan Plat Identitas Kultivator, Sertifikasi Realm, Pendaftaran Izin Dojo/Sekte Baru.
-* **Political Influence**: Tinggi di bidang legalitas kultivasi dan klaim wilayah.
-* **Known Information**: Tempat di mana reputasi dan tingkatan resmi kultivator diverifikasi.
-* **Hidden Information**: Menyimpan catatan kelemahan teknik dari sekte-sekte yang pernah mendaftarkan hukum kultivasi mereka.
+### 🕊️ 2.4 Jaringan Kurir Agung (Grand Courier Network)
+Organisasi ekspedisi kilat yang mengelola pengiriman dokumen rahasia, paket spiritual, dan rekaman suara via *Echo Stone*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kepala Terminal Kurir Feng-Luo** | Direktur Pengiriman Kilat Lintas Wilayah | 54 | Core Formation, Peak | **15.625** | *Langkah Bayangan Burung Gale* — gerakan melompat lincah melintasi tebing | Cepat, efisien, menghargai ketepatan waktu pengiriman |
+| **Ketua Serikat Boss Feather-Ling** | Kepala Jasa Informasi & Kurir Ngarai | 50 | Core Formation, Peak | **15.625** | *Langkah Burung Bulu Terbang* — gerakan merayap dinding tebing secepat angin | Cerdik, sangat menjaga reputasi kerahasiaan surat pelanggan |
 
 ---
 
-### 3.6 Bounty Tribunal (Tribunal Buronan & Pemburu Hadiah)
-* **Name**: Bounty Tribunal
-* **Type**: Organisasi Penegak Hukum Independen & Bursa Bounties
-* **Origin**: Central Plains
-* **Headquarters**: Central Hall of Justice (Central Plains)
-* **Purpose**: Menerbitkan daftar buronan, mengelola hadiah penangkapan (*bounties*), dan memfasilitasi pekerjaan bagi tentara bayaran/pemburu hadiah.
-* **Leadership**: Tiga Hakim Bayangan
-* **Ranks**: Hakim -> Pengawas Buronan -> Pemburu Emas -> Pemburu Perak -> Pemburu Perunggu
-* **Resources**: Papan Bounties Benua, Dana Jaminan Hadiah, Jaringan Informan Kriminal.
-* **Territories**: Papan informasi buronan di setiap kedai dan kota di benua.
-* **Allies**: Imperial Court, Local Guard Garrison.
-* **Rivals**: Sindikat Kriminal & Organisasi Assassin Terlarang.
-* **Rules**: Pembatalan target wajib menyerahkan bukti kematian/penangkapan yang sah; larangan membunuh sesama pemburu di area pos.
-* **Services**: Penerbitan Klaim Hadiah, Jasa Pemburu Bayaran Khusus, Perlindungan Saksi Kunci.
-* **Political Influence**: Sedang, disegani oleh kultivator liar dan penjahat.
-* **Known Information**: Tempat mengecek nilai buronan dan mengambil pekerjaan kontrak pertarungan.
-* **Hidden Information**: Menggunakan sebagian dana pemburu hadiah untuk mendanai misi pembunuhan rahasia terhadap target politik.
+### 📜 2.5 Pengadilan & Pendaftaran Hukum Dao (Dao Registry Council)
+Lembaga resmi penerbit sertifikasi Realm kultivator, pendaftaran dojo/sekte baru, dan penguji keaslian hukum Dao.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Petugas Dao Lin Shu** | Penguji Sertifikasi Dao Registry Pusat | 65 | Foundation Establishment, Mid | **1.875** | *Cermin Deteksi Inti Qi* — teknik pemindaian keaslian Realm dan penyumbatan meridian | Ramah, teliti, taat prosedur pendaftaran identitas kultivator baru |
 
 ---
 
-### 3.7 Fate Scar Archive (Arsip Scarlands)
-* **Name**: Fate Scar Research Archive
-* **Type**: Lembaga Peneliti Anomali & Pemetaan Fate Scarlands
-* **Origin**: Boundary of Fate Scarlands
-* **Headquarters**: Scar-Watch Citadel (Southern Frontier)
-* **Purpose**: Mencatat perubahan distorsi ruang-waktu, meneliti relik anomali, serta menerbitkan peta navigasi zona Scarlands.
-* **Leadership**: Cendekiawan Agung Anomali
-* **Ranks**: Cendekiawan Agung -> Arkeolog Anomali -> Penjelajah Lapangan -> Pengawal Ekspedisi
-* **Resources**: Peta Dinding Anomali, Kompas Penstabil Ruang, Alat Restorasi Memori Kuno.
-* **Territories**: Pos pengamatan di sekeliling rantai garis pembatas Fate Scarlands.
-* **Allies**: Imperial Court, Explorer Guild.
-* **Rivals**: Cult Anomali & Pemuja Distorsi.
-* **Rules**: Dilarang membawa keluar sampel anomali berbahaya tingkat tinggi tanpa isolasi formasi khusus.
-* **Services**: Penjualan Peta Navigasi Scarlands, Penilaian Relik Kuno, Jasa Pemandu Ekspedisi Anomali.
-* **Political Influence**: Khusus/Sangat Penting terkait isu keamanan bencana distorsi benua.
-* **Known Information**: Sumber referensi ilmiah terpercaya mengenai hukum-hukum anomali di Fate Scarlands.
-* **Hidden Information**: Memiliki artefak kuno yang mampu memprediksi ledakan gelombang *Scar Tide* berikutnya.
+### ⚖️ 2.6 Tribunal Buronan & Pemburu Hadiah (Bounty Tribunal)
+Organisasi independen pengelola papan buronan (*Bounty Board*) dan penyedia pekerjaan bagi tentara bayaran/pemburu hadiah.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Hakim Bayangan Master Justice-Wu** | Ketua Pengawas Bounties Lintas Wilayah | 72 | Nascent Soul, Early | **31.250** | *Rantai Segel Penghakim Dosa* — ikatan Qi penjerat pergerakan musuh | Dingin, adil, menindak keras pemburu hadiah yang membunuh saksi palsu |
 
 ---
 
-## 4. GM Instructions
-* Gunakan daftar organisasi ini saat karakter berinteraksi dengan pos cabang di mana pun mereka berada di benua Qianyuan.
-* Reputasi karakter (*Reputation Modifier*) di satu cabang organisasi lintas wilayah akan berlaku sama di cabang kota lainnya.
+### 📜 2.7 Arsip Peneliti Scarlands (Fate Scar Archive)
+Organisasi peneliti independen yang memetakan perubahan anomali ruang-waktu dan catalog relik kuno di Fate Scarlands.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Arsiparis Utama Master Scholar-Yin** | Kepala Arsiparis Fate Scar Archive | 98 | Nascent Soul, Peak | **78.125** | *Kuasa Pena Pembeku Anomali* — tulisan Qi yang menyegel getaran ruang sementara | Bijaksana, tekun, berdedikasi memetakan seluruh perubahan lanskap Scarlands |
+
+---
+
+### ⚔️ 2.8 Perkumpulan Pisau Sunyi (Silent Blade Guild)
+Organisasi assassin profesional berstruktur ketat yang menerima kontrak pembunuhan lintas wilayah dengan sistem token pisau (*Knife Token*).
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ketua Perkumpulan "Pisau Tanpa Suara" Ji Wu** | Pemimpin Utama Silent Blade Guild | 110 | Void Refinement, Early | **781.250** | *Satu Tusukan Satu Napas* — teknik pembunuhan senyap tanpa getaran suara | Tenang mengerikan, tak pernah gagal sekali menerima kontrak |
+| **Eksekutor Senior Lian Dao** | Pembunuh Bayaran Senior | 62 | Soul Formation, Early | **156.250** | *Bayangan Berlapis Tiga* — menciptakan ilusi bayangan diri saat menyerang | Dingin, profesional, tak pernah bicara pada target sebelum eksekusi |
+
+---
+
+## 🧘 3. Kultivator Pengembara Bebas / Sanxiu (Independent Wandering Cultivators)
+
+> 📌 **Definisi Sanxiu**: Kultivator bebas yang **TIDAK** terikat sekte atau faksi manapun. Sanxiu mencari Dao secara mandiri, berpetualang mencari herbal/artefak, dan bersikap netral (bukan penjahat/demonis).
+
+| NPC | Lokasi Terakhir Terlihat | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **"Pengembara Bunga Embun" Yan-Feng** | Vermilion Basin & Nine-Reed Mire | 42 | Core Formation, Mid | **9.375** | *Pedang Bayangan Embun Pagi* — tebasan pedang ringan ber-Qi air | Santai, menyukai ketenangan, sering membantu desa dari serangan monster |
+| **Tabib Pengembara Su-Lian** | Berpindah-pindah antar-desa | 28 | Qi Gathering, Late | **500** | *Jarum Embun Penyelamat Jiwa* — akupunktur Qi meredakan racun | Penyabar, lembut, mengobati warga tanpa memungut biaya tinggi |
+| **Pengemis Tua Lu** | Cincin 6 Ibu Kota Yuanjing | 210 | Non-Kultivator *(Mantan Soul Formation)* | — *(Meridian Rusak)* | *Tongkat Bambu Pemutus Keheningan* — refleks fisik ilmu lama tanpa Qi | Pikun dan pemalas di luar, namun pandangannya sangat tajam menganalisis orang |
+
+---
+
+## ☠️ 4. Kultivator Sesat & Demonis (Evil / Demonic Outlaws)
+
+> 📌 **Definisi Cultivator Sesat**: Pelaku kejahatan yang mempraktikkan jalur terlarang (penyerapan vitalitas manusia, racun darah, pembantaian liar) dan menjadi buronan resmi Kekaisaran.
+
+| NPC | Lokasi Terakhir Terlihat | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **"Pedang Gila" Kuang-Jian** | Central Plains & Blackstone Skyreach | 52 | Nascent Soul, Mid | **46.875** | *Seribu Sayatan Tanpa Pola* — gaya pedang liar tanpa aturan | Setengah gila akibat *Cultivation Deviation*, menyerang siapapun yang menghalangi |
+| **Wanita Misterius "Peminum Darah"** | Pesisir Astral Tide Sea | 125 | Void Refinement, Mid | **1.171.875** | *Ilmu Serap Vitalitas Darah* — menyerap Qi & HP musuh saat melukai | Sangat berbahaya, tak terikat kode etis, diburu resmi oleh Kekaisaran |
+| **Pemimpin Sindikat Feng Sha** | Gua Akar Kelam Whispering Root Forest | 49 | Core Formation, Mid | **9.375** | *Perangkap Duri Beracun* — jebakan Qi berduri yang melumpuhkan target | Kejam, licik, menghalalkan segala cara demi keuntungan emas |
+
+---
+
+## 👤 5. Kriminal & Tokoh Gelap Mortal (Non-Cultivator Underworld Figures)
+
+Dunia bawah Qianyuan juga dihuni oleh tokoh-tokoh mortal tanpa kekuatan Qi yang mempengaruhi kehidupan masyarakat melalui uang, kelicikan, dan koneksi politik:
+
+| NPC | Peran | Lokasi Utama | Umur | Realm & Stage | Karakteristik & Sifat |
+|---|---|---|---|---|---|
+| **Rentenir Kejam Qian-Bo** | Pemberi pinjaman bunga tinggi | Cincin 6 Yuanjing | 54 | Non-Kultivator | Menagih utang dengan sewa preman pasar, tak kenal belas kasih |
+| **Bandar Judi "Tangan Emas"** | Pemilik Rumah Judi Bintang | Pelabuhan Vermilion | 48 | Non-Kultivator | Licik, curang secara halus, punya koneksi ke pejabat pelabuhan |
+| **Mucikari Paviliun Merah** | Pemilik Rumah Hiburan | Cincin 7 Yuanjing | 45 | Non-Kultivator | Mengetahui rahasia klan bangsawan, menjual informasi ke informan |
+| **Penipu Ulung "Lidah Manis" Tian** | Penipu identitas sekte | Berpindah-pindah | 30 | Non-Kultivator | Pandai menyamar sebagai utusan sekte palsu untuk memeras desa |
+
+---
+
+## 📊 6. Perbandingan Populasi Qianyuan Berdasar Kekuatan
+
+*(Selaras dengan Ikhtisar Dunia di `01_WORLD_OVERVIEW_AND_CAPITAL.md`)*
+
+- **85% populasi (± 263 juta jiwa)** adalah **mortal biasa tanpa kultivasi** — petani, pedagang, buruh tambang, rentenir, mucikari, dan pejabat sipil. Kekerasan masyarakat sehari-hari (pemalakan, penipuan, perampokan jalanan) sebagian besar berasal dari kalangan ini.
+- **14% populasi (± 43 juta jiwa)** adalah **kultivator tingkat awal (Body Refining hingga Foundation Establishment)** — murid dojo, pengawal karavan, pemburu berlisensi, dan anggota militer biasa.
+- **< 1% populasi (± 4 juta jiwa)** adalah **kultivator tingkat tinggi (Core Formation ke atas)** — sesepuh sekte, jenderal kekaisaran, dan master ahli yang menentukan jalannya politik benua.
+
+> 📌 **Instruksi AI GM**: Encounter acak di permukiman umum atau pasar harus didominasi oleh NPC non-kultivator atau kultivator tingkat awal (Realm 1–3), bukan kultivator tingkat tinggi, demi menjaga realisme distribusi kekuatan dunia Qianyuan.
+
+---
+
+## 7. GM Notes & Instructions
+* Reputasi karakter (*Reputation Modifier*) pada satu organisasi lintas wilayah berlaku konsisten di seluruh pos cabang di benua Qianyuan.
+* AI GM wajib membedakan secara tegas antara Sanxiu (kultivator bebas netral) dan Kultivator Sesat (demonis/buronan hukum).

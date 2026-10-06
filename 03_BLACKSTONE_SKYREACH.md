@@ -1,7 +1,7 @@
 # ⛰️ Qianyuan-World — IV. Blackstone Skyreach (Pegunungan Batu Hitam)
 
 > **Modul:** 03 — Blackstone Skyreach
-> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `12_CULTIVATION_RESONANCE_SYSTEM.md` (kalkulasi QiCap & breakthrough), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini)
+> **Rujukan silang:** `01_WORLD_OVERVIEW_AND_CAPITAL.md` (peta jarak dari Yuanjing), `11_CROSS_REGION_ORGANIZATIONS.md` (Merchant Alliance & Serikat Penambang), `12_CULTIVATION_RESONANCE_SYSTEM.md` §6 (kalkulasi QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (bursa mineral & logam), `15_COMBAT_TACTICAL_SYSTEM.md` (pertarungan tebing & zirah berat), `16_CRAFTING_ALCHEMY_ARRAY_SYSTEM.md` (tempa senjata Cold Steel & Heavy Iron), `20_BESTIARY_ECOLOGY.md` (monster wilayah ini), `23_BLACKSTONE_VOW_SECT.md` (sekte utama), `28_FROST_EDGE_SCHOOL.md` (sekte tetangga)
 
 ---
 
@@ -18,10 +18,26 @@
 
 ---
 
+## Bahaya Alam Pegunungan & Tambang (Environmental Hazards)
+
+Eksplorasi di pegunungan terjal dan gua tambang bawah tanah Blackstone Skyreach menyimpan ancaman alamiah mematikan bagi kultivator:
+
+1. **💥 Pulsa Magnetik Bawah Tanah (*Underground Magnetic Pulse*)**
+   - **Lokasi Dampak:** Zona Inti Gua Tambang Besi Kuno dan Ngarai Batu Hitam.
+   - **Efek Mekanis:** Fluktuasi medan magnetik pekat yang mengacaukan kompas formasi. Memicu penalti Accuracy/Hit Rate sebesar -20% pada serangan jarak jauh menggunakan senjata berunsur logam dan disorientasi arah.
+2. **🪨 Runtuhan Tebing Batu Hitam (*Blackstone Cliff Collapse*)**
+   - **Lokasi Dampak:** Tebing terjal di luar Benteng Skyreach dan lereng ngarai.
+   - **Efek Mekanis:** Guncangan energi atau badai gunung memicu longsoran batu raksasa. Memicu pemeriksaan Strength/Dexterity dengan risiko keruntuhan zirah (*Posture Unstable*) serta risiko pendarahan/trauma patah tulang (*Bone Fracture Trauma*).
+3. **💨 Gas Beracun Tambang Dalam (*Mine Damp Toxic Gas*)**
+   - **Lokasi Dampak:** Zona Tengah dan Zona Inti lorong gua tambang bawah tanah.
+   - **Efek Mekanis:** Uap gas lemas tanpa bau yang mengumpul di dalam gua. Karakter mengalami pengurasan Stamina **-20 per Shichen** dan penalti Focus -15 poin jika tidak memakai masker penawar atau perisai Qi aktif.
+
+---
+
 ## Lokasi Utama & Situs Khusus
 
 ### 🏰 Benteng Skyreach (Skyreach Hold)
-1.200 li dari Yuanjing. Kota benteng utama yang dipahat di tebing batu hitam keras (*Blackstone*), dipimpin oleh Dewan Sesepuh Penempa.
+1.200 li dari Yuanjing. Kota benteng utama yang dipahat di tebing batu hitam keras (*Blackstone*), dipimpin oleh Dewan Sesepuh Penempa dan markas besar Sekte Blackstone Vow.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -48,9 +64,9 @@
 
 | Zona Kedalaman | Kedalaman | Karakteristik & Hasil Bijih | Tingkat Bahaya |
 |---|---|---|---|
-| **Zona Luar (Zona Iron Vein)** | 0–200 meter | Bijih besi biasa, Heavy Iron Ore, batu fondasi. | 🟡 Rendah |
-| **Zona Tengah (Zona Deep Steel)** | 200–1.000 meter | Deep Steel Ore, Blackstone Gem, gas beracun tambang (*Mine Damp*). | 🟠 Menengah |
-| **Zona Inti (Zona Core Magnet)** | 1.000–3.000+ meter | Cold Magnet Ore, Earth Core Crystal, fluktuasi *Magnetic Pulse*. Tanpa lampu penerang alami. | 🔴 Sangat Tinggi |
+| **Zona Luar (Zona Iron Vein)** | 0–200 meter | Bijih besi biasa, Heavy Iron Ore, batu fondasi. Habitat Iron-Eating Beetle. | 🟡 Rendah |
+| **Zona Tengah (Zona Deep Steel)** | 200–1.000 meter | Deep Steel Ore, Blackstone Gem, gas beracun tambang (*Mine Damp*). Habitat Stone Ridge Ape. | 🟠 Menengah |
+| **Zona Inti (Zona Core Magnet)** | 1.000–3.000+ meter | Cold Magnet Ore, Earth Core Crystal, fluktuasi *Magnetic Pulse*. Tanpa penerangan alami. | 🔴 Sangat Tinggi |
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -59,12 +75,39 @@
 
 ---
 
+### ⛓️ 🆕 Pos Pengawas Jembatan Rantai (Chainbridge Watchpost)
+1.050 li dari Yuanjing (150 li sebelum Benteng Skyreach). Pos menara batu yang mengendalikan jembatan rantai besi sepanjang 300 meter menyeberangi ngarai terjal tanpa dasar.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Jembatan Tie-Biao** | Komandan Pengawal Jembatan Rantai | 47 | Core Formation, Early | **6.250** | *Rantai Besi Penjerat Kaki* — lemparan rantai Qi pengunci pergerakan musuh | Disiplin, kaku, sangat teliti memeriksa dokumen pajak galian karavan |
+
+---
+
+### 🏛️ 🆕 Gua Reruntuhan Tungku Tempa Purba (Ancient Forge Ruins)
+1.750 li dari Yuanjing (150 li melintasi Gua Tambang Besi Kuno). Reruntuhan batu raksasa peninggalan klan penempa purba yang menyimpan prasasti formasi tempa *Earth Core Flame*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Entitas Penjaga Tungku Purba** | Roh formasi pelindung tungku | — | Setara Void Refinement, Early | **781.250** | *Gelombang Api Tempa Batu Hitam* — ledakan aura panas meremukkan zirah | Tanpa emosi, bereaksi otomatis menyerang siapapun yang merusak prasasti tungku |
+
+---
+
+### ⛰️ 🆕 Ngarai Batu Hitam Kelam (Dark Blackstone Gorge)
+1.350 li dari Yuanjing (150 li di barat Benteng Skyreach). Ngarai batu gelap terisolasi yang menjadi sarang kawanan perampok *Iron Ridge Bandits*.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemburu Ngarai Ah-Kuang** | Pemandu penjelajah ngarai terjal | 33 | Foundation Establishment, Early | **1.250** | *Panah Batu Penembus Zirah* — tembakan panah berujung mineral keras | Pendiam, berpengalaman melintasi tebing licin, menghargai emas murni |
+
+---
+
 ## Sekte & Faksi Lokal
 
 ### 🛡️ Blackstone Vow Sect (Sekte Sumpah Batu Hitam)
 *Markas Utama: Skyreach Citadel — 1.200 li dari Yuanjing*
 
-Sekte penguasa pegunungan yang mempraktikkan ilmu raga keras (*Body Refining*), pertahanan zirah berat, dan sumpah pertahanan benteng.
+Sekte penguasa pegunungan yang mempraktikkan ilmu raga keras (*Body Refining*), pertahanan zirah berat, dan sumpah pertahanan benteng. *(Lihat `23_BLACKSTONE_VOW_SECT.md`)*.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -85,8 +128,19 @@ Organisasi pengelola hak ekstraksi bijih mineral, pengatur kuota galian, dan pen
 
 ---
 
+### 🔨 🆕 Serikat Tempa Zirah "Palu Emas" (Golden Anvil Armorers Guild)
+*Lokasi: Lembah Anvil & Benteng Skyreach*
+
+Jaringan pengrajin penempa independen yang memproduksi dan menyalurkan senjata Cold Steel, zirah zirah besi berat, dan kualo alkimia ke seluruh benua.
+
+| NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Saudagar Tempa Master Jin-Chun** | Pemimpin Serikat Palu Emas | 52 | Core Formation, Early | **6.250** | *Perisai Zirah Besi Tempa* — benteng aura Qi penolak sabetan pedang | Cerdik, menghargai kualitas bahan mineral murni, pandai berbisnis |
+
+---
+
 ### ⚔️ Kelompok Perampok Gunung Iron Ridge (Ngarai Batu Hitam)
-*1.350 li dari Yuanjing — Ngarai terpencil Blackstone Skyreach*
+*1.350 li dari Yuanjing — Ngarai batu gelap terisolasi*
 
 Kawanan perampok bersenjata berat yang menyergap karavan pengangkut bijih mentah dan batu spiritual.
 
@@ -97,5 +151,6 @@ Kawanan perampok bersenjata berat yang menyergap karavan pengangkut bijih mentah
 ---
 
 ## GM Notes & Instructions
-* Wilayah Blackstone Skyreach memberikan bonus pertahanan fisik +20% bagi pengguna teknik Earth/Metal Qi.
+* Wilayah Blackstone Skyreach memberikan bonus pertahanan fisik **+20%** bagi pengguna teknik Earth/Metal Qi.
 * Berada di Zona Inti Gua Tambang memicu efek *Magnetic Pulse* (penalti akurasi busur/panah -20% dan disorientasi kompas).
+* Karakter yang melintasi jembatan rantai besi saat angin kencang wajib melakukan pemeriksaan kestabilan Posture (*Balance Check*).
