@@ -12,7 +12,7 @@
 **Law Origin (jika sudah ada Hukum):** Belum ada
 **Sekte/Afiliasi Awal:** Sanxiu (Penduduk Desa Biasa)
 
-**Kondisi Awal:** HP 25/100 · Qi 0/0 · Stamina 100/100 · Satiety 100% · Kondisi Normal · Karma Netral
+**Kondisi Awal:** HP 100/100 · Qi 0/0 · Stamina 100/100 · Satiety 100% · Kondisi Normal · Karma Netral
 
 **Currency Awal:**
 - Copper Taels × 100
