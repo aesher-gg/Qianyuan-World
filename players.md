@@ -24,8 +24,7 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| - | - | - | - | -|
-| - | - | - | - |
+| **Xuan Yu** | Desa Root-Bound (`07`) | Body Refining, Early (Mortal) | Sanxiu (Warga Desa) | [RAW File](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Xuan_Yu.md) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
