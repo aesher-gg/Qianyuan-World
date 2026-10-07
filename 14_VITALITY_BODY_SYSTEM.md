@@ -22,15 +22,12 @@ Sama seperti energi Qi yang tunduk pada `QiCap` dan harga yang tunduk pada `Fina
 
 ## 📊 1. Atribut Vitalitas Utama (Core Vital Attributes)
 
-Setiap karakter di dunia Qianyuan memiliki 7 Atribut Vitalitas Utama yang dicatat di blok Profil Karakter:
+Setiap karakter di dunia Qianyuan memiliki 4 Atribut Vitalitas Utama yang dicatat di blok Profil Karakter:
 
 * **HP (Hit Points / Health)**: Daya tahan hidup fisik utama. Jika HP mencapai 0, karakter masuk ke kondisi pingsan/kritis (*Dying State*).
 * **Qi (Spiritual Energy)**: Energi batin Dantian untuk merapalkan jurus, membentuk perisai aura, dan melakukan kultivasi.
 * **Stamina**: Energi fisik untuk berlari, bertahan dalam pertarungan jarak dekat, dan menahan kondisi lingkungan ekstrem.
 * **Satiety (Tingkat Kekenyangan)**: Skala nutrisi fisik (0 s/d 100). Memengaruhi kecepatan regenerasi fisik.
-* **Focus (Konsentrasi Batin)**: Ketahanan mental (0 s/d 100) terhadap serangan ilusi, intimidasi, dan kelelahan pikiran.
-* **Resolve (Tekad Batin)**: Ketahanan moral (0 s/d 100) untuk bertahan hidup saat berada dalam kondisi kritis/nyaris mati.
-* **Fatigue (Keletihan Tubuh)**: Akumulasi kelelahan fisik (0 s/d 100). Fatigue tinggi menurunkan regenerasi Stamina dan Qi.
 
 ---
 
@@ -104,7 +101,7 @@ HPMax(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 
 ### 4.2 Trauma Dantian & Jiwa (Trauma)
 * **Dantian Shock**: Gangguan aliran Qi akibat hentakan intim atau *Backlash*. Penalti Kecepatan Pemulihan Qi -50%.
-* **Soul Trauma**: Kerusakan jiwa batin akibat serangan mental/ilusi. Penalti Max Focus -30%.
+* **Soul Trauma**: Kerusakan jiwa batin akibat serangan mental/ilusi. Penalti Max Qi -30%.
 
 ### 4.3 Racun & Pendarahan (Poison & Bleeding)
 * **Poison Status (Sengatan Racun)**: Mengurangi HP sebesar 5 s/d 30 poin per Shichen tergantung grade racun (*Minor / Moderate / Lethal*) hingga diminumi *Antidote Pill*.
@@ -139,7 +136,7 @@ BaseDecayRate = 25 Satiety Points per Shichen (Mortal biasa kehilangan kenyang p
 ### 🥣 Status Efek Satiety
 * **Satiety 70 s/d 100 (Kenyang)**: Bonus regenerasi Stamina & Qi +10%.
 * **Satiety 30 s/d 69 (Normal)**: Kondisi fisik biasa.
-* **Satiety 10 s/d 29 (Lapar)**: Penalti Max Stamina -25%, penalti Focus -10.
+* **Satiety 10 s/d 29 (Lapar)**: Penalti Max Stamina -25%, penalti Kecepatan Pemulihan Qi -20%.
 * **Satiety 0 (Kelaparan Kritis)**: Pengurangan HP sebesar 5 poin per Shichen, **TIDAK BISA** melakukan terobosan Realm atau regenerasi Qi alami.
 
 ---
@@ -147,7 +144,7 @@ BaseDecayRate = 25 Satiety Points per Shichen (Mortal biasa kehilangan kenyang p
 ## 🛌 6. Mekanik Istirahat & Pemulihan (Rest & Recovery)
 
 * **Short Rest (1 Shichen / 2 Jam)**: Memulihkan Stamina sebesar 30%, memulihkan Qi sebesar 25%. Memerlukan konsumsi 1 porsi makanan/air.
-* **Long Rest (4 Shichen / 8 Jam)**: Memulihkan HP sebesar 50%, memulihkan Qi & Stamina penuh, serta mengurangi Fatigue sebesar 50 poin.
+* **Long Rest (4 Shichen / 8 Jam)**: Memulihkan HP sebesar 50%, memulihkan Qi & Stamina penuh.
 * **Pengobatan Tabib / Pill Alkimia**: Diperlukan untuk memulihkan *Major/Severe Wound*, menyembuhkan *Dantian Shock*, atau menghilangkan racun mematikan.
 
 ---

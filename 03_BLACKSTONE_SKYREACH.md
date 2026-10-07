@@ -30,7 +30,7 @@ Eksplorasi di pegunungan terjal dan gua tambang bawah tanah Blackstone Skyreach 
    - **Efek Mekanis:** Guncangan energi atau badai gunung memicu longsoran batu raksasa. Memicu pemeriksaan Strength/Dexterity dengan risiko keruntuhan zirah (*Posture Unstable*) serta risiko pendarahan/trauma patah tulang (*Bone Fracture Trauma*).
 3. **💨 Gas Beracun Tambang Dalam (*Mine Damp Toxic Gas*)**
    - **Lokasi Dampak:** Zona Tengah dan Zona Inti lorong gua tambang bawah tanah.
-   - **Efek Mekanis:** Uap gas lemas tanpa bau yang mengumpul di dalam gua. Karakter mengalami pengurasan Stamina **-20 per Shichen** dan penalti Focus -15 poin jika tidak memakai masker penawar atau perisai Qi aktif.
+   - **Efek Mekanis:** Uap gas lemas tanpa bau yang mengumpul di dalam gua. Karakter mengalami pengurasan Stamina **-20 per Shichen** dan penalti regenerasi Qi -15% jika tidak memakai masker penawar atau perisai Qi aktif.
 
 ---
 

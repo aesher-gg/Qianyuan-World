@@ -118,7 +118,7 @@ Calon murid harus mendatangi *Altar Perjanjian Purba* di Ancient Tree Sanctuary 
 1. **Ujian Resonansi Kehidupan**: Mengalirkan *Wood Qi* untuk menyembuhkan bibit tanaman spiritual yang hampir layu hingga tumbuh mekar kembali dalam waktu 1 Shichen.
 2. **Ujian Kemurnian Batin**: Mendekati seekor *Emerald Panther* liar tanpa memicu amarah atau mengeluarkan niat membunuh (*Killing Intent*).
 
-Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus & Affinity Check*).
+Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Affinity Check*).
 
 ---
 

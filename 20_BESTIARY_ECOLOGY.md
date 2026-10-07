@@ -47,7 +47,7 @@ MonsterAttackPower = QiCap(realm, stage) × 0,15 × LawAttackMultiplier(element)
 2. 🔥 **Elemental (Makhluk Elemen)**: Entitas murni yang terbentuk dari gumpalan energi Nine Meridian Currents (Api, Es, Petir, Air, Lumpur).
 3. 👻 **Undead / Roh (Arwah & Mayat Hidup)**: Roh penasaran, mayat beracun, dan entitas arwah perang yang kebal serangan fisik biasa tanpa perisai Qi.
 4. 🐛 **Insect / Gu Swarm (Kawanan Serangga)**: Kawanan lebah, lipan, atau kutu spiritual yang menyerang dalam jumlah besar.
-5. 👤 **Bayangan / Yin (Siluman Tak Berwujud)**: Entitas siluman atau ilusi yang menyerang kesadaran batin (*Focus*) dan membingungkan indera arah.
+5. 👤 **Bayangan / Yin (Siluman Tak Berwujud)**: Entitas siluman atau ilusi yang menyerang kesadaran batin dan energi Qi (*Qi Drain*) serta membingungkan indera arah.
 6. 🗿 **Ancient Guardian (Penjaga Purba)**: Golem batu/bambu atau monster purba berumur ribuan tahun yang menjaga reruntuhan suci.
 
 ### 2.2 Standar Tingkat Bahaya (Threat Level Standard)
@@ -116,7 +116,7 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Common River Crab | 🐺 Spirit Beast | 1, Early (Body Refining) | 31 | 6 | Kepiting sungai air tawar bersupit keras. Bersembunyi di balik batu sungai dangkal. | Umum: Daging Kepiting Sungai (Tier 1) — Jarang: Cangkang Kepiting Keras (Tier 1) |
 | Wild Horned Bull | 🐺 Spirit Beast | 2, Early (Qi Gathering) | 187 | 30 | Banteng bertanduk ganda penghuni padang rumput. Menundukkan kepala dan melakukan *Charge Attack*. | Umum: Daging Banteng Ber-Qi (Tier 1) — Jarang: Tanduk Banteng Liar (Tier 2) |
 | Mist Rabbit | 🐺 Spirit Beast | 1, Early (Body Refining) | 25 | 7 | Kelinci putih penyembur kabut tipis penyamar diri. Lincah dan melompat cepat ke dalam sarang tanah. | Umum: Bulu Kelinci Kabut (Tier 1) — Jarang: Mata Kelinci Kristal (Tier 1) |
-| Wandering Crow | 🐺 Spirit Beast | 1, Mid (Body Refining) | 25 | 13 | Gagak pemakan bangkai ber-Qi kegelapan. Mengeluarkan suara nyaring yang memicu status *Focus -5*. | Umum: Bulu Gagak Pengembara (Tier 1) — Jarang: Paruh Gagak Mitos (Tier 1) |
+| Wandering Crow | 🐺 Spirit Beast | 1, Mid (Body Refining) | 25 | 13 | Gagak pemakan bangkai ber-Qi kegelapan. Mengeluarkan suara nyaring yang memicu penalti *Evasion -5%*. | Umum: Bulu Gagak Pengembara (Tier 1) — Jarang: Paruh Gagak Mitos (Tier 1) |
 | Common Poison Frog | 🐺 Spirit Beast | 1, Late (Body Refining) | 32 | 16 | Kodok beracun warna-warni di kolam hujan. Menyemburkan racun gatal jika tersentuh kulit terbuka. | Umum: Kulit Kodok Beracun (Tier 1) — Jarang: Kelenjar Racun Kodok (Tier 1) |
 
 ---
@@ -145,7 +145,7 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Iron-Hide Wild Boar | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 281 | 45 | Babi hutan berkulit tebal sekeras besi di pinggiran Lembah Bambu. Menyeruduk lurus. | Umum: Kulit Besi Babi (Tier 2) — Jarang: Taring Besi Babi (Tier 2) |
 | Bamboo-Eating Panda | 🐺 Spirit Beast | 2, Peak (Qi Gathering) | 390 | 62 | Beruang panda penyuka bambu spiritual. Terlihat tenang namun memiliki pukulan cakar mematikan. | Umum: Bulu Panda Bambu (Tier 2) — Jarang: Empedu Panda Spiritual (Tier 2) |
 | Spore Toad Outer | 🐺 Spirit Beast | 1, Late (Body Refining) | 40 | 21 | Kodok penyembur spora di rawa kecil luar perbatasan. Memicu gatal-gatal pada kulit. | Umum: Lendir Kodok Spora (Tier 1) — Jarang: Kelenjar Spora Luar (Tier 1) |
-| Phantom Raven | 👤 Bayangan / Yin | 2, Mid (Qi Gathering) | 187 | 67 | Gagak arwah berbayangan gelap di makam tua Cincin 6. Menyerap Focus batin pengembara. | Umum: Bulu Gagak Arwah (Tier 1) — Jarang: Inti Bayangan Gagak (Tier 2) |
+| Phantom Raven | 👤 Bayangan / Yin | 2, Mid (Qi Gathering) | 187 | 67 | Gagak arwah berbayangan gelap di makam tua Cincin 6. Menyerap energi Qi pengembara. | Umum: Bulu Gagak Arwah (Tier 1) — Jarang: Inti Bayangan Gagak (Tier 2) |
 | Bronze-Shell Beetle | 🐛 Insect / Swarm | 1, Late (Body Refining) | 75 | 10 | Kumbang berspesimen cangkang perunggu di sekitar bengkel Cincin 5. Memakan sisa logam tempa. | Umum: Cangkang Perunggu (Tier 1) — Jarang: Serbuk Serangga Tempa (Tier 1) |
 | White-Tail Deer | 🐺 Spirit Beast | 1, Mid (Body Refining) | 32 | 6 | Rusa bertanduk putih di hutan bambu kekaisaran. Pemalu dan sangat cepat berlari. | Umum: Daging Rusa Putih (Tier 1) — Jarang: Tanduk Rusa Emas (Tier 1) |
 | Stream Fish Spirit | 🐺 Spirit Beast | 1, Early (Body Refining) | 25 | 7 | Ikan mas kecil ber-Qi air murni di parit Cincin 1–3. Melompat dan memancarkan cahaya giok. | Umum: Daging Ikan Murni (Tier 1) — Jarang: Sisik Mas Giok (Tier 1) |
@@ -313,7 +313,7 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Leaf-Winged Butterfly | 🐛 Insect / Swarm | 1, Early (Body Refining) | 32 | 7 | Kupu-kupu penyesat pandangan ber-Qi penenang di kebun herbal. | Umum: Serbuk Sayap Kupu (Tier 1) — Jarang: Esens Bunga Hutan (Tier 1) |
 | Forest Wild Boar | 🐺 Spirit Beast | 1, Late (Body Refining) | 48 | 12 | Babi hutan bertanduk kayu keras di semak belukar liar. | Umum: Daging Babi Hutan (Tier 1) — Jarang: Taring Kayu Babi (Tier 1) |
 | Wood Chameleon | 🐺 Spirit Beast | 2, Early (Qi Gathering) | 162 | 35 | Bunglon pohon pemutar warna kulit penyamar diri di dahan. | Umum: Kulit Bunglon Kayu (Tier 1) — Jarang: Kelenjar Ilusi Pohon (Tier 2) |
-| Poisonous Mushroom Creature | 🌿 Flora / Creature | 2, Mid (Qi Gathering) | 243 | 53 | Jamur monster pelempar kabut spora pemicu *Focus -15*. | Umum: Batang Jamur Spora (Tier 1) — Jarang: Esens Racun Jamur (Tier 2) |
+| Poisonous Mushroom Creature | 🌿 Flora / Creature | 2, Mid (Qi Gathering) | 243 | 53 | Jamur monster pelempar kabut spora pemicu pengurasan *Stamina -15*. | Umum: Batang Jamur Spora (Tier 1) — Jarang: Esens Racun Jamur (Tier 2) |
 | Canopy Squirrel | 🐺 Spirit Beast | 1, Mid (Body Refining) | 32 | 9 | Tupai lincah pengumpul biji tanaman obat spiritual. | Umum: Bulu Tupai Kanopi (Tier 1) — Jarang: Biji Obat Simpanan (Tier 1) |
 | Emerald Snake Small | 🐺 Spirit Beast | 1, Late (Body Refining) | 48 | 12 | Anak ular giok bersisik bening di rawa kecil hutan. | Umum: Kulit Ular Giok Kecil (Tier 1) — Jarang: Bisa Giok Muda (Tier 1) |
 | Ancient Tree Guardian Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 20.312 | 3.750 | Pelindung purba berbentuk pohon raksasa 30 meter di Sanctuary. | Legendaris: Teras Kayu Purba World Tree (Tier 5, bahan tongkat Sheng-Grade) |
@@ -360,7 +360,7 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Echo Bat | 🦇 Spirit Beast / Swarm | 2, Late (Qi Gathering) | 250 | 90 | Kelelawar raksasa pemancar serangan *Sonic Disorientation*. | Umum: Sayap Kelelawar Gema (Tier 2) — Jarang: Kelenjar Suara Gema (Tier 2) |
 | Sonic Bat Swarm | 🦇 Spirit Beast / Swarm | 2, Early (Qi Gathering) | 125 | 45 | Kawanan kelelawar kecil pemancar getaran gelombang suara. | Umum: Sayap Kelelawar Suara (Tier 1) — Jarang: Serbuk Suara Gema (Tier 2) |
 | Cliff Hawk | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 187 | 67 | Elang tebing penyergap penjelajah jembatan gantung tali. | Umum: Bulu Elang Tebing (Tier 1) — Jarang: Cakar Hawk Ngarai (Tier 2) |
-| Sound-Wave Cicada | 🐛 Insect / Swarm | 1, Late (Body Refining) | 32 | 12 | Tonggeret pemancar derik gema suara pemicu *Focus -10*. | Umum: Sayap Tonggeret Gema (Tier 1) — Jarang: Kelenjar Suara Cicada (Tier 1) |
+| Sound-Wave Cicada | 🐛 Insect / Swarm | 1, Late (Body Refining) | 32 | 12 | Tonggeret pemancar derik gema suara pemicu pengurasan *Stamina -10*. | Umum: Sayap Tonggeret Gema (Tier 1) — Jarang: Kelenjar Suara Cicada (Tier 1) |
 | Canyon Viper | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 250 | 90 | Ular tebing bersembunyi di lubang batu berongga Kota Wind-Gale. | Umum: Kulit Ular Ngarai (Tier 2) — Jarang: Bisa Angin Kobra (Tier 2) |
 | Wind-Blade Leopard | 🐺 Spirit Beast | 3, Early (Foundation Est.) | 312 | 135 | Macan tutul angin penyergap cepat tanpa getaran suara. | Umum: Kulit Macan Angin (Tier 2) — Jarang: Cakar Wind Blade (Tier 3) |
 | Wind Elemental Swarm | 🔥 Elemental | 2, Mid (Qi Gathering) | 187 | 67 | Pusaran elemental angin kecil pemotong pakaian pengembara. | Umum: Batu Angin Topan (Tier 1) — Jarang: Inti Elemental Angin (Tier 2) |

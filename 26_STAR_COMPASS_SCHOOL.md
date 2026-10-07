@@ -118,7 +118,7 @@ Calon murid harus mendaftar di *Pelataran Formasi Pelabuhan* di Star-Compass Por
 1. **Ujian Pembacaan Rasi Bintang**: Mengidentifikasi 12 rasi bintang navigasi menggunakan kompas formasi dalam ruangan berkabut buatan.
 2. **Ujian Ketahanan Laut**: Mempertahankan posisi berdiri kokoh di atas tiang layar kapal di tengah gelombang buatan tanpa menggunakan Zirah Fisik kasar.
 
-Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus & Agility Check*).
+Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Agility Check*).
 
 ---
 

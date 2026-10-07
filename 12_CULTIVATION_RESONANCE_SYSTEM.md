@@ -39,7 +39,7 @@ Mortal (Non-Kultivator)
 |---|---|---|
 | **1. Pembukaan Simpul Meridian** | Melalui latihan penempaan fisik, mandi ramuan herbal pembilas kotoran tubuh (*Body Cleansing Herbs* Tier 1), atau bantuan pijat meridian oleh Guru/Tabib. | Membuka 12 Meridian Utama (*Standard Meridian Pattern*) agar Dantian mampu menampung energi Qi. |
 | **2. Asal-Usul Hukum Sah (*Law Origin*)** | Harus memiliki panduan resmi dari salah satu dari 3 jalur sah: bimbingan Guru/Mentor, menemukan Kitab Manual Kultivasi Tier 1, atau Pencerahan Sejati (§4.0). | Menentukan elemen Qi utama yang ditarik ke dalam Dantian. |
-| **3. Kondisi Vitalitas Sehat** | Tubuh dalam kondisi prima (HP & Stamina 100%, Satiety ≥ 50, serta bebas dari status *Wound Trauma*, *Poison*, atau *Fatigue*). | Mencegah terjadinya kegagalan pernapasan saat Qi pertama kali mengalir. |
+| **3. Kondisi Vitalitas Sehat** | Tubuh dalam kondisi prima (HP & Stamina 100%, Satiety ≥ 50, serta bebas dari status *Wound Trauma* atau *Poison*). | Mencegah terjadinya kegagalan pernapasan saat Qi pertama kali mengalir. |
 | **4. Poin Pemahaman Awal** | Mengumpulkan **5 Insight Points** dari narasi roleplay (meditasi pernapasan dasar, memahami konsep Dantian, atau latihan fisik). | Memastikan pemain memahami prinsip dasar pengarahan energi batin. |
 
 > 📌 **Catatan AI GM**: Proses inisiasi mortal menuju Body Refining Realm wajib dinarasikan secara imersif (misal: adegan merasakan kehangatan hawa Qi pertama mengalir di perut bawah / Dantian). Begitu inisiasi sukses, statistik karakter otomatis diperbarui menjadi **Body Refining Realm Early Stage (Qi Cap 50)**.
@@ -141,7 +141,7 @@ Setiap Hukum Kultivasi yang dipraktikkan karakter harus dapat dilacak dari salah
 
 #### F. 🌪️ Hukum Angin Topan & Gema Suara (*Wind & Sound Qi Law*)
 - **Elemen Dominan**: Wind Qi + Sound Qi (*Hollow Gale Corridor*).
-- **Mekanik Unik**: Bonus kecepatan pergerakan & teknik gelombang suara +20%. Mampu merusak pendengaran dan Focus musuh.
+- **Mekanik Unik**: Bonus kecepatan pergerakan & teknik gelombang suara +20%. Mampu merusak pendengaran dan pertahanan Qi musuh.
 - **Kelemahan Wajib**: Efisiensi meditasi batin berkurang -10% akibat kebingungan gelombang suara.
 - **Sekte Pengguna**: Hollow Wind Sect (`29`).
 

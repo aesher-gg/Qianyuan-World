@@ -33,7 +33,7 @@ Setiap Hukum Kultivasi Khusus atau Kitab Mantra Purba baru yang dipelajari atau 
 * **Name**: Eternal Stillness Ice Law (Hukum Es Keheningan Abadi)
 * **Element**: Ice + Stillness Qi
 * **Origin**: Frostglass Crown (Reruntuhan Menara Pedang Beku — `08`).
-* **Requirements**: Realm Foundation Establishment Early Stage, Focus ≥ 50, Cold Resistance > 40%.
+* **Requirements**: Realm Foundation Establishment Early Stage, Cold Resistance > 40%, Spirit Qi Capacity ≥ 1,250.
 * **Stages**: 3 Stage (Entry: *Frost Body* -> Master: *Glacial Mind* -> Ancestor: *Absolute Zero Domain*).
 * **Abilities**: Kebal penuh terhadap provokasi emosi/mentalis, bonus damage teknik pedang es +30%, membekukan aliran Qi musuh sebesar -15% saat kontak fisik.
 * **Risks**: Emosi fisik menumpul secara perlahan; risiko hipotermia batin jika terburu-buru melakukan breakthrough.
@@ -48,7 +48,7 @@ Setiap Hukum Kultivasi Khusus atau Kitab Mantra Purba baru yang dipelajari atau 
 * **Name**: Ancient Rootbound Life Law (Hukum Perjanjian Akar Kayu Purba)
 * **Element**: Wood + Life Qi
 * **Origin**: Whispering Root Forest (Ancient Tree Sanctuary — `07`).
-* **Requirements**: Realm Qi Gathering Late Stage, Wood Affinity, Focus ≥ 40.
+* **Requirements**: Realm Qi Gathering Late Stage, Wood Affinity, Spirit Qi Capacity ≥ 100.
 * **Stages**: 3 Stage (Entry: *Sprout Resonance* -> Master: *Bark Resilience* -> Ancestor: *World Tree Sanctum*).
 * **Abilities**: Meningkatkan kecepatan pemulihan HP & Stamina alami sebesar +35% di area hutan, memicu refleks penyerapan racun miasma alami, serta meningkatkan keberhasilan taming spirit beast sebesar +20% (`19`).
 * **Risks**: Konsumsi Qi meningkat +30% saat berada di area padang pasir/tanah tandus tanpa vegetasi.
