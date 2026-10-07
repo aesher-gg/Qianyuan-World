@@ -42,7 +42,7 @@ Setiap jurus, mantra, atau teknik gerakan baru yang berhasil dikembangkan oleh p
 * **Stamina Cost**: 10 Stamina.
 * **Effects**: Mengeluarkan tebasan angin tajam tembus pandang sejauh 10 langkah (Damage Physical + Wind 35 HP, efek Armor Piercing 15%).
 * **Limitations**: Memerlukan senjata pedang tajam.
-* **Risks**: Penggunaan 3 kali beruntun dalam 1 Shichen memicu getaran kelelahan pada otot lengan (penalti Stamina Cost +5).
+* **Risks**: Penggunaan 3 kali beruntun dalam 2 Jam memicu getaran kelelahan pada otot lengan (penalti Stamina Cost +5).
 * **Known Users**: Karakter Pemain / Pengembara Bebas.
 
 ---

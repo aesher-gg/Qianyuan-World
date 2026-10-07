@@ -13,7 +13,7 @@ Spirit Airship System (*Lingzhou / Kapal Udara Spiritual*) mengatur navigasi uda
 
 ### Aturan Emas Anti-Cheat Lingzhou (Mandatory Enforced Rules)
 1. **Syarat Izin Terbang & Kepemilikan (Flight Permit Log)**: Penerbangan Lingzhou kelas menengah/besar wajib memiliki Surat Izin Terbang (*Imperial/Sect Flight Permit*) dari Imperial Court atau faksi penguasa wilayah (`11`).
-2. **Larangan Penerbangan Instan**: Durasi penerbangan dihitung secara presisi berdasarkan jarak li peta (`01`) divided by kecepatan kelas Lingzhou. Pemain **TIDAK BISA** melakukan perjalanan instan tanpa alokasi waktu Shichen dan bahan bakar.
+2. **Larangan Penerbangan Instan**: Durasi penerbangan dihitung secara presisi berdasarkan jarak li peta (`01`) divided by kecepatan kelas Lingzhou. Pemain **TIDAK BISA** melakukan perjalanan instan tanpa alokasi waktu Jam dan bahan bakar.
 3. **Manajemen Bahan Bakar Mutlak**: Setiap jam penerbangan mengonsumsi Spirit Stone (Tier 1 / Tier 2 / Tier 3) sesuai spesifikasi kelas kapal. Jika bahan bakar habis di udara, kapal akan jatuh (*Core Engine Shutdown & Crash Risk*).
 4. **Batas Kapasitas Kargo & Penumpang**: Setiap kelas Lingzhou memiliki batas beban fisik dan penumpang. Overload memotong kecepatan sebesar `-30%` dan menaikkan konsumsi bahan bakar `+50%`.
 5. **Akses Udara Terlarang (Restricted Airspace)**: Terbang langsung di atas Istana Imperial Sanctum Yuanjing atau zona inti *Fate Scarlands* tanpa izin khusus akan memicu serangan formasi pertahanan otomatis (*Automated Defense Array*).
@@ -28,10 +28,10 @@ Setiap kapal udara (*Lingzhou*) di benua Qianyuan dikategorikan ke dalam 4 kelas
 
 | Kelas Kapal Udara | Kecepatan Terbang | Kapasitas Crew/Kargo | Durabilitas Hull (HP) | Perisai Qi Shield | Konsumsi Bahan Bakar |
 |---|---|---|---|---|---|
-| **Spirit Skiff (Perahu Udara Ringan)** | 150 li / Shichen | 2–5 Orang / 500 kg | 500 HP | 300 Qi Shield | 1 Spirit Stone Tier 1 / Shichen |
-| **Cloud Cruiser (Kapal Jelajah)** | 100 li / Shichen | 10–30 Orang / 5 Ton | 2.500 HP | 1.500 Qi Shield | 5 Spirit Stone Tier 1 / Shichen |
-| **Sect Airship (Kapal Perang Sekte)** | 80 li / Shichen | 50–200 Murid / 25 Ton | 12.500 HP | 8.000 Qi Shield | 1 Spirit Stone Tier 2 / Shichen |
-| **Grand Spirit Ark (Bahtera Kekaisaran)** | 50 li / Shichen | 500+ Orang / 100 Ton | 62.500 HP | 40.000 Qi Shield | 5 Spirit Stone Tier 2 / Shichen |
+| **Spirit Skiff (Perahu Udara Ringan)** | 75 li / Jam | 2–5 Orang / 500 kg | 500 HP | 300 Qi Shield | 0,5 Spirit Stone Tier 1 / Jam |
+| **Cloud Cruiser (Kapal Jelajah)** | 50 li / Jam | 10–30 Orang / 5 Ton | 2.500 HP | 1.500 Qi Shield | 2,5 Spirit Stone Tier 1 / Jam |
+| **Sect Airship (Kapal Perang Sekte)** | 40 li / Jam | 50–200 Murid / 25 Ton | 12.500 HP | 8.000 Qi Shield | 0,5 Spirit Stone Tier 2 / Jam |
+| **Grand Spirit Ark (Bahtera Kekaisaran)** | 25 li / Jam | 500+ Orang / 100 Ton | 62.500 HP | 40.000 Qi Shield | 2,5 Spirit Stone Tier 2 / Jam |
 
 ---
 
@@ -52,16 +52,16 @@ Setiap Lingzhou disokong oleh 5 komponen utama yang dapat mengalami kerusakan fi
 Durasi penerbangan dan total biaya bahan bakar dihitung presisi sebelum Lingzhou lepas landas:
 
 ```
-FlightDuration (Shichen) = TotalDistance_li / AirshipSpeed_li_per_Shichen
-FuelCost = FlightDuration_Shichen × ClassFuelRate × WeatherModifier
+FlightDuration (Jam) = TotalDistance_li / AirshipSpeed_li_per_Jam
+FuelCost = FlightDuration_Jam × ClassFuelRate × WeatherModifier
 ```
 
 - `WeatherModifier`: Cuaca Cerah = `1.0` | Badai Angin Topan = `1.5` | Terbang Menembus Badai Gletser = `2.0`.
 
 *Contoh Perhitungan Penerbangan:*
-Perjalanan dari Yuanjing ke Pelabuhan Star-Compass Astral Tide Sea (1.500 li) menggunakan **Cloud Cruiser** (100 li / Shichen):
-- `FlightDuration` = 1.500 / 100 = 15 Shichen (30 Jam)
-- `FuelCost` = 15 Shichen × 5 SS-T1 = **75 Spirit Stones Tier 1**
+Perjalanan dari Yuanjing ke Pelabuhan Star-Compass Astral Tide Sea (1.500 li) menggunakan **Cloud Cruiser** (50 li / Jam):
+- `FlightDuration` = 1.500 / 50 = **30 Jam**
+- `FuelCost` = 30 Jam × 2,5 SS-T1 = **75 Spirit Stones Tier 1**
 
 ---
 
@@ -83,7 +83,7 @@ Pertempuran antar-kapal udara atau pertempuran melampaui monster langit mengikut
 
 ## 🦅 5. Bahaya Langit & Peluang Encounter (Sky Hazards)
 
-Pemeriksaan *Sky Encounter* dilakukan oleh AI GM pada setiap 2 Shichen penerbangan:
+Pemeriksaan *Sky Encounter* dilakukan oleh AI GM pada setiap 4 Jam penerbangan:
 
 ```
 SkyEncounterChance = clamp(BaseChance × AirwayDangerMod × WeatherMod, 5%, 75%)
@@ -93,7 +93,7 @@ SkyEncounterChance = clamp(BaseChance × AirwayDangerMod × WeatherMod, 5%, 75%)
 |---|---|
 | **Serangan Spirit Beast Langit** | Serangan kawanan *Gale Falcon* (`09`), *Glacier Eagle* (`08`), atau *Astral Whale* (`06`). |
 | **Pembajak Angin (Thorn Wing Sky Pirates)** | Penyadapan perahu udara oleh kelompok pembajak langit (`09` & `11`). |
-| **Badai Angin Pemotong (*Void Gale Storm*)** | Memicu kerusakan Qi Shield -20% per Shichen dan risiko disorientasi navigasi. |
+| **Badai Angin Pemotong (*Void Gale Storm*)** | Memicu kerusakan Qi Shield -10% per Jam dan risiko disorientasi navigasi. |
 | **Distorsi Ruang Anomali (Scar Rift)** | Terbang di perbatasan *Fate Scarlands* memicu teleportasi lokasi acak. |
 
 ---
@@ -113,8 +113,8 @@ SkyEncounterChance = clamp(BaseChance × AirwayDangerMod × WeatherMod, 5%, 75%)
 
 - [ ] Izin terbang (*Flight Permit Log*) tervalidasi untuk kapal udara kelas menengah/besar?
 - [ ] Durasi penerbangan dihitung jujur berdasarkan jarak li peta divided by kecepatan kapal?
-- [ ] Persediaan bahan bakar Spirit Stone di inventory mencukupi untuk total Shichen penerbangan?
-- [ ] Pemeriksaan *Sky Encounter Chance* dilempar berkala setiap 2 Shichen penerbangan?
+- [ ] Persediaan bahan bakar Spirit Stone di inventory mencukupi untuk total Jam penerbangan?
+- [ ] Pemeriksaan *Sky Encounter Chance* dilempar berkala setiap 4 Jam penerbangan?
 - [ ] Kerusakan perisai Qi Shield dan Hull HP dicatat jujur saat terjadi pertempuran udara?
 
 Jika **salah satu** poin di atas meragukan → Penerbangan Lingzhou **DITOLAK OTOMATIS** oleh AI GM.

@@ -18,7 +18,7 @@ Setiap event baru yang muncul dari dinamika permainan atau aksi pemain wajib dic
 * **Participants**: Faksi / NPC utama yang terlibat
 * **Public Objective**: Tujuan umum yang diketahui publik
 * **Hidden Objective**: Agenda rahasia di balik event
-* **Time Limit**: Batas waktu berlangsungnya event (Shichen / Hari / Bulan)
+* **Time Limit**: Batas waktu berlangsungnya event (Jam / Hari / Bulan)
 * **Success Condition**: Syarat keberhasilan event
 * **Failure Condition**: Syarat kegagalan event
 * **World Consequence**: Dampak jangka panjang terhadap tatanan dunia/ekonomi/faksi
@@ -36,7 +36,7 @@ Setiap event baru yang muncul dari dinamika permainan atau aksi pemain wajib dic
 * **Participants**: Pemuda dari seluruh benua, Penguji Sekte Utama, Pengawal Kekaisaran.
 * **Public Objective**: Lolos seleksi fisik, tes ketahanan batin, dan kelayakan bakat meridian.
 * **Hidden Objective**: Mengidentifikasi pemuda dengan potensi keturunan darah purba (*Ancient Bloodline*) untuk direkrut ke dalam faksi rahasia.
-* **Time Limit**: 7 Hari (14 Shichen per hari ujian).
+* **Time Limit**: 7 Hari.
 * **Success Condition**: Mengumpulkan Token Seleksi di puncak ujian dan lulus duel kualifikasi.
 * **Failure Condition**: Tereliminasi dalam ujian ketahanan atau kalah dalam pertarungan kualifikasi.
 * **World Consequence**: Perubahan distribusi murid berbakat antar-sekte dan pergeseran reputasi faksi di Dao Registry.

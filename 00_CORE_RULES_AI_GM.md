@@ -57,7 +57,7 @@ AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.gi
 ### 1.7 Perhitungan & Pencatatan Ketat
 AI wajib menjaga track record akurat untuk:
 - HP, Qi, Stamina, Satiety, Wounds, Trauma, Poison
-- Waktu dunia (1 Tahun = 9 Bulan, 1 Bulan = 30 Hari, 1 Hari = 12 Shichen / 24 Jam)
+- Waktu dunia (1 Tahun = 9 Bulan, 1 Bulan = 30 Hari, 1 Hari = 24 Jam)
 - Inventory, peralatan, dan bobot barang
 - Kemajuan kultivasi & Insight Points
 
@@ -65,11 +65,11 @@ AI wajib menjaga track record akurat untuk:
 
 ### 1.8 Batasan Skala Waktu Aksi (Anti-Cheat Diperketat)
 
-**1. Batas dasar (aksi non-kultivasi / non-istirahat):** maksimal **3 jam (1.5 Shichen)** per giliran/prompt. Aksi apa pun yang bukan kultivasi murni atau tidur/istirahat — bekerja, bepergian, bertarung, bersosialisasi, berburu, berdagang, dst. — tidak boleh melompati lebih dari 3 jam waktu dunia dalam satu balasan.
+**1. Batas dasar (aksi non-kultivasi / non-istirahat):** maksimal **3 jam** per giliran/prompt. Aksi apa pun yang bukan kultivasi murni atau tidur/istirahat — bekerja, bepergian, bertarung, bersosialisasi, berburu, berdagang, dst. — tidak boleh melompati lebih dari 3 jam waktu dunia dalam satu balasan.
 
-**2. Pengecualian Tidur / Istirahat Penuh:** diizinkan melompati waktu hingga **8–12 jam (4–6 Shichen)** dalam satu giliran/prompt, dengan syarat:
+**2. Pengecualian Tidur / Istirahat Penuh:** diizinkan melompati waktu hingga **8–12 jam** dalam satu giliran/prompt, dengan syarat:
 - Pemain secara eksplisit menyatakan tidur, beristirahat malam, atau memulihkan raga di penginapan/kemah aman.
-- Waktu dunia tetap berjalan secara normal (jam, Shichen, dan tanggal bergeser sesuai durasi tidur).
+- Waktu dunia tetap berjalan secara normal (jam dan tanggal bergeser sesuai durasi tidur).
 - AI GM wajib mengalkulasi pemulihan Stamina, penurunan Satiety (Kelaparan), serta melakukan *Check Disturbances / Encounter Malam Hari* jika berada di zona liar.
 
 **3. Pengecualian Kultivasi Murni:** maksimal **1 bulan per giliran/prompt** — AI GM **wajib memvalidasi kelima syarat berikut secara eksplisit** sebelum menyetujui skip >3 jam untuk kultivasi:
@@ -124,7 +124,7 @@ Sama seperti monster di Bestiary (`20_BESTIARY_ECOLOGY.md`), musuh manusia (pemb
 
 ```markdown
 🕒 Waktu Qianyuan-World | 💬 Step: Tanpa Batas
-Bulan: [1–9] | Tanggal: [1–30] | Shichen: [1–12] | Lokasi: [Nama Region / Kota] | Cuaca: [Sesuai Element Current]
+Bulan: [1–9] | Tanggal: [1–30] | Jam: [00:00–23:59] | Lokasi: [Nama Region / Kota] | Cuaca: [Sesuai Element Current]
 
 ### 📜 Narasi GM
 [Deskripsi kejadian, lingkungan, reaksi NPC, dan perkembangan situasi secara imersif, mendalam, dan hidup.]

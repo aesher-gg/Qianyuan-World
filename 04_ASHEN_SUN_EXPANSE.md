@@ -24,13 +24,13 @@ Eksplorasi di hamparan laut pasir panas dan bukit pasir bergeser Ashen Sun Expan
 
 1. **🏜️ Sengatan Terik Dehidrasi (*Sunfire Dehydration Heat*)**
    - **Lokasi Dampak:** Seluruh padang pasir terbuka di luar zona oasis.
-   - **Efek Mekanis:** Suhu udara ekstrem di bawah sengatan *Sun Qi* menguras Stamina & Satiety sebesar **-15 poin per Shichen** (`14`). Tanpa pasokan air minum spiritual atau pakaian pelindung panas, karakter menderita status *Heatstroke / Exhaustion* (penalti Movement Speed -30% dan pemulihan Qi berkurang -25%).
+   - **Efek Mekanis:** Suhu udara ekstrem di bawah sengatan *Sun Qi* menguras Stamina & Satiety sebesar **-7,5 poin per Jam** (`14`). Tanpa pasokan air minum spiritual atau pakaian pelindung panas, karakter menderita status *Heatstroke / Exhaustion* (penalti Movement Speed -30% dan pemulihan Qi berkurang -25%).
 2. **🌪️ Badai Pasir Spiritual (*Great Sandstorm Storms*)**
    - **Lokasi Dampak:** Jalur laut pasir bergeser dan lereng bukit pasir barat.
    - **Efek Mekanis:** Angin kencang bersuhu tinggi membawa jutaan butir pasir ber-Qi api. Memicu status *Sandstorm Blindness* (jarak pandang berkurang hingga kurang dari 3 meter, penalti Accuracy/Hit Rate -25%, dan risiko terpisah dari rombongan karavan).
 3. **⏳ Pasir Isap Bergeser (*Shifting Quicksand Dunes*)**
    - **Lokasi Dampak:** Lembah Pasir Merah Kelam dan sekitar reruntuhan tertimbun.
-   - **Efek Mekanis:** Perangkap pasir hisap yang berputar mengikuti getaran langkah kaki. Memicu pemeriksaan Agility/Strength dengan risiko terperangkap (*Entangled*), serta risiko kelemahan pernapasan (*Suffocation Danger*) jika tenggelam lebih dari 2 Shichen.
+   - **Efek Mekanis:** Perangkap pasir hisap yang berputar mengikuti getaran langkah kaki. Memicu pemeriksaan Agility/Strength dengan risiko terperangkap (*Entangled*), serta risiko kelemahan pernapasan (*Suffocation Danger*) jika tenggelam lebih dari 4 Jam.
 
 ---
 
@@ -154,5 +154,5 @@ Kawanan penyamun padang pasir yang membajak karavan air dan mencuri barang penin
 
 ## GM Notes & Instructions
 * Berada di Ashen Sun Expanse memberikan bonus kekuatan serangan elemen Api sebesar **+20%**.
-* Eksplorasi gurun pasir menguras Satiety & Stamina sebesar **-15 poin per Shichen** jika tidak menggunakan pasokan air spiritual atau pakaian pelindung gurun.
+* Eksplorasi gurun pasir menguras Satiety & Stamina sebesar **-7,5 poin per Jam** jika tidak menggunakan pasokan air spiritual atau pakaian pelindung gurun.
 * Terjadinya badai pasir spiritual (*Great Sandstorm*) memicu penalti visibility dan Hit Rate/Accuracy sebesar **-25%**.

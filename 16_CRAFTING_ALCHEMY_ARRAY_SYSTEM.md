@@ -38,7 +38,7 @@ Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunak
 | **Tier 2** | **Foundation Pill (Pil Pembentuk Fondasi)** | Vermilion Ginseng + Spirit Core T2 | Syarat terobos Qi Gathering → Foundation (`12`). |
 | **Tier 2** | **Pil Kaki Awan (Cloud Foot Pill)** | Skyreach Cloud Moss + Gale-Spur Blossom | Bonus *Movement Speed* +25% & penghematan Stamina. |
 | **Tier 3** | **Golden Core Pill (Pil Inti Emas)** | Jade Dewflower + Cold Steel Vein + Core T3 | Syarat terobos Foundation → Core Formation (`12`). |
-| **Tier 3** | **Pil Kebal Api Gurun (Ashen Fire Shield Pill)** | Ashen Berry + Sunfire Cactus | Kekebalan terhadap efek *Burn* & panas Gurun Ashen Sun 6 Shichen. |
+| **Tier 3** | **Pil Kebal Api Gurun (Ashen Fire Shield Pill)** | Ashen Berry + Sunfire Cactus | Kekebalan terhadap efek *Burn* & panas Gurun Ashen Sun 12 Jam. |
 | **Tier 4** | **Nascent Soul Pill (Pil Jiwa Kuno)** | Ancient Wood Sap + Core T4 | Syarat terobos Core Formation → Nascent Soul (`12`). |
 | **Tier 4** | **Pil Pembawa Darah (Blood Renewal Pill)** | Mire Blood Orchid + Root-Heart Ginseng | Memulihkan 50% Max HP seketika & menghentikan pendarahan. |
 | **Tier 4** | **Pil Ketahanan Sungai (River Resilience Pill)** | River Willow Root + Spirit Core T4 | Peningkatan pertahanan fisik +30% & bernapas di dalam air. |
@@ -104,7 +104,7 @@ Jimat kertas (*Talisman*) adalah media penyimpanan mantra Qi instan yang ditulis
 ### 4.1 Jenis Jimat Kertas Utama
 - **Jimat Serangan (Attack Talisman)**: Menembakkan gumpalan api/petir instan tanpa konsumsi Qi pengguna.
 - **Jimat Penstabil Batin (Anchor Talisman)**: Melindungi kesadaran batin dari kabut ingatan (*Memory Erosion*) di Fate Scarlands (`10`).
-- **Jimat Kecepatan (Speed Talisman)**: Memberikan bonus *Movement Speed* +30% selama 2 Shichen.
+- **Jimat Kecepatan (Speed Talisman)**: Memberikan bonus *Movement Speed* +30% selama 4 Jam.
 
 ---
 

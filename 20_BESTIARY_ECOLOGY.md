@@ -63,13 +63,13 @@ MonsterAttackPower = QiCap(realm, stage) × 0,15 × LawAttackMultiplier(element)
 
 ## 🎯 3. Sistem Kemunculan & Ambush Chance
 
-Peluang disergap monster liar di wilayah terbuka dihitung per Shichen (2 Jam) perjalanan:
+Peluang disergap monster liar di wilayah terbuka dihitung per Jam perjalanan:
 
 ```
 AmbushChance = BaseChance × RegionalDangerMod × TimeMod
 ```
 
-- `BaseChance` = 5% per Shichen perjalanan.
+- `BaseChance` = 2,5% per Jam perjalanan.
 
 | Modifier | Nilai Multiplier | Catatan Aplikasi |
 |---|---|---|

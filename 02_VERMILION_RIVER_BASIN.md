@@ -30,7 +30,7 @@ Eksplorasi di sepanjang Lembah Sungai Vermilion menyimpan ancaman alamiah khas p
    - **Efek Mekanis:** Arus bawah air yang sangat deras sanggup membalikan perahu kargo kecil. Memicu pemeriksaan kestabilan Posture (*Balance Check*) dengan penalti mendadak *Severely Off-Balance*, serta risiko tenggelam (*Suffocation Danger*) jika tidak menggunakan perisai Qi air.
 3. **🦟 Swarm Serangga Penyerap Qi (*Qi-Draining River Swarms*)**
    - **Lokasi Dampak:** Tepi rawa-rawa liar pada malam hari.
-   - **Efek Mekanis:** Kawanan lintah dan serangga rawa spiritual yang peka terhadap getaran energi. Memicu pengurasan Stamina **-15 per Shichen** dan penalti regenerasi HP alami jika tidak diolesi minyak sereh spiritual atau dibendung perisai aura.
+   - **Efek Mekanis:** Kawanan lintah dan serangga rawa spiritual yang peka terhadap getaran energi. Memicu pengurasan Stamina **-7,5 per Jam** dan penalti regenerasi HP alami jika tidak diolesi minyak sereh spiritual atau dibendung perisai aura.
 
 ---
 
@@ -169,4 +169,4 @@ Jaringan pedagang perahu independen yang menguasai jasa transportasi pasokan her
 ## GM Notes & Instructions
 * Wilayah Vermilion River Basin memberi bonus regenerasi Qi Air/Kayu sebesar **+20%**.
 * Pertarungan di atas perahu atau dalam air memerlukan pemeriksaan Posture/Position tambahan sesuai `15_COMBAT_TACTICAL_SYSTEM.md`.
-* Karakter yang melintasi Rawa Teratai Kelam tanpa minyak penawar miasma wajib mengalkulasi bahaya alam (*Environmental Hazards*) sesuai tabel di atas pada setiap Shichen.
+* Karakter yang melintasi Rawa Teratai Kelam tanpa minyak penawar miasma wajib mengalkulasi bahaya alam (*Environmental Hazards*) sesuai tabel di atas pada setiap Jam.

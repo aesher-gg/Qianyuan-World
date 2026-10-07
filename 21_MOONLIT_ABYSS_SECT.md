@@ -58,7 +58,7 @@ Reputasi sekte ini ditakuti sekaligus disegani di seluruh dunia jianghu. Mereka 
 | Nama Artefak | Tier / Grade Value (`13`) | Fungsi & Efek Mekanis | Pemegang Resmi |
 |---|---|---|---|
 | **Pedang Bayangan Rembulan Purba** | Tier 7, Sheng-Grade | Menembus perisai Qi lawan, bonus damage +40% di bawah sinar bulan malam. | Ketua Sekte (turun-temurun). |
-| **Cermin Perekam Ingatan Jiwa** | Tier 5, Tian-Grade | Merekam ingatan terakhir seseorang dalam rentang 3 Shichen sebelum kematian. | Tetua Informasi Elder Night-Lotus. |
+| **Cermin Perekam Ingatan Jiwa** | Tier 5, Tian-Grade | Merekam ingatan terakhir seseorang dalam rentang 6 Jam sebelum kematian. | Tetua Informasi Elder Night-Lotus. |
 | **Formasi Tabir Kegelapan Abiss** | Tier 5 (Array) | Menutup getaran Qi dan keberadaan markas dari pemindaian kultivator luar. | Terpasang di Abyss Sanctum. |
 | **Lonceng Panggilan Perak** | Tier 3, Xuan-Grade | Artefak komunikasi Qi jarak jauh antar-agen informasi di kota-kota besar. | Dipegang oleh setiap Tetua. |
 
@@ -113,4 +113,4 @@ Di dalam sekte terdapat persaingan dingin antara dua faksi internal:
 
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
-Calon murid harus menemukan agen *Rumah Teratai Malam* di salah satu kota besar dan menyelesaikan ujian keberanian malam: melintasi *Gua Bayangan* tanpa membawa obor penerang dalam waktu 1 Shichen. Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).
+Calon murid harus menemukan agen *Rumah Teratai Malam* di salah satu kota besar dan menyelesaikan ujian keberanian malam: melintasi *Gua Bayangan* tanpa membawa obor penerang dalam waktu 2 Jam. Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).

@@ -149,7 +149,7 @@ Golden Thread Medicine Hall mempraktikkan **Hukum Alkimia & Pemulihan Benang Ema
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
 Calon murid harus mendatangi *Aula Pengujian Lisensi Tabib* di Great Golden Hall dan lulus dua tahapan ujian medis:
-1. **Ujian Identifikasi Herba**: Mengenali 20 jenis tanaman obat spiritual dan menjelaskan kandungan khasiat serta efek sampingnya dalam waktu 1 Shichen.
+1. **Ujian Identifikasi Herba**: Mengenali 20 jenis tanaman obat spiritual dan menjelaskan kandungan khasiat serta efek sampingnya dalam waktu 2 Jam.
 2. **Ujian Penyaluran Benang Qi**: Mengalirkan benang Qi emas melalui lubang jarum halus dari jarak 5 langkah untuk menyumbat pendarahan boneka latihan.
 
 Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Affinity Check*).
