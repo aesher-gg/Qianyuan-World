@@ -214,6 +214,10 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Iron-Spined Porcupine | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 250 | 48 | Landak berduri duri besi tajam di lereng Pos Jembatan Rantai. | Umum: Duri Besi Landak (Tier 2) — Jarang: Kulit Duri Logam (Tier 2) |
 | Magnet Golem Small | 🗿 Elemental | 3, Early (Foundation Est.) | 468 | 75 | Golem magnetik kecil buatan formasi pelindung tungku tempa purba. | Umum: Batu Magnetik Tempa (Tier 2) — Jarang: Inti Magnetik Kecil (Tier 3) |
 | Deep Iron Centipede Purba | 🐛 Insect / Boss | 5, Early (Nascent Soul) | 23.437 | 3.750 | Lipan purba sepanjang 20 meter di Zona Inti Gua Tambang Kuno. | Legendaris: Cangkang Lipan Besi Purba (Tier 5, bahan zirah Sheng-Grade) |
+| Blackstone Earth Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.687 | 281 | Anak naga bumi bersisik batu hitam tebal penghuni jurang tambang dalam. | Umum: Sisik Naga Batu Hitam (Tier 3) — Jarang: Tanduk Naga Bumi Muda (Tier 3) |
+| Mountain Ridge Cliff Hawk | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 187 | 75 | Elang raksasa penyergap penambang di celah batu tinggi. | Umum: Bulu Elang Tebing (Tier 2) — Jarang: Cakar Tebing Hitam (Tier 2) |
+| Deep Cavern Ore Spider | 🐛 Insect / Swarm | 2, Early (Qi Gathering) | 187 | 37 | Laba-laba pemakan bijih besi ber-Qi di lorong bawah tanah. | Umum: Benang Kawat Besi (Tier 1) — Jarang: Kelenjar Bijih Besi (Tier 2) |
+| Skyreach Mountain Behemoth | 🗿 Mitos / Sovereign | 8, Early (Dao Integration) | 3.906.250 | 878.906 | Behemoth titan batu raksasa penghuni inti Gunung Blackstone Skyreach. | Legendaris: Inti Bumi Purba Behemoth (Tier 8, bahan artefak tanah Sheng-Grade) |
 
 ---
 
@@ -242,10 +246,6 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Ash Rat Swarm | 🐛 Insect / Swarm | 1, Early (Body Refining) | 22 | 9 | Tikus abu gurun penggerogoti bahan bekal karavan. | Umum: Kulit Tikus Abu (Tier 1) — Jarang: Gigi Tikus Gurun (Tier 1) |
 | Sunstone Golem Small | 🗿 Elemental | 3, Early (Foundation Est.) | 253 | 146 | Golem batu surya buatan Gua Reruntuhan Altar Api Purba. | Umum: Batu Surya Tempa (Tier 2) — Jarang: Inti Kristal Surya (Tier 3) |
 | Flame Scorpion King Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 14.062 | 6.093 | Raja kalajengking api purba penghuni Reruntuhan Buried Sun Palace. | Legendaris: Sengat Raja Kalajengking Purba (Tier 5, bahan senjata Di-Grade) |
-| Blackstone Earth Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.687 | 281 | Anak naga bumi bersisik batu hitam tebal penghuni jurang tambang dalam. | Umum: Sisik Naga Batu Hitam (Tier 3) — Jarang: Tanduk Naga Bumi Muda (Tier 3) |
-| Mountain Ridge Cliff Hawk | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 187 | 75 | Elang raksasa penyergap penambang di celah batu tinggi. | Umum: Bulu Elang Tebing (Tier 2) — Jarang: Cakar Tebing Hitam (Tier 2) |
-| Deep Cavern Ore Spider | 🐛 Insect / Swarm | 2, Early (Qi Gathering) | 187 | 37 | Laba-laba pemakan bijih besi ber-Qi di lorong bawah tanah. | Umum: Benang Kawat Besi (Tier 1) — Jarang: Kelenjar Bijih Besi (Tier 2) |
-| Skyreach Mountain Behemoth | 🗿 Mitos / Sovereign | 8, Early (Dao Integration) | 3.906.250 | 878.906 | Behemoth titan batu raksasa penghuni inti Gunung Blackstone Skyreach. | Legendaris: Inti Bumi Purba Behemoth (Tier 8, bahan artefak tanah Sheng-Grade) |
 | Sunfire Desert Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.012 | 450 | Anak naga padang pasir penyembur nafas api surya di gundukan pasir merah. | Umum: Sisik Naga Api Gurun (Tier 3) — Jarang: Kantong Api Naga Surya (Tier 3) |
 | Sandstorm Vulture | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 125 | 56 | Burung pemakan bangkai ber-Qi panas penghuni bukit pasir. | Umum: Bulu Burung Pasir (Tier 1) — Jarang: Paruh Burung Gurun (Tier 2) |
 | Desert Flame Viper | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 125 | 75 | Ular pasir berbisa menyengat yang bersembunyi di dalam pasir panas. | Umum: Kulit Ular Api (Tier 2) — Jarang: Bisa Api Gurun (Tier 2) |
@@ -314,10 +314,6 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Coral Reef Guardian Crab | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 150 | 45 | Kepiting raksasa berzirah karang keras penunggu dasar laut. | Umum: Cangkang Karang Keras (Tier 2) — Jarang: Supit Karang Bintang (Tier 2) |
 | Astral Jellyfish Swarm | 🐛 Creature / Swarm | 2, Mid (Qi Gathering) | 112 | 33 | Kawanan ubur-ubur bintang pemancar aliran listrik penenang. | Umum: Lendir Bintang Laut (Tier 1) — Jarang: Kelenjar Listrik Astral (Tier 2) |
 | Leviathan Astral Purba | 🗿 Mitos / Sovereign | 8, Mid (Dao Integration) | 3.515.625 | 1.318.359 | Leviathan bintang purba raksasa penyeimbang arus samudra astral Qianyuan. | Legendaris: Inti Bintang Mitos Leviathan (Tier 8, bahan kapal perang Sheng-Grade) |
-| Verdant Wood Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.462 | 337 | Anak naga kayu bersisik serat daun giok penghuni rimba suci Whispering Root. | Umum: Sisik Naga Kayu Purba (Tier 3) — Jarang: Darah Naga Life Qi (Tier 3) |
-| Ancient Tree Bark Beetle | 🐛 Insect / Swarm | 2, Mid (Qi Gathering) | 146 | 33 | Kumbang raksasa pelubang kayu pohon purba penyerap getah spiritual. | Umum: Cangkang Kumbang Kayu (Tier 1) — Jarang: Serbuk Getah Purba (Tier 2) |
-| Whispering Moss Panther | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 195 | 45 | Macan tutul berselimut lumut hijau berjalan tanpa suara di kanopi hutan. | Umum: Kulit Macan Lumut (Tier 2) — Jarang: Cakar Bisikan Kayu (Tier 2) |
-| World Tree Dragon Sovereign Purba | 🗿 Mitos / Sovereign | 8, Peak (Dao Integration) | 7.628.906 | 1.757.812 | Naga Kayu Mitos purba raksasa penjaga urat kehidupan Pohon Dunia Qianyuan. | Legendaris: Teras Naga Kayu Mitos (Tier 8, bahan artefak kehidupan Sheng-Grade) |
 
 ---
 
@@ -346,6 +342,10 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Emerald Snake Small | 🐺 Spirit Beast | 1, Late (Body Refining) | 48 | 12 | Anak ular giok bersisik bening di rawa kecil hutan. | Umum: Kulit Ular Giok Kecil (Tier 1) — Jarang: Bisa Giok Muda (Tier 1) |
 | Ancient Tree Guardian Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 20.312 | 3.750 | Pelindung purba berbentuk pohon raksasa 30 meter di Sanctuary. | Legendaris: Teras Kayu Purba World Tree (Tier 5, bahan tongkat Sheng-Grade) |
 | Great Emerald Panther King Boss | 🐺 Spirit Beast / Boss | 4, Mid (Core Formation) | 6.093 | 1.335 | Raja macan giok purba pemimpin kawanan panther Zona Inti. | Legendaris: Inti Macan Giok Purba Tier 4 (Tier 4, bahan artefak Di-Grade) |
+| Verdant Wood Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.462 | 337 | Anak naga kayu bersisik serat daun giok penghuni rimba suci Whispering Root. | Umum: Sisik Naga Kayu Purba (Tier 3) — Jarang: Darah Naga Life Qi (Tier 3) |
+| Ancient Tree Bark Beetle | 🐛 Insect / Swarm | 2, Mid (Qi Gathering) | 146 | 33 | Kumbang raksasa pelubang kayu pohon purba penyerap getah spiritual. | Umum: Cangkang Kumbang Kayu (Tier 1) — Jarang: Serbuk Getah Purba (Tier 2) |
+| Whispering Moss Panther | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 195 | 45 | Macan tutul berselimut lumut hijau berjalan tanpa suara di kanopi hutan. | Umum: Kulit Macan Lumut (Tier 2) — Jarang: Cakar Bisikan Kayu (Tier 2) |
+| World Tree Dragon Sovereign Purba | 🗿 Mitos / Sovereign | 8, Peak (Dao Integration) | 7.628.906 | 1.757.812 | Naga Kayu Mitos purba raksasa penjaga urat kehidupan Pohon Dunia Qianyuan. | Legendaris: Teras Naga Kayu Mitos (Tier 8, bahan artefak kehidupan Sheng-Grade) |
 
 ---
 
