@@ -77,7 +77,7 @@ Di dalam area Tujuh Cincin Ibu Kota Yuanjing, Hukum Kekaisaran berlaku secara mu
 
 1. **🔒 Barrier Penekan Niat Jahat (*Imperial Enforcement Barrier*)**
    - **Lokasi Dampak:** Cincin 1 hingga Cincin 5.
-   - **Efek Mekanis:** Pemicuan pertarungan liar tanpa izin pendaftaran duel (*Official Duel Registration*) secara otomatis memicu penurunan **Focus -30 poin** dan penalti regenerasi Qi akibat gelombang kejut formasi kota. Pasukan Pengawal Kekaisaran akan tiba dalam 1 Ronde.
+   - **Efek Mekanis:** Pemicuan pertarungan liar tanpa izin pendaftaran duel (*Official Duel Registration*) secara otomatis memicu penurunan **Qi -30 poin** dan penalti regenerasi Qi akibat gelombang kejut formasi kota. Pasukan Pengawal Kekaisaran akan tiba dalam 1 Ronde.
 2. **📜 Pajak Registrasi Dao (*Dao Registration Tax*)**
    - **Lokasi Dampak:** Seluruh gerbang masuk Cincin 7 dan Cincin 3.
    - **Efek Mekanis:** Setiap kultivator pendatang baru wajib mendaftarkan identitas Realm di *Dao Registry* (Cincin 3) dan membayar retribusi masuk sebesar 50 Tael Perak per bulan per `13`.

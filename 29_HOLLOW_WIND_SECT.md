@@ -69,8 +69,8 @@ Reputasi Hollow Wind Sect sangat ditakuti sekaligus dicari oleh seluruh faksi be
 | Tingkat Akses | Nama Jurus / Teknik | Tipe Combat (`15`) | Tier Item (`13`) | Deskripsi Efek Mekanis |
 |---|---|---|---|---|
 | **Kurir / Luar** | *Gale Glide (Meluncur Angin)* | Movement / Buff | Tier 1, Huang-Grade | Melayang dan meluncur cepat memanfaatkan dorongan angin ngarai untuk menghemat Stamina. |
-| **Murid Ngarai** | *Echo Listening (Pendengaran Gema)*| Focus / Utility | Tier 2, Xuan-Grade | Mengirim getaran Qi suara untuk mendeteksi posisi musuh di balik dinding/kabut (`15`). |
-| **Pengintai Sayap**| *Sonic Blast (Ledakan Gema)* | Ranged / Control | Tier 3, Xuan-Grade | Serangan gelombang suara terkonsentrasi yang memicu efek Stun/Disorientasi (Focus Check). |
+| **Murid Ngarai** | *Echo Listening (Pendengaran Gema)*| Detection / Utility | Tier 2, Xuan-Grade | Mengirim getaran Qi suara untuk mendeteksi posisi musuh di balik dinding/kabut (`15`). |
+| **Pengintai Sayap**| *Sonic Blast (Ledakan Gema)* | Ranged / Control | Tier 3, Xuan-Grade | Serangan gelombang suara terkonsentrasi yang memicu efek Stun/Disorientasi (Qi Defense Check). |
 | **Tetua / Inti** | *Air Current Dodge (Menjelma Angin)*| Dodge / Utility | Tier 4, Di-Grade | Membelokkan aura tubuh mengikuti arus angin untuk memicu status *Un-targetable* 1 Ronde. |
 | **Master Sekte** | *Badai Suara Pemutus Raga* | Jurus Ultimate | Tier 7, Sheng-Grade | Ledakan gelombang suara masif yang merusak meridian Dantian & memicu Stun (Cooldown 3 Ronde). |
 
@@ -81,7 +81,7 @@ Reputasi Hollow Wind Sect sangat ditakuti sekaligus dicari oleh seluruh faksi be
 Hollow Wind Sect mempraktikkan **Hukum Gema Suara & Angin Ngarai (*Wind + Sound Qi Law*)** selaras dengan `12_CULTIVATION_RESONANCE_SYSTEM.md`:
 - **Spesifikasi Elemen**: Memadukan kebebasan arus angin (*Wind Qi*) dan getaran gelombang suara (*Sound Qi*).
 - **Bonus Pasif Kecepatan & Anti-Ambush**: Memberikan bonus pasif **Movement Speed +20%** dan ketahanan alami terhadap serangan kejutan dari belakang (*Anti-Ambush Awareness*, kebal bonus damage ambush).
-- **Efek Disorientasi Suara**: Serangan berbasis gelombang suara memicu penalti Focus -15 poin pada target yang tidak memiliki perisai pendengaran.
+- **Efek Disorientasi Suara**: Serangan berbasis gelombang suara memicu penalti Qi -15 poin pada target yang tidak memiliki perisai pendengaran.
 - **Kelemahan Wajib**: Di dalam ruangan tertutup rapat tanpa udara/getaran atau saat menggunakan zirah besi sangat berat (*Heavy Armor*), konsumsi Qi meningkat +30% dan kecepatan gerak terkurangi -25%.
 
 ---
@@ -117,7 +117,7 @@ Calon murid harus mendatangi *Pelataran Kurir Angin* di Gale Haven Citadel dan l
 1. **Ujian Lintasan Ngarai**: Melintasi jurang ngarai sepanjang 1 li menggunakan jembatan tali gantung di tengah badai angin tanpa terjatuh dalam waktu kurang dari 3 menit.
 2. **Ujian Pendengaran Gema**: Mendeteksi 5 lokasi lonceng tersembunyi di dalam gua batu berongga hanya menggunakan getaran pantulan suara (*Echo Listening*).
 
-Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus & Agility Check*).
+Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Agility Check*).
 
 ---
 

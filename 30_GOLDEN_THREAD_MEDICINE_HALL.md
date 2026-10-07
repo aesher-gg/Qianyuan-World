@@ -105,7 +105,7 @@ Kebun Alkimia Medis Golden Thread Medicine Hall menggunakan sistem irigasi air m
 | **Magang / Luar** | *Olah Napas Embun Giok* | Utility / Buff | Tier 1, Huang-Grade | Olah napas penyelarasan Wood + Water Qi untuk pemulihan Stamina & pembersihan racun ringan. |
 | **Murid Diagnostik**| *Needle of Vitality (Jarum Kehidupan)*| Healing / Recover | Tier 2, Xuan-Grade | Menusukkan jarum Qi emas untuk menghentikan pendarahan instan dan memulihkan HP (`14`). |
 | **Tabib Senior** | *Pill Essence Cleansing* | Cleansing / Buff | Tier 3, Xuan-Grade | Menetralkan efek racun, miasma, dan status *Poisoned/Bleeding* pada target pasien. |
-| **Master Alchemist**| *Golden Thread Pulse Diagnosis* | Focus / Utility | Tier 4, Di-Grade | Mengirim benang Qi emas untuk menganalisis kerusakan meridian atau titik lemah lawan (`15`). |
+| **Master Alchemist**| *Golden Thread Pulse Diagnosis* | Perception / Utility | Tier 4, Di-Grade | Mengirim benang Qi emas untuk menganalisis kerusakan meridian atau titik lemah lawan (`15`). |
 | **Tabib Agung** | *Restorasi Meridian Dantian Purba*| Jurus Ultimate | Tier 7, Sheng-Grade | Menyembuhkan kerusakan Dantian / *Qi Deviation* total & memulihkan HP penuh (Cooldown 3 Ronde). |
 
 ---
@@ -152,7 +152,7 @@ Calon murid harus mendatangi *Aula Pengujian Lisensi Tabib* di Great Golden Hall
 1. **Ujian Identifikasi Herba**: Mengenali 20 jenis tanaman obat spiritual dan menjelaskan kandungan khasiat serta efek sampingnya dalam waktu 1 Shichen.
 2. **Ujian Penyaluran Benang Qi**: Mengalirkan benang Qi emas melalui lubang jarum halus dari jarak 5 langkah untuk menyumbat pendarahan boneka latihan.
 
-Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus & Affinity Check*).
+Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Affinity Check*).
 
 ---
 

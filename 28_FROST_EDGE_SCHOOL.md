@@ -59,7 +59,7 @@ Reputasi Frost Edge School disegani di seluruh jianghu sebagai benteng pertahana
 |---|---|---|---|
 | **Pedang Kuno Teratai Es** | Tier 7, Sheng-Grade | Menembus perisai Qi lawan, memicu efek *Eternal Freeze* (pembekuan total) pada serangan kritis. | Master Sekolah (turun-temurun). |
 | **Zirah Kristal Es Abadi** | Tier 6, Tian-Grade | Menolak 40% Physical Damage dan memberikan kebal penuh pada efek hipotermia & serangan api sedang. | Tetua Pedang Elder Sword-Frost. |
-| **Cermin Keheningan Batin** | Tier 5, Di-Grade | Artefak pemurni Focus, menetralisir seluruh efek gangguan emosi, provokasi, dan ilusi batin. | Tetua Keheningan Elder Still-Mind. |
+| **Cermin Keheningan Batin** | Tier 5, Di-Grade | Artefak pemurni jiwa batin, menetralisir seluruh efek gangguan emosi, provokasi, dan ilusi batin. | Tetua Keheningan Elder Still-Mind. |
 | **Liontin Kristal Es Murni** | Tier 3, Xuan-Grade | Artefak pelindung tubuh murid dari sengatan badai salju dan penanda identitas resmi perguruan. | Dipegang oleh setiap Pendekar Pedang Es. |
 
 ---
@@ -70,7 +70,7 @@ Reputasi Frost Edge School disegani di seluruh jianghu sebagai benteng pertahana
 |---|---|---|---|---|
 | **Murid Luar** | *Olah Napas Keheningan* | Utility / Buff | Tier 1, Huang-Grade | Olah napas es dasar untuk menjaga kestabilan suhu tubuh di tengah suhu minus. |
 | **Murid Dalam** | *Glacial Shield (Perisai Gletser)* | Defense / Utility | Tier 2, Xuan-Grade | Membentuk perisai kristal es keras yang menahan serangan fisik dan meredam tebasan. |
-| **Pendekar Es** | *Stillness Mind (Batin Hening)* | Focus / Defense | Tier 3, Xuan-Grade | Meditasi batin instan yang menetralkan ilusi dan memberikan perisai Focus (Focus Shield, `14`). |
+| **Pendekar Es** | *Stillness Mind (Batin Hening)* | Defense / Utility | Tier 3, Xuan-Grade | Meditasi batin instan yang menetralkan ilusi dan memberikan perisai Qi (Qi Shield, `14`). |
 | **Tetua / Inti** | *Frost-Edge Flash (Kilat Es)* | Sword / Attack | Tier 4, Di-Grade | Tebasan pedang es berkecepatan tinggi yang membekukan darah di sekitar luka (*Chill Effect*, -15% Speed). |
 | **Master Sekolah** | *Tebasan Frostglass Pemutus Jiwa*| Jurus Ultimate | Tier 7, Sheng-Grade | Tebasan es raksasa berkekuatan penuh yang membekukan aliran Qi Dantian musuh (Cooldown 3 Ronde). |
 
@@ -80,7 +80,7 @@ Reputasi Frost Edge School disegani di seluruh jianghu sebagai benteng pertahana
 
 Frost Edge School mempraktikkan **Hukum Pedang & Keheningan Es (*Ice + Stillness Qi Law*)** selaras dengan `12_CULTIVATION_RESONANCE_SYSTEM.md`:
 - **Spesifikasi Elemen**: Memadukan energi dingin pembeku (*Ice Qi*) dan ketenangan batin tak tergetarkan (*Stillness Qi*).
-- **Bonus Pasif Wilayah Gletser**: Berada di wilayah pegunungan salju/gletser meningkatkan pertahanan fisik, pertahanan Focus, dan ketajaman tebasan pedang sebesar **+20%**.
+- **Bonus Pasif Wilayah Gletser**: Berada di wilayah pegunungan salju/gletser meningkatkan pertahanan fisik, pertahanan Qi, dan ketajaman tebasan pedang sebesar **+20%**.
 - **Efek Pembekuan (*Chill Effect*)**: Setiap serangan pedang yang berhasil mengenai musuh memicu penalti Movement Speed sebesar **-15%** pada target akibat pembekuan es di persendian.
 - **Kelemahan Wajib**: Di wilayah dengan suhu panas ekstrem atau terinfeksi elemen Api murni (seperti gurun Ashen Sun Expanse), efisiensi regenerasi Qi berkurang -30%.
 
@@ -117,7 +117,7 @@ Calon murid harus mendatangi *Benteng Salju Frost-Edge* dan lulus dua tahapan uj
 1. **Ujian Ketahanan Dingin**: Bermeditasi di atas plat gletser bening tanpa baju hangat selama 1 Shichen tanpa menggetarkan Qi batin.
 2. **Ujian Tebasan Keheningan**: Memotong balok kristal es abadi dengan satu tebasan pedang biasa menggunakan Niat Pedang (*Sword Intent*) murni.
 
-Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus & Strength Check*).
+Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Strength Check*).
 
 ---
 

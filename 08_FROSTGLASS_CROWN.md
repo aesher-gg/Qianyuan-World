@@ -30,7 +30,7 @@ Puncak pegunungan salju Frostglass Crown menyimpan ancaman alamiah ekstrem yang 
    - **Efek Mekanis:** Angin kencang bersuhu di bawah nol menyapu padang salju. Memicu status *Blizzard Disorientation* (jarak pandang berkurang hingga 3 meter, penalti Accuracy/Hit Rate -25%, dan risiko terdorong jatuh ke dalam celah gletser).
 3. **⚔️ Resonansi Niat Pedang Purba (*Frost Intent Echo*)**
    - **Lokasi Dampak:** Reruntuhan Menara Pedang Beku dan Gua Meditasi Inti Es.
-   - **Efek Mekanis:** Sisa Niat Pedang (*Sword Intent*) dari para pendekar purba yang terperangkap di dalam kristal es abadi. Memicu tebasan Qi tak kasat mata (kerusakan Qi/HP **15–40 poin** per pemicuan jika gagal dalam tes Focus/Mental Resilience).
+   - **Efek Mekanis:** Sisa Niat Pedang (*Sword Intent*) dari para pendekar purba yang terperangkap di dalam kristal es abadi. Memicu tebasan Qi tak kasat mata (kerusakan Qi/HP **15–40 poin** per pemicuan jika gagal dalam tes pertahanan Qi).
 
 ---
 

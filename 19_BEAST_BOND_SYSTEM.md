@@ -14,7 +14,7 @@ Beast Bond System di Qianyuan-World mengatur ikatan, penjinakan (*Taming*), pere
 ### Aturan Emas Anti-Cheat Beast Bond (Mandatory Enforced Rules)
 1. **Syarat Riwayat Kontrak (Contract Origin Log)**: Binatang spiritual binaan (**Tier 3+ / Spirit Beast Langka**) wajib memiliki catatan riwayat kontrak (*Contract Origin Log*) dari proses penjinakan naratif, pendaftaran di Spirit Beast Union (`11`), atau penetasan telur purba.
 2. **Larangan Penjinakan Instan**: Pemain **TIDAK BISA** menjinakkan monster liar secara instan di tengah pertempuran tanpa proses penurunan ketahanan batin (*Willpower Depletion*), pemberian pakan spiritual, atau penggunaan segel jimat taming tervalidasi.
-3. **Batasan Realm Kultivator vs Beast**: Menjinakkan Spirit Beast dengan Realm/Tier yang lebih tinggi dari kultivator memicu risiko **Soul Backlash** (penalti Focus Max -40% dan status *Dantian Shock Trauma*).
+3. **Batasan Realm Kultivator vs Beast**: Menjinakkan Spirit Beast dengan Realm/Tier yang lebih tinggi dari kultivator memicu risiko **Soul Backlash** (penalti Max Qi -30% dan status *Dantian Shock Trauma*).
 4. **Indikator Kepercayaan Berkelanjutan (Trust Metric)**: Kepatuhan beast binaan dalam pertempuran terikat pada skala *Trust Metric* ($0 \text{ s/d } 100$). Kebencian atau siksaan fisik menurunkan Trust dan memicu pemberontakan.
 5. **Evolusi Terikat Bahan & Waktu**: Evolusi garis keturunan (*Bloodline Awakening*) memerlukan konsumsi Inti Monster (*Spirit Core*), herba spiritual (`18`), dan latihan di daerah *Qi Density Modifier* yang sesuai.
 
@@ -103,7 +103,7 @@ Kultivator dan Spirit Beast binaan dengan *Equal Companion* atau *Symbiotic Bond
 | 6 | **Sandstorm Scorpion**| Tier 3 / Dangerous | Ashen Sun Expanse (`04`) | Fire + Sun | *Sengatan Racun Api Gurun* — membakar HP & Dantian lawan. |
 | 7 | **Wood-Deer** | Tier 1 / Low | Whispering Root Forest (`07`) | Life Qi | *Aroma Embun Penyembuh* — memulihkan HP & Stamina secara alami. |
 | 8 | **Sea Serpent** | Tier 4 / High | Astral Tide Sea (`06`) | Water + Star | *Gelombang Pasang Bintang* — pemicuan pusaran air penenggelam. |
-| 9 | **Echo Bat** | Tier 2 / Medium | Hollow Gale Corridor (`09`) | Sound Qi | *Raungan Gelombang Suara* — merusak Focus & pendengaran musuh. |
+| 9 | **Echo Bat** | Tier 2 / Medium | Hollow Gale Corridor (`09`) | Sound Qi | *Raungan Gelombang Suara* — merusak Qi & pendengaran musuh. |
 | 10| **Chrono-Beast** | Tier 7 / Extreme | Fate Scarlands (`10`) | Fate Qi | *Hentakan Waktu Stasis* — menghentikan giliran musuh selama 1 turn. |
 
 ---

@@ -113,4 +113,4 @@ Di dalam sekte terdapat persaingan dingin antara dua faksi internal:
 
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
-Calon murid harus menemukan agen *Rumah Teratai Malam* di salah satu kota besar dan menyelesaikan ujian keberanian malam: melintasi *Gua Bayangan* tanpa membawa obor penerang dalam waktu 1 Shichen. Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus Check*).
+Calon murid harus menemukan agen *Rumah Teratai Malam* di salah satu kota besar dan menyelesaikan ujian keberanian malam: melintasi *Gua Bayangan* tanpa membawa obor penerang dalam waktu 1 Shichen. Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).

@@ -142,7 +142,7 @@ Tanaman obat spiritual umum yang tumbuh subur di berbagai daratan, tepi jalan ka
 | **T5** | **Ginseng Lima Warna (Five-Element Ginseng)** | Multi-Element | Hutan tua terisolasi | Bahan pemurni Dantian & peningkat regenerasi Qi alami. |
 | **T6** | **Teratai Perak Umur Panjang (Silver Longevity Lotus)**| Water + Ice | Danau pekat & mata air gunung | Bahan pil perpanjang usia (*Longevity Pill*) & penawar racun. |
 | **T7** | **Jamur Lingzhi Purba Sembilan Warna** | Wood + Life Qi | Reruntuhan batu purba | Bahan rekonstruksi organ dalam hancur & terobos Realm. |
-| **T8** | **Buah Jiwa Keabadian (Celestial Soul Fruit)** | Fate + Star Qi | Puncak gunung terisolasi benua | Bahan *Dao Integration Pill* & peningkat Focus murni. |
+| **T8** | **Buah Jiwa Keabadian (Celestial Soul Fruit)** | Fate + Star Qi | Puncak gunung terisolasi benua | Bahan *Dao Integration Pill* & pemurni jiwa batin. |
 | **T9** | **Bunga Embun Langit Mitos (Heavenly Dew Blossom)**| Multi-Element | Celah terlarang benua | Herba mitos penahan sengatan petir Tribulasi Langit (`12`). |
 
 ---
@@ -226,7 +226,7 @@ Tanaman obat spiritual umum yang tumbuh subur di berbagai daratan, tepi jalan ka
 |---|---|---|---|---|
 | **T1** | **Rumput Karang Bintang (Star Coral Grass)**| Pantai Kepulauan Coral | 3 Hari | Salep luka air garam & pemurni napas bawah laut. |
 | **T2** | **Mutiara Laut Bintang (Star Herb)** | Pelabuhan Star-Compass (`06`)| 7 Hari | Bahan *Astral Navigation Essence* & obat penerang mata. |
-| **T3** | **Bunga Cahaya Astral (Astral Light Blossom)**| Mercusuar Formasi Bintang | 15 Hari | Bahan ramuan peningkat Focus malam hari & perisai Qi. |
+| **T3** | **Bunga Cahaya Astral (Astral Light Blossom)**| Mercusuar Formasi Bintang | 15 Hari | Bahan ramuan pemulih Qi malam hari & perisai Qi. |
 | **T4** | **Buah Bintang Samudra (Ocean Star Fruit)**| Benteng Pulau Coral | 30 Hari | Bahan *Star Core Pill* & obat pelindung tekanan air. |
 | **T5** | **Teratai Bintang Karang (Star Coral Lotus)**| Zona Terumbu Karang Abyss | 90 Hari | Bahan *Astral Refinement Pill* & pemurni energi batin. |
 | **T6** | **Akar Laut Bintang Purba** | Zona Arus Bintang Palung Abyss | 270 Hari | Bahan *Soul Formation Pill* berunsur Star Qi murni. |
@@ -278,7 +278,7 @@ Tanaman obat spiritual umum yang tumbuh subur di berbagai daratan, tepi jalan ka
 | **T4** | **Bunga Suara Gema (Sonic Echo Blossom)** | Lembah Gema | 30 Hari | Bahan ramuan pemurni gelombang suara & penawar stun. |
 | **T5** | **Teratai Angin Ngarai (Canyon Gale Lotus)**| Benteng Ngarai Gale Haven | 90 Hari | Bahan *Gale Core Pill* & pelindung dari gema merobek. |
 | **T6** | **Akar Topan Purba (Ancient Gale Root)** | Gua Pemindai Suara Benua | 270 Hari | Bahan *Soul Formation Pill* berunsur Wind + Sound Qi. |
-| **T7** | **Bunga Gema Suara Purba** | Gua Gema Suara Purba | 3 Tahun | Bahan obat penyembuh kerusakan gendang telinga & Focus. |
+| **T7** | **Bunga Gema Suara Purba** | Gua Gema Suara Purba | 3 Tahun | Bahan obat penyembuh kerusakan gendang telinga & jiwa batin. |
 | **T8** | **Buah Kecepatan Angin Abadi** | Reruntuhan Menara Angin Purba | 9 Tahun | Bahan *Dao Integration Pill* berunsur Wind Qi murni. |
 | **T9** | **Mutiara Badai Topan Purba Mitos** | Titik simpul badai angin ngarai | 27+ Tahun | Herba mitos pemanggil gelombang topan pelindung benua. |
 

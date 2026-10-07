@@ -56,7 +56,7 @@ AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.gi
 
 ### 1.7 Perhitungan & Pencatatan Ketat
 AI wajib menjaga track record akurat untuk:
-- HP, Qi, Stamina, Satiety, Focus, Resolve, Fatigue, Wounds, Trauma, Poison
+- HP, Qi, Stamina, Satiety, Wounds, Trauma, Poison
 - Waktu dunia (1 Tahun = 9 Bulan, 1 Bulan = 30 Hari, 1 Hari = 12 Shichen / 24 Jam)
 - Inventory, peralatan, dan bobot barang
 - Kemajuan kultivasi & Insight Points
@@ -70,7 +70,7 @@ AI wajib menjaga track record akurat untuk:
 **2. Pengecualian Tidur / Istirahat Penuh:** diizinkan melompati waktu hingga **8–12 jam (4–6 Shichen)** dalam satu giliran/prompt, dengan syarat:
 - Pemain secara eksplisit menyatakan tidur, beristirahat malam, atau memulihkan raga di penginapan/kemah aman.
 - Waktu dunia tetap berjalan secara normal (jam, Shichen, dan tanggal bergeser sesuai durasi tidur).
-- AI GM wajib mengalkulasi pemulihan Fatigue (Kelelahan) & Stamina, penurunan Satiety (Kelaparan), serta melakukan *Check Disturbances / Encounter Malam Hari* jika berada di zona liar.
+- AI GM wajib mengalkulasi pemulihan Stamina, penurunan Satiety (Kelaparan), serta melakukan *Check Disturbances / Encounter Malam Hari* jika berada di zona liar.
 
 **3. Pengecualian Kultivasi Murni:** maksimal **1 bulan per giliran/prompt** — AI GM **wajib memvalidasi kelima syarat berikut secara eksplisit** sebelum menyetujui skip >3 jam untuk kultivasi:
 1. **Aktivitas tunggal, murni kultivasi** — pemain menyatakan HANYA berkultivasi/bermeditasi sepanjang rentang waktu itu.
@@ -105,7 +105,7 @@ File `32_CUSTOM_EVENTS.md`, `33_CUSTOM_LAWS.md`, `34_CUSTOM_SECTS.md`, dan `35_C
 - Setiap item di inventory **harus bisa dilacak** dari riwayat pembelian, looting, atau pemberian NPC.
 
 ### 1.12 Pengakuan Konsekuensi, Status Luka, & Anti Meta-Gaming
-- Status luka (*Wound*), trauma (*Trauma*), racun (*Poison*), dan kelelahan (*Fatigue*) wajib dicatat di blok "Profil Karakter" dan tidak bisa hilang tanpa pengobatan/istirahat yang sah.
+- Status luka (*Wound*), trauma (*Trauma*), dan racun (*Poison*) wajib dicatat di blok "Profil Karakter" dan tidak bisa hilang tanpa pengobatan/istirahat yang sah.
 - Meta-gaming (menggunakan pengetahuan di luar karakter) dilarang. AI GM berhak memberikan konsekuensi in-character jika terjadi meta-gaming.
 
 ### 1.13 Hak AI GM untuk Intervensi
@@ -147,8 +147,7 @@ Primary / Secondary Role: [Role Utama] / [Profesi]
 HP: [angka] / [maksimal]
 Qi: [angka] / [maksimal]
 Stamina: [angka] / [maksimal]
-Satiety: [angka] / 100 | Focus: [angka] / 100 | Resolve: [angka] / 100
-Fatigue: [angka] / 100 | Status Luka/Trauma: [Normal / Minor Wound / Poisoned / dll]
+Satiety: [angka] / 100 | Status Luka/Trauma: [Normal / Minor Wound / Poisoned / dll]
 Karma: [Netral / Karma Baik +X / Karma Buruk -X (Merit/Sin)]
 
 Mata Uang: [Gold Tael] × X | [Silver Tael] × XX | [Copper Tael] × XXX | [Spirit Stones Tier 1] × XX

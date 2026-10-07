@@ -26,7 +26,7 @@ Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunak
 
 ### 1.1 Faktor Kunci Alkimia
 - **Grade Kuali Alkimia (Cauldron Grade)**: Menentukan batas maksimal Qi yang dapat ditampung saat pemurnian.
-- **Pengendalian Api Spiritual (Flame Control)**: Memerlukan statistik *Focus* tinggi untuk menjaga suhu peracikan.
+- **Pengendalian Api Spiritual (Flame Control)**: Memerlukan pengendalian Qi yang presisi untuk menjaga suhu peracikan.
 - **Kesegaran Herb & Spirit Core**: Bahan segar memberikan bonus peluang sukses +10%.
 
 ### 1.2 Contoh Resep Dan-Pill Resmi Qianyuan (Tier 1 s/d 9)
@@ -42,7 +42,7 @@ Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunak
 | **Tier 4** | **Nascent Soul Pill (Pil Jiwa Kuno)** | Ancient Wood Sap + Core T4 | Syarat terobos Core Formation → Nascent Soul (`12`). |
 | **Tier 4** | **Pil Pembawa Darah (Blood Renewal Pill)** | Mire Blood Orchid + Root-Heart Ginseng | Memulihkan 50% Max HP seketika & menghentikan pendarahan. |
 | **Tier 4** | **Pil Ketahanan Sungai (River Resilience Pill)** | River Willow Root + Spirit Core T4 | Peningkatan pertahanan fisik +30% & bernapas di dalam air. |
-| **Tier 5** | **Soul Refinement Pill (Pil Pemurni Jiwa)** | Snow Lotus + Spirit Core T5 | Memulihkan *Soul Trauma* dan Max Focus +30%. |
+| **Tier 5** | **Soul Refinement Pill (Pil Pemurni Jiwa)** | Snow Lotus + Spirit Core T5 | Memulihkan *Soul Trauma* dan Max Qi +10%. |
 | **Tier 5** | **Pil Pemurni Surya (Solar Refinement Pill)** | Solar Bloom Rose + Blazing Flame Orchid | Memurnikan Qi buruk/kotor dari Dantian & bonus Fire Damage +35%. |
 | **Tier 6** | **Void Severing Pill (Pil Kehampaan)** | Spatial Shard + Core T6 | Bonus peluang sukses Trial Kehampaan +20%. |
 | **Tier 6** | **Pil Terobos Sumsum Es (Cold Core Breakthrough Pill)**| Eternal Cold-Marrow Fungus + Starlight Lotus | Bonus +25% terobos Core Formation → Nascent Soul (Ice Element). |

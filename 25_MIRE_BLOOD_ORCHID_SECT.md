@@ -66,7 +66,7 @@ Reputasi sekte ini ditakuti sekaligus dicari oleh berbagai faksi benua. Mereka d
 
 | Tingkat Akses | Nama Jurus / Teknik | Tipe Combat (`15`) | Tier Item (`13`) | Deskripsi Efek Mekanis |
 |---|---|---|---|---|
-| **Murid Racun** | *Semburan Miasma Dasar* | Ranged Attack | Tier 1, Huang-Grade | Semburan gas racun ringan yang mengurangi *Focus* musuh -10. |
+| **Murid Racun** | *Semburan Miasma Dasar* | Ranged Attack | Tier 1, Huang-Grade | Semburan gas racun ringan yang mengurangi *Qi* musuh -10. |
 | **Pembunuh** | *Venom Purge (Penawar Racun)* | Utility / Buff | Tier 2, Xuan-Grade | Menetralkan racun di dalam tubuh sendiri dan menyerapnya jadi Qi. |
 | **Master Peracik**| *Blood Orchid Touch* | Melee Attack | Tier 4, Di-Grade | Pukulan beracun yang membusukkan aliran Qi di meridian lawan (`15`). |
 | **Tetua Anggrek** | *Miasma Cloud (Awan Miasma)* | Ranged / Area | Tier 6, Tian-Grade | Menyemburkan awan racun pekat 10 langkah yang memicu *Poison Status*. |
@@ -109,4 +109,4 @@ Di dalam Laboratorium Alkimia Rawa terdapat kuali rahasia yang sedang meracik **
 
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
-Calon murid wajib mendaftar di perbatasan *Blood Orchid Valley* dan meminum **Cairan Racun Uji Coba**: meminum dosis racun ringan dan meracik penawarnya secara mandiri menggunakan herbal rawa dalam waktu 1 Shichen. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Focus Check*).
+Calon murid wajib mendaftar di perbatasan *Blood Orchid Valley* dan meminum **Cairan Racun Uji Coba**: meminum dosis racun ringan dan meracik penawarnya secara mandiri menggunakan herbal rawa dalam waktu 1 Shichen. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).
