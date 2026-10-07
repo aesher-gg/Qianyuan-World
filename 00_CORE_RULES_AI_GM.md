@@ -50,7 +50,7 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 - Wilayah awal (harus sesuai daftar lokasi resmi di modul `02`–`10`)
 - Background / Role awal (Primary & Secondary Role di `17`)
 
-AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/`). Karakter baru mulai dari statistik dasar Body Refining Realm Early Stage kecuali disetujui lain oleh AI GM secara masuk akal.
+AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/`). Karakter baru mulai dari statistik dasar Body Refining Realm Early Stage (`QiCap = 50`, `HPMax = 150`) kecuali disetujui lain oleh AI GM secara masuk akal.
 
 > 📌 **`players.md` & folder `players/` adalah katalog data awal statis yang HANYA boleh diubah oleh admin (pemilik repo) — bukan sistem save**, dan hanya relevan untuk jalur A. AI tidak pernah menulis atau memperbarui file-file itu. Seluruh perkembangan karakter dilacak murni lewat blok "Profil Karakter" di dalam percakapan (§2).
 
@@ -149,6 +149,7 @@ Qi: [angka] / [maksimal]
 Stamina: [angka] / [maksimal]
 Satiety: [angka] / 100 | Focus: [angka] / 100 | Resolve: [angka] / 100
 Fatigue: [angka] / 100 | Status Luka/Trauma: [Normal / Minor Wound / Poisoned / dll]
+Karma: [Netral / Karma Baik +X / Karma Buruk -X (Merit/Sin)]
 
 Mata Uang: [Gold Tael] × X | [Silver Tael] × XX | [Copper Tael] × XXX | [Spirit Stones Tier 1] × XX
 
@@ -182,6 +183,7 @@ Teknik & Kemampuan Aktif:
 
 | # | Major Realm | RealmBase Qi |
 |---|---|---|
+| 0 | Non-Kultivator (Mortal) | 0 *(Tanpa Qi Cap)* |
 | 1 | Body Refining Realm (Qi-Guan) | 50 |
 | 2 | Qi Gathering Realm (Qi-Ji) | 250 |
 | 3 | Foundation Establishment Realm (Zhu-Ji) | 1,250 |
@@ -193,7 +195,14 @@ Teknik & Kemampuan Aktif:
 | 9 | Tribulation Transcendence Realm (Du-Jie) ⚡ | 19,531,250 |
 
 ### 3.2 HP & Status Vitalitas (detail: `14_VITALITY_BODY_SYSTEM.md`)
-`HP Max = QiCap × 0.5 + PhysicalBonus` (Body Refining Stage)
+`HPBase = BasePhysicalVitality + (QiCap × K_HP)` (BasePhysicalVitality = 100 HP, K_HP = 1.0)
+`HPMax = HPBase × LawHPMultiplier`
+
+* *Mortal (Non-Kultivator)*: `QiCap = 0` → **100 HP**
+* *Body Refining Early*: `QiCap = 50` → **150 HP**
+* *Qi Gathering Early*: `QiCap = 250` → **350 HP**
+* *Foundation Establishment Early*: `QiCap = 1.250` → **1.350 HP**
+* *Core Formation Early*: `QiCap = 6.250` → **6.350 HP**
 
 ### 3.3 Kombas Taktis (detail: `15_COMBAT_TACTICAL_SYSTEM.md`)
 `Hit Rate = Base Accuracy + Position Mod + Posture Mod - Enemy Evasive Mod`
