@@ -3,24 +3,24 @@
 > **Modul:** 16 — Crafting Alchemy Array System
 > **Genre:** Xianxia · Wuxia · Kultivasi · Hardcore Realism
 > **Prinsip:** Anti-Cheat Enforced — Recipe-Validated — Tool & Environment Driven
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan mutlak), `12_CULTIVATION_RESONANCE_SYSTEM.md` (tier bahan terobos), `13_ECONOMY_MARKET_SYSTEM.md` (grade value & harga), `17_ROLES_PROFESSIONS_SYSTEM.md` (profesi Alchemist & Craftsman)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan mutlak), `12_CULTIVATION_RESONANCE_SYSTEM.md` (tier bahan terobos), `13_ECONOMY_MARKET_SYSTEM.md` (grade value & harga), `17_ROLES_PROFESSIONS_SYSTEM.md` (profesi Alchemist & Craftsman), `18_SPIRIT_GARDENING_SYSTEM.md` (akselerasi kebun spiritual)
 
 ---
 
 ## 🧭 0. Filosofi & Aturan Emas Anti-Cheat Produksi
 
-Sistem produksi barang spiritual di Qianyuan-World mencakup empat disiplin utama: Pembuatan Pil & Obat (*Alchemy*), Penempaan Senjata & Zirah (*Forging*), Penyusunan Formasi Pelindung (*Formation Array*), dan Pembuatan Jimat Kertas (*Talisman Inscription*). Hasil produksi tidak ditentukan hanya oleh Realm karakter, melainkan oleh kualitas bahan baku, grade peralatan, tingkat resep, dan manipulasi elemen Qi.
+Sistem produksi barang spiritual di Qianyuan-World mencakup empat disiplin utama: Pembuatan Pil & Obat (*Alchemy*), Penempaan Senjata & Zirah (*Forging*), Penyusunan Formasi Pelindung & Akselerasi (*Formation Array*), dan Pembuatan Jimat Kertas (*Talisman Inscription*). Hasil produksi tidak ditentukan hanya oleh Realm karakter, melainkan oleh kualitas bahan baku, grade peralatan, tingkat resep, dan manipulasi elemen Qi.
 
 ### Aturan Emas Anti-Cheat Produksi (Mandatory Enforced Rules)
 1. **Syarat Resep Sah (Recipe Origin Log)**: Karakter **TIDAK BISA** membuat produk tanpa memiliki resep sah (*Recipe Origin*) yang terdaftar di log dari hasil pengajaran Guru, pembelian kitab resep, atau eksperimen tervalidasi AI GM.
 2. **Ketersediaan Bahan Baku (Item Origin Log)**: Seluruh bahan herbal, bijih mineral, dan Inti Monster (*Spirit Core*) yang digunakan wajib ada di log inventory karakter dan berasal dari jalur yang sah (`13_ECONOMY_MARKET_SYSTEM.md`).
 3. **Peralatan & Fasilitas Sesuai Tier**: Pembuatan barang Tier tinggi memerlukan kuali (*Cauldron*), tungku tempa (*Forge*), atau kuas jiwa (*Spirit Brush*) yang tingkatannya setara (±1 Tier).
 4. **Formula Keberhasilan Transparan**: Keberhasilan proses produksi dihitung menggunakan formula `SuccessChance`. Kegagalan memicu risiko fisik (*Crafting Risks*).
-5. **Kesesuaian Tier Terobos**: Pil terobosan Realm (*Breakthrough Pills*) harus dibuat mengikuti Tier material Realm terkait (misal: *Foundation Pill* = Tier 2, *Golden Core Pill* = Tier 3, *Nascent Soul Pill* = Tier 4).
+5. **Kesesuaian Tier Terobos & Akselerasi Kebun**: Pil terobosan Realm (*Breakthrough Pills*) dan Cairan Nutrisi Kebun (*Nutrient Liquids*) harus dibuat mengikuti Tier material & kualifikasi Alchemist terkait (`18_SPIRIT_GARDENING_SYSTEM.md`).
 
 ---
 
-## 🧪 1. Disiplin Produksi 1: Alkimia (Alchemy — Pembuatan Pil & Ramuan)
+## 🧪 1. Disiplin Produksi 1: Alkimia (Alchemy — Pembuatan Pil, Ramuan, & Cairan Nutrisi)
 
 Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunakan kuali (*Cauldron*) dan api spiritual (*Spiritual Flame*).
 
@@ -43,9 +43,21 @@ Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunak
 | **Tier 8** | **Dao Integration Essence Pill** | Nine Currents Essence + Core T8 | Syarat terobos Dao Integration Realm (`12`). |
 | **Tier 9** | **Immortal Ascension Pill (Pil Keabadian)**| Fate Core Crystal + Core T9 | Menetralkan *Backlash* Tribulasi Petir Agung. |
 
+### 1.3 Resep Cairan Nutrisi & Pupuk Alkimia Kebun (Nutrient Liquids — `18`)
+
+Alchemist dapat meracik cairan nutrisi (*Nutrient Liquid*) dan pupuk alkimia khusus untuk mempercepat pertumbuhan herba di kebun spiritual (`18_SPIRIT_GARDENING_SYSTEM.md`):
+
+| Grade Nutrisi | Nama Produk Alkimia | Bahan Utama Resep | Efek Akselerasi Kebun (`18`) |
+|---|---|---|---|
+| **Grade 1** | **Basic Spirit Nutrient Liquid** | Water Dew Flower + Gale Grass | `+0.25` Catalysis Mod (Satu botol per tanaman) |
+| **Grade 2** | **Wood-Vitality Nutrient Essence**| Vermilion Ginseng + River Willow Root | `+0.50` Catalysis Mod (Satu botol per tanaman) |
+| **Grade 3** | **Elemental Harmony Liquid** | Five-Element Vine + Spirit Core T3 | `+0.80` Catalysis Mod + Syarat Mutasi Kebun 15% |
+| **Grade 4** | **Life-Surge Nutrient Elixir** | Root-Heart Ginseng + Pure Glacier Water | `+1.20` Catalysis Mod (Memotong waktu tumbuh hingga ~55%) |
+| **Grade 5** | **Grand Dao Spirit Catalytic Dew**| Ancient Life Sap + Celestial Water + Core T5| `+1.80` Catalysis Mod (Sangat efektif untuk herba Tier 6+) |
+
 ---
 
-## ⚒️ 2. Disiplin Produksi 2: Penempaan (Forging — Senjata & Zirah)
+## ⚒️ 2. Disiplin Produksi 2: Penempaan (Forging — Senjata, Zirah, & Alat Kebun)
 
 Penempaan adalah seni melebur bijih mineral spiritual (seperti *Cold Steel*, *Blackstone Ore*, *Frostglass Ore*) menggunakan palu tempa dan cetakan Qi.
 
@@ -55,18 +67,22 @@ Penempaan adalah seni melebur bijih mineral spiritual (seperti *Cold Steel*, *Bl
 
 ### 2.2 Kategori Produk Tempa
 - **Senjata Utama**: Pedang, Tombak, Gada Berat, Busur Panah.
-- **Zirah & Pelindung**: Zirah Batu Hitam (*Blackstone Armor*), Zirah Zirah Es (*Frost Armor*), Perisai Besi.
-- **Alat Khusus**: Palu Penambang, Cangkul Herbal, Kuali Alkimia Tempa.
+- **Zirah & Pelindung**: Zirah Batu Hitam (*Blackstone Armor*), Zirah Es (*Frost Armor*), Perisai Besi.
+- **Alat Pertanian & Kebun**: Cangkul Herbal Spiritual, Sabit Pemotong Herba Presisi, Kuali Alkimia Tempa.
 
 ---
 
-## 📐 3. Disiplin Produksi 3: Formasi Array (Formation — Segel & Pelindung)
+## 📐 3. Disiplin Produksi 3: Formasi Array (Formation — Segel, Pelindung, & Kebun)
 
 Formasi adalah susunan batu inti (*Formation Core*) dan ukiran garis Qi pada tanah/bangunan untuk memanipulasi hukum alam lokal.
 
 ### 3.1 Jenis-Jenis Formasi Array
 - **Formasi Pelindung (Shielding Array)**: Membentuk kubah aura Qi penahan serangan fisik dan mantra (misal: *Perisai Segel Tujuh Cincin Yuanjing*).
 - **Formasi Pengumpul Qi (Spirit Gathering Array)**: Meningkatkan *Qi Density Modifier* lokal sebesar +0.3× s/d +0.5× di dalam area retret.
+- **Formasi Percepatan Kebun (Spirit Acceleration Array — `18`)**:
+  - *Grade 1–2 Array*: `+0.30` Catalysis Mod
+  - *Grade 3–4 Array*: `+0.60` Catalysis Mod
+  - *Grade 5+ Array*: `+1.00` Catalysis Mod
 - **Formasi Segel & Jebakan (Sealing / Trap Array)**: Mengunci pergerakan musuh (*Immobilized*) dan menetralkan miasma beracun.
 
 ---
