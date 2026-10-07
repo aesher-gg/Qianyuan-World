@@ -1,7 +1,7 @@
 # 👤 Ye Chen
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `03_BLACKSTONE_SKYREACH.md`, `23_BLACKSTONE_VOW_SECT.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `03_BLACKSTONE_SKYREACH.md`, `23_BLACKSTONE_VOW_SECT.md`, `14_VITALITY_BODY_SYSTEM.md`
 
 ---
 
@@ -12,7 +12,7 @@
 **Law Origin:** Belum ada
 **Sekte/Afiliasi Awal:** Blackstone Vow Sect (Benteng Skyreach) — murid magang penempa
 
-**Kondisi Awal:** HP 25/25 · Qi 50/50 · Stamina 100/100 · Satiety 90% · Kondisi Normal · Karma Netral
+**Kondisi Awal:** HP 150/150 *(HPBase = 100 + 50 × 1,0 per `14`)* · Qi 50/50 · Stamina 100/100 · Satiety 90% · Kondisi Normal · Karma Netral
 
 **Currency Awal:**
 - Copper Taels × 150

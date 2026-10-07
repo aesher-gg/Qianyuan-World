@@ -1,7 +1,7 @@
 # 👤 Lin Feng
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `02_VERMILION_RIVER_BASIN.md`, `22_RIVER_LANTERN_SCHOOL.md`
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `02_VERMILION_RIVER_BASIN.md`, `22_RIVER_LANTERN_SCHOOL.md`, `14_VITALITY_BODY_SYSTEM.md`
 
 ---
 
@@ -12,7 +12,7 @@
 **Law Origin:** Jalur Guru — diajarkan oleh **Kapten Senior Jiang Ning**, Pengawal River Lantern School, sejak usia 15 tahun. Teknik yang sudah dikuasai: *Langkah Pelampung Air* (tingkat dasar).
 **Sekte/Afiliasi Awal:** River Lantern School (Pelabuhan Zhuque) — murid luar, pengawal kapal kargo kecil
 
-**Kondisi Awal:** HP 625/625 · Qi 1.250/1.250 · Stamina 100/100 · Satiety 80% · Kondisi Normal · Karma Netral (belum ada catatan Merit/Sin)
+**Kondisi Awal:** HP 1.350/1.350 *(HPBase = 100 + 1.250 × 1,0 per `14`)* · Qi 1.250/1.250 · Stamina 100/100 · Satiety 80% · Kondisi Normal · Karma Netral (belum ada catatan Merit/Sin)
 
 **Currency Awal:**
 - Copper Taels × 250

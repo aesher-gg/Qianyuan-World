@@ -3,7 +3,7 @@
 > **Modul:** 14 — Vitality Body System
 > **Genre:** Xianxia · Wuxia · Kultivasi · Hardcore Realism
 > **Prinsip:** Anti-Cheat Enforced — Law-Specific Scaling — Survival & Injury Realism
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan mutlak), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (ikhtisar dunia), `12_CULTIVATION_RESONANCE_SYSTEM.md` (QiCap sebagai basis HP), `13_ECONOMY_MARKET_SYSTEM.md` (harga pengobatan Tabib & makanan), `15_COMBAT_TACTICAL_SYSTEM.md` (penerapan damage & trauma pertarungan)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan mutlak), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (ikhtisar dunia), `12_CULTIVATION_RESONANCE_SYSTEM.md` (QiCap & breakthrough), `13_ECONOMY_MARKET_SYSTEM.md` (harga pengobatan Tabib & makanan), `15_COMBAT_TACTICAL_SYSTEM.md` (penerapan damage & trauma pertarungan)
 
 ---
 
@@ -12,11 +12,11 @@
 Sama seperti energi Qi yang tunduk pada `QiCap` dan harga yang tunduk pada `FinalPrice`, daya tahan fisik (*HP*), status luka, dan rasa lapar (*Satiety*) di dunia Qianyuan tunduk pada formula mekanis yang ketat. Pemain **TIDAK BOLEH** mengarang sendiri angka HP, regenerasi ajaib instan, atau kekebalan dari cedera fisik tanpa dasar item/jasa medis resmi.
 
 ### Aturan Emas Anti-Cheat Vitalitas & Kelaparan (Mandatory Enforced Rules)
-1. **Larangan Deklarasi HP Sepihak**: Maksimal HP karakter dihitung otomatis oleh AI GM menggunakan formula `HP(realm, stage, law)`. Klaim nilai HP di atas formula otomatis **DITOLAK**.
+1. **Larangan Deklarasi HP Sepihak**: Maksimal HP karakter dihitung otomatis oleh AI GM menggunakan formula `HPMax(realm, stage, law)`. Klaim nilai HP di atas formula otomatis **DITOLAK**.
 2. **Log Kerusakan Bertimestamp**: Setiap luka (*Wound*), trauma batin (*Trauma*), dan pengurangan HP akibat pertarungan atau racun wajib dicatat di log percakapan bertimestamp dan tidak bisa diedit mundur.
 3. **Pengobatan Medis Terintegrasi**: Penyembuhan luka berat (*Major/Severe Wound*) dan trauma Dantian hanya bisa dipulihkan lewat ramuan alkimia (*Pills*) atau jasa Tabib resmi yang tunduk pada Sistem Ekonomi (`13_ECONOMY_MARKET_SYSTEM.md`).
 4. **Kelaparan Berdasarkan Waktu (*Satiety Decay*)**: Penurunan tingkat kenyang (*Satiety*) dihitung per Shichen berdasarkan *Fasting Multiplier* Realm karakter, bukan klaim sepihak pemain.
-5. **Pembaruan Otomatis Terobosan**: Terobosan Realm (*Breakthrough*) secara otomatis memperbarui nilai Max HP, Max Stamina, dan Fasting Multiplier karakter.
+5. **Pembaruan Otomatis Terobosan**: Terobosan Realm (*Breakthrough*) secara otomatis memperbarui nilai Max HP, Max Stamina, dan Fasting Multiplier karakter, serta memicu pemulihan HP dan Qi penuh.
 
 ---
 
@@ -38,12 +38,14 @@ Setiap karakter di dunia Qianyuan memiliki 7 Atribut Vitalitas Utama yang dicata
 
 ### 2.1 Formula Dasar HP Qianyuan
 ```
-HPBase(realm, stage) = QiCap(realm, stage) × K_HP + PhysicalBonus
-K_HP = 0,5 (Konstanta Vitalitas Universal Qianyuan)
-PhysicalBonus = Bonus ketahanan fisik khusus Body Refining Stage (+20 s/d +100 HP)
+HPBase(realm, stage) = BasePhysicalVitality + (QiCap(realm, stage) × K_HP)
+BasePhysicalVitality = 100 HP (Daya tahan fisik dasar raga manusia)
+K_HP = 1,0 (Konstanta Vitalitas Universal)
 
-HP(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
+HPMax(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 ```
+
+> 📌 **Ketentuan Khusus Mortal (Non-Kultivator)**: Manusia biasa / Mortal yang belum berkultivasi (sebelum memasuki Realm 1) memiliki **`QiCap = 0`**. Maka `HPBase` untuk Mortal murni adalah `100 + (0 × 1,0) = 100 HP`.
 
 ### 2.2 Law HP Multiplier per Jalur Hukum Qianyuan
 
@@ -57,6 +59,26 @@ HP(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 | **Hukum Matahari Membara & Api** (*Fire/Sun Qi*) | ×0,9 | Agresif dan ofensif — fokus pada daya hancur ketimbang HP. |
 | **Hukum Anomali Ruang & Takdir** (*Fate/Mutated Qi*) | ×0,85 | Unik dan tidak stabil — memicu risiko fluktuasi Dantian. |
 | **Hukum Racun Miasma & Anggrek Darah** (*Poison/Blood Qi*)| ×0,8 | Jalur racun beracun — trade-off klasik kekuatan racun besar, raga rapuh. |
+
+---
+
+### 📈 2.3 Tabel Skala HP Maksimal per Realm (Jalur Hukum Netral ×1,0)
+
+| Realm & Stage Kultivasi | QiCap (`12`) | Formula HPBase | HPMax (Hukum Netral ×1,0) |
+|---|---|---|---|
+| **Mortal (Non-Kultivator)** | **0** | `100 + (0 × 1,0)` | **100 HP** |
+| **Body Refining Early Stage (Realm 1)** | **50** | `100 + (50 × 1,0)` | **150 HP** |
+| **Body Refining Mid Stage** | **75** | `100 + (75 × 1,0)` | **175 HP** |
+| **Body Refining Late Stage** | **100** | `100 + (100 × 1,0)` | **200 HP** |
+| **Body Refining Peak Stage** | **125** | `100 + (125 × 1,0)` | **225 HP** |
+| **Qi Gathering Early Stage (Realm 2)** | **250** | `100 + (250 × 1,0)` | **350 HP** |
+| **Qi Gathering Peak Stage** | **625** | `100 + (625 × 1,0)` | **725 HP** |
+| **Foundation Est. Early Stage (Realm 3)** | **1.250** | `100 + (1.250 × 1,0)` | **1.350 HP** |
+| **Foundation Est. Peak Stage** | **3.125** | `100 + (3.125 × 1,0)` | **3.225 HP** |
+| **Core Formation Early Stage (Realm 4)** | **6.250** | `100 + (6.250 × 1,0)` | **6.350 HP** |
+| **Core Formation Peak Stage** | **15.625** | `100 + (15.625 × 1,0)` | **15.725 HP** |
+| **Nascent Soul Early Stage (Realm 5)** | **31.250** | `100 + (31.250 × 1,0)` | **31.350 HP** |
+| **Soul Formation Early Stage (Realm 6)** | **156.250** | `100 + (156.250 × 1,0)` | **156.350 HP** |
 
 ---
 
@@ -132,10 +154,11 @@ BaseDecayRate = 25 Satiety Points per Shichen (Mortal biasa kehilangan kenyang p
 
 ## 🛡️ 7. Checklist Validasi AI GM (Wajib Diperiksa Setiap Turn)
 
-- [ ] Max HP dihitung otomatis berdasarkan formula `HP(realm, stage, law)`?
+- [ ] Max HP dihitung otomatis berdasarkan formula `HPMax(realm, stage, law)`?
+- [ ] Mortal murni (sebelum Realm 1) menggunakan `QiCap = 0` (`HPMax = 100 HP`)?
 - [ ] Kerusakan HP, status Wound, dan Trauma dicatat di log bertimestamp?
 - [ ] Penurunan Satiety dihitung presisi sesuai Fasting Multiplier Realm karakter?
 - [ ] Penyembuhan luka berat dan trauma menggunakan pill/jasa tabib tervalidasi Sistem Ekonomi?
-- [ ] Terobosan Realm memperbarui statistik Max HP dan Fasting Multiplier secara otomatis?
+- [ ] Terobosan Realm memperbarui statistik Max HP, memulihkan HP/Qi penuh, dan memperbarui Fasting Multiplier?
 
 Jika **salah satu** poin di atas meragukan → Status Vitalitas **DIKOREKSI OTOMATIS** oleh AI GM.
