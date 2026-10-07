@@ -68,6 +68,34 @@ Secondary Role adalah profesi pencari nafkah dan keahlian teknis yang menghasilk
 
 ---
 
+### 🌿 2.1 Spesialisasi & Perk Profesi Farmer (Petani Herbal Spiritual — `18`)
+
+Petani Herbal yang memfokuskan profesinya dalam budidaya tanaman obat mendapatkan perk bertingkat sesuai tingkatan keahlian (*Proficiency Tiers*):
+
+| Tingkat Profesi | Nama Perk Spesialisasi | Efek Mekanis Perk |
+|---|---|---|
+| **Apprentice (Lvl 1)** | **Green Thumb (Jempol Hijau)** | Mengurangi risiko pembusukan akar (*Root Rot*) sebesar -50% & mendeteksi hama kebun secara dini. |
+| **Journeyman (Lvl 2)** | **Spirit Catalytic Farmer** | Bonus *CareEfficiencyMod* penyiraman & pupuk +0,25× (Memotong waktu tumbuh tanaman Tier 1–3). |
+| **Expert (Lvl 3)** | **Hybrid Botanist (Ahli Mutasi)** | Meningkatkan peluang mutasi persilangan (*Hybrid Crossbreeding*) dari 15% menjadi **30%**. |
+| **Master (Lvl 4)** | **Soil Whisperer (Penebak Tanah)**| Mampu menanam herba spiritual di luar elemen tanah aslinya tanpa penalti *Root Rot* (dengan Formasi Qi). |
+| **Grandmaster (Lvl 5)**| **Essence Harvest Master** | Setiap panen herba Tier 5+ berpeluang 25% menghasilkan kualitas *Tian-Grade (Grade 5 / ×2,0 Efek)*. |
+
+---
+
+### 🧪 2.2 Spesialisasi & Perk Profesi Alchemist (Ahli Alkimia & Pembuat Ramuan — `16`)
+
+Alchemist yang mendalami seni peracikan pil obat dan cairan nutrisi mendapatkan perk bertingkat:
+
+| Tingkat Profesi | Nama Perk Spesialisasi | Efek Mekanis Perk |
+|---|---|---|
+| **Apprentice (Lvl 1)** | **Purity Filtering (Pemurni Bahan)**| Mengurangi konsumsi bahan tambahan alkimia sebesar -15%. |
+| **Journeyman (Lvl 2)** | **Nutrient Brewer (Pembuat Nutrisi)**| Meningkatkan efektivitas *Nutrient Liquids* buatan sendiri sebesar +0,20× Catalysis Mod (`18`). |
+| **Expert (Lvl 3)** | **Flame Control Expert** | Bonus *SuccessChance* peracikan pil Tier 4–5 sebesar +15% & mencegah risiko *Furnace Explosion*. |
+| **Master (Lvl 4)** | **Double Pill Yield** | Peluang 30% menghasilkan **2 butir pil** dalam satu siklus peracikan alkimia. |
+| **Grandmaster (Lvl 5)**| **Sheng-Grade Alchemical Master** | Membuka kemampuan membuat Pil Sheng-Grade (Grade 6 / ×3,0 Efek) & elixir kebangkitan. |
+
+---
+
 ## 🏛️ 3. Social Roles (Kedudukan Kemasyarakatan & Hak Akses)
 
 Social Role menentukan kedudukan hukum, reputasi politik (`11`), dan hak akses terhadap fasilitas resmi di 10 wilayah Qianyuan-World.

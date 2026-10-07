@@ -164,6 +164,17 @@ Serikat pengembara bebas yang menguasai keahlian menyelam di dasar rawa beracun 
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Pinggiran Rawa Dangkal** | Toxic Reed Sprout, Gloom-Shroom | Tier 1–2 | **Low** (Poison Leech, Mire Mosquito) |
+| **Lembah Bunga Anggrek Darah** | Purifying Mire Reed, Mire Blood Orchid | Tier 3–4 | **Medium** (Blood Orchid Spider, Mire Toad) |
+| **Rawa Tenggelam Tua** | Nine-Toxic Nightshade | Tier 5 | **High** (Nine-Headed Swamp Python) |
+| **Inti Rawa Mati (Mire Abyss)**| Hydra Poison Vine | Tier 7 | **Extreme** (Ancient Hydra Beast / Toxic Miasma King) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Nine-Reed Mire tanpa perlindungan/penawar racun memicu pemicuan tes Poison Status setiap 2 Shichen.
 * Berada di Zona Dalam Labirin Alang-Alang memberikan penalti Hit Rate -15% akibat pekatnya kabut Miasma.

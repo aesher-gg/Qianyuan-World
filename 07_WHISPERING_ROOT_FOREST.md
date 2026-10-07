@@ -155,6 +155,17 @@ Kelompok pemburu liar ilegal yang membantai binatang spiritual tanpa lisensi dem
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Pinggiran Hutan Whispering**| Whispering Moss, Green Spore House | Tier 1–2 | **Low** (Leaf-Winged Butterfly, Forest Squirrel) |
+| **Pelepah Pohon Raksasa** | Wood-Spirit Treant Flower, Root-Heart Ginseng | Tier 3–4 | **Medium** (Wood Treant Guardian, Forest Panther) |
+| **Pusat Hutan Whispering** | Ancient Life Tree Sapling | Tier 7 | **High** (Ancient Treant King) |
+| **Kedalaman Inti Hutan Purba** | Myriad-Year Whispering Root | Tier 9 | **Extreme** (Mythical Forest Spirit Beast) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Whispering Root Forest meningkatkan kecepatan pemulihan HP dan Qi alami sebesar +25%.
 * Merusak vegetasi atau membantai induk beast yang sedang mengasuh anak memicu kemarahan Rootbound Covenant dan penalti pertukaran ekonomi.

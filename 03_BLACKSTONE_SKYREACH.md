@@ -150,6 +150,17 @@ Kawanan perampok bersenjata berat yang menyergap karavan pengangkut bijih mentah
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Dinding Tebing Skyreach** | Ironclad Lichen, Skyreach Cloud Moss | Tier 1–2 | **Low** (Iron-Beaked Falcon, Stone Beetle) |
+| **Cadas Jurang Batu Hitam** | Blackstone Root, Gale-Edge Blossom | Tier 3–4 | **Medium** (Blackstone Gargoyle, Mountain Ape) |
+| **Gua Tambang Kedalaman** | Titan Ore Fungus | Tier 5 | **High** (Deep-Cave Ore Serpent, Rock Golem) |
+| **Inti Kedalaman Tebing Skyreach**| Skyreach Earth-Core Ginseng | Tier 7 | **Extreme** (Ancient Mountain Titan Bear) |
+
+---
+
 ## GM Notes & Instructions
 * Wilayah Blackstone Skyreach memberikan bonus pertahanan fisik **+20%** bagi pengguna teknik Earth/Metal Qi.
 * Berada di Zona Inti Gua Tambang memicu efek *Magnetic Pulse* (penalti akurasi busur/panah -20% dan disorientasi kompas).

@@ -155,6 +155,17 @@ Jaringan pedagang perahu independen yang menguasai jasa transportasi pasokan her
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Pesisir Sungai Vermilion** | Red Lantern Blossom, Vermilion Ginseng | Tier 1–2 | **Low** (Vermilion Water Dragonfly, Earth-Burrowing Rat) |
+| **Rawa Bunga Embun** | Jade Dewflower, River Willow Root | Tier 3–4 | **Medium** (Mud Crocodile, Giant Water Snake) |
+| **Hulu Lembah Embun Merah** | Vermilion Lotus of Life | Tier 6 | **High** (Misty River Heron Swarm, Spirit Water Serpent) |
+| **Mata Air Dasar Sungai Purba**| Grand Vermilion Dragon Stem | Tier 8 | **Extreme** (Ancient Water Dragon Spirit / Entitas Kuil Air) |
+
+---
+
 ## GM Notes & Instructions
 * Wilayah Vermilion River Basin memberi bonus regenerasi Qi Air/Kayu sebesar **+20%**.
 * Pertarungan di atas perahu atau dalam air memerlukan pemeriksaan Posture/Position tambahan sesuai `15_COMBAT_TACTICAL_SYSTEM.md`.

@@ -133,6 +133,17 @@ Kafilah karavan khusus yang mengangkut komoditas mineral Cold Steel, Bunga Terat
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Lereng Bawah Frostglass** | Frost Pine Needle, Glacier Orchid | Tier 1–3 | **Low–Medium** (Snow Fox, Frost Wolf) |
+| **Puncak Gletser & Lereng Terjal**| Crystal Frost Plum, Snow Lotus | Tier 4–5 | **High** (Glacial Bear, Frost Drake) |
+| **Gua Gletser Abadi** | Eternal Cold-Marrow Fungus | Tier 6 | **High** (Glacier Golem) |
+| **Inti Puncak Gletser Frostglass**| Absolute Zero Glacial Plum | Tier 8 | **Extreme** (Ancient Ice Dragon Spirit) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Frostglass Crown tanpa pakaian ber-Qi hangat atau teknik pertahanan es memberikan penalti Stamina -10 per Shichen dan risiko status *Frostbite*.
 * Praktisi ilmu pedang (*Sword Cultivation*) dan teknik elemen es menerima bonus efisiensi latihan & breakthrough sebesar +20% saat bertapa di Puncak Meditasi Keheningan.

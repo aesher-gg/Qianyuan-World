@@ -46,10 +46,44 @@ Reputasi Golden Thread Medicine Hall diakui secara mutlak oleh Kekaisaran Yuanji
 |---|---|---|
 | **Great Golden Hall (Yuanjing Branch)** | Markas pusat pengobatan & laboratorium alkimia utama, berjarak 300 li dari ibu kota. | Master Alchemist ke atas. |
 | **Rumah Pengobatan Pusat** | Bangunan 5 lantai tempat perawatan pasien kritis, operasi meridian, dan pemulihan luka berat. | Murid Diagnostik ke atas. |
-| **Kebun Alkimia Medis** | Lahan budidaya herba penyembuh langka Tier 3–6, dilindungi formasi pendingin air murni. | Magang Racikan ke atas. |
+| **Kebun Alkimia Medis** | Lahan budidaya herba penyembuh langka Tier 3–6, dilindungi formasi pendingin air murni. Memiliki 4 sektor khusus (Sektor Vermilion, Sektor Frost-Ice, Sektor Water-Lily, Sektor High-Tier). | Magang Racikan ke atas. |
 | **Ruang Diagnosis Qi** | Ruang steril khusus pemeriksaan *Qi Deviation* dan kerusakan Dantian menggunakan benang Qi emas. | Tabib Senior ke atas. |
 | **Kuali Alkimia Purba** | Laboratorium pemurnian pil penyembuh kelas tinggi (*Tian/Sheng Grade*) dengan tungku giok. | Master Alchemist ke atas. |
 | **Aula Pengujian Lisensi Tabib** | Tempat pendaftaran dan ujian kualifikasi resmi praktik kedokteran spiritual bagi kultivator umum. | Umum (Seluruh Murid / Tamu). |
+
+---
+
+## 🌿 4.1 Kebun Alkimia Medis & Sektor Budidaya Herba (`18_SPIRIT_GARDENING_SYSTEM.md`)
+
+Kebun Alkimia Medis Golden Thread Medicine Hall menggunakan sistem irigasi air murni dan Formasi Pengumpul Qi Grade 4:
+- **Sektor Vermilion Wood**: Lahan budidaya Vermilion Ginseng (Tier 2), Jade Dewflower (Tier 3), dan Root-Heart Ginseng (Tier 4).
+- **Sektor Frost-Ice & Water**: Lahan dingin terlindungi formasi pendingin untuk Spirit Purifying Lotus (Tier 4) dan Snow Lotus (Tier 5).
+- **Sektor High-Tier Enclosure**: Kebun terisolasi dilindungi Formasi Qi Grade 5 untuk eksperimen percepatan tumbuh herba Tier 6+ menggunakan *Life-Surge Nutrient Elixir* (`16`).
+
+---
+
+## 📜 4.2 Misi Rutin Murid Pengumpul & Petani Herba (Gathering & Gardening Quests)
+
+1. **Misi Pengumpulan Herba Liar (Gathering Quest)**:
+   - *Tugas*: Mencari dan memanen Herba Tier 2–4 segar dari *Gathering Nodes* Lembah Sungai Vermilion (`02`) atau Whispering Root Forest (`07`).
+   - *Imbalan*: 15–50 Poin Kontribusi Sekte + Akses laboratorium kuali giok.
+2. **Misi Perawatan Kebun & Pemandian Nutrisi (Gardening Care Quest)**:
+   - *Tugas*: Menyiram kebun medis dengan *Basic Spirit Nutrient Liquid* (`16`) dan membasmi hama *Spirit Root Beetle* (`18`).
+   - *Imbalan*: 20 Poin Kontribusi Sekte + Resep Cairan Nutrisi Grade 2.
+3. **Misi Ekspedisi Miasma Rawa (Emergency Epidemic Quest)**:
+   - *Tugas*: Memasok *Pill Essence Cleansing* ke desa terinfeksi wabah di Nine-Reed Mire (`05`) dan memanen *Purifying Mire Reed*.
+   - *Imbalan*: 100 Poin Kontribusi Sekte + Lisensi Tabib Senior.
+
+---
+
+## 🏥 4.3 Layanan Pengobatan Medis Resmi Sekte (Medical Services & Fees)
+
+| Jenis Layanan Pengobatan | Biaya Standar Bursa (`13`) | Durasi & Efek Penyembuhan |
+|---|---|---|
+| **Diagnosis Denyut Qi (Golden Thread Pulse Check)** | 5 Silver Taels | Deteksi instan racun, trauma organ, & gangguan meridian. |
+| **Operasi Pembersihan Meridian & Penjatan Qi** | 2 Spirit Stones Tier 1 | Menyembuhkan status *Moderate/Severe Wound* & pendarahan. |
+| **Pengobatan Dantian Shock Trauma / Qi Deviation** | 15–50 Spirit Stones Tier 1 | Pemulihan kerusakan Dantian & penstabilan arus Qi batin. |
+| **Pemberian Ramuan Penawar Racun Miasma Agung** | 1 Spirit Stone Tier 1 | Menetralkan racun miasma tingkat tinggi seketika. |
 
 ---
 

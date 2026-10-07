@@ -24,6 +24,7 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
+| **Xuan Yu** | Desa Root-Bound (`07`) | Body Refining, Early (Mortal) | Sanxiu (Warga Desa) | [RAW File](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Xuan_Yu.md) |
 | **Lin Feng** *(contoh)* | Kota Vermilion Port, Vermilion River Basin | Foundation Establishment, Early | River Lantern School (Murid Luar) | [`Lin_Feng.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Lin_Feng.md) |
 | **Ye Chen** | Benteng Skyreach, Blackstone Skyreach | Body Refining, Early | Blackstone Vow Sect (Murid Magang) | [`Ye_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Ye_Chen.md) |
 
