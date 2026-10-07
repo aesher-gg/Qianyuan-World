@@ -7,23 +7,23 @@
 
 **Nama Karakter:** Xuan Yu
 **Lokasi Awal:** Desa Root-Bound (Root-Bound Village), Whispering Root Forest (`07_WHISPERING_ROOT_FOREST.md`)
-**Realm & Stage Awal:** Body Refining Realm, Early Stage (Mortal / Fana) — Qi Cap: **50** *(RealmBase 50 × StageMultiplier 1.0)*
+**Realm & Stage Awal:** Mortal
 **Hukum Kultivasi Awal:** Belum ada — Mortal/Fana
 **Law Origin (jika sudah ada Hukum):** Belum ada
 **Sekte/Afiliasi Awal:** Sanxiu (Penduduk Desa Biasa)
 
-**Kondisi Awal:** HP 25/25 · Qi 0/50 · Stamina 100/100 · Satiety 100% · Kondisi Normal · Karma Netral
+**Kondisi Awal:** HP 25/100 · Qi 0/0 · Stamina 100/100 · Satiety 100% · Kondisi Normal · Karma Netral
 
 **Currency Awal:**
-- Copper Taels × 50
-- Silver Taels × 5
+- Copper Taels × 100
+- Silver Taels × 10
 - Gold Taels × 0
 - Spirit Stones Tier 1 × 0
 
 **Equipment Awal (terpakai/digenggam):**
-- Senjata: Baju Tani Kayu / Tanpa Senjata
+- Senjatat:-
 - Zirah/Pelindung: Pakaian Kain Desa Biasa
-- Aksesoris: Pisau Kecil Pemotong Kayu
+- Aksesoris: Gantungan Giok 
 
 **Inventory Awal (dibawa, tidak terpakai):**
 - Ransum Makanan Biasa (3 Hari)
