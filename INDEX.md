@@ -14,7 +14,7 @@
    - Setiap balasan AI GM wajib mencantumkan header: `🕒 Waktu Qianyuan-World | 💬 Step: Tanpa Batas`.
    - Sesi berjalan tanpa batasan jumlah step, memberikan kebebasan penuh bagi pemain untuk terus bermain tanpa pembekuan sesi.
 3. **Cek pesan pemain** untuk menentukan identitas & titik mulai karakter — ada 3 kemungkinan, jangan disamaratakan:
-   - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
+   - **(a) Karakter terdaftar, baru pertama kali dimainkan atau memulai sesi baru dari save repo** (nama cocok entri di `players.md`, TIDAK ada blok "Profil Karakter" yang ditempel/riwayat sebelumnya) ATAU **pemain menanyakan tentang karakter/player lain** → fetch `players.md` (link §1) atau langsung fetch file RAW karakter individual yang dituju di `players/<Nama_Karakter>.md` (misal: `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md?v=1`), muat data awalnya sebagai **titik mulai** narasi atau referensi informasi. `players.md` & folder `players/` dikelola oleh admin sebagai sumber save resmi.
    - **(b) Melanjutkan karakter yang sudah pernah dimainkan di dalam chat yang sama** (pemain menempel ulang blok "Profil Karakter" dari sesi sebelumnya, atau riwayatnya masih ada di chat yang sama) → pakai kondisi TERKINI itu sebagai starting state.
    - **(c) Karakter benar-benar baru** (nama tidak ada di `players.md` maupun riwayat manapun) → perlakukan sebagai karakter baru custom sesuai `00_CORE_RULES_AI_GM.md` §1.6, minta Nama + Lokasi Awal (pilih dari modul `02`–`10`).
 4. **Tentukan lokasi karakter** (dari file karakter individual di `players/` atau dari input baru pemain), lalu fetch modul wilayah yang sesuai (`02`–`10`) dari tabel §1.
@@ -29,36 +29,36 @@
 
 | Kode | File Name | Link RAW (Klik / Fetch) | Isi Singkat & Fungsi |
 |---|---|---|---|
-| **00** | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/00_CORE_RULES_AI_GM.md | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
-| 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players.md | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
-| **01** | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/01_WORLD_OVERVIEW_AND_CAPITAL.md | Peta jarak benua Qianyuan, Nine Meridian Currents, Ibu Kota Yuanjing & 7 Cincin |
-| **02** | `02_VERMILION_RIVER_BASIN.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/02_VERMILION_RIVER_BASIN.md | Vermilion River Basin: Pelabuhan Zhuque, Desa Bunga Embun, kota & NPC perairan |
-| **03** | `03_BLACKSTONE_SKYREACH.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/03_BLACKSTONE_SKYREACH.md | Blackstone Skyreach: Benteng Skyreach, Lembah Anvil, Gua Tambang Besi Kuno |
-| **04** | `04_ASHEN_SUN_EXPANSE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/04_ASHEN_SUN_EXPANSE.md | Ashen Sun Expanse: Kota Oasis Sunfire, Benteng Sandgate, Istana Sunken Sun |
-| **05** | `05_NINE_REED_MIRE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/05_NINE_REED_MIRE.md | Nine-Reed Mire: Desa Panggung Mirewood, Pasar Kabut Kelam, Labirin Alang-Alang |
-| **06** | `06_ASTRAL_TIDE_SEA.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/06_ASTRAL_TIDE_SEA.md | Astral Tide Sea: Pelabuhan Star-Compass, Benteng Pulau Coral, Palung Abyss |
-| **07** | `07_WHISPERING_ROOT_FOREST.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/07_WHISPERING_ROOT_FOREST.md | Whispering Root Forest: Desa Root-Bound, Pondok Pemburu, World Tree Sanctuary |
-| **08** | `08_FROSTGLASS_CROWN.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/08_FROSTGLASS_CROWN.md | Frostglass Crown: Benteng Salju Frost-Edge, Desa Gletser Bening, Puncak Meditasi |
-| **09** | `09_HOLLOW_GALE_CORRIDOR.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/09_HOLLOW_GALE_CORRIDOR.md | Hollow Gale Corridor: Kota Wind-Gale, Pos Tebing Bisik, Lembah Gema |
-| **10** | `10_FATE_SCARLANDS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/10_FATE_SCARLANDS.md | Fate Scarlands: Pos Perbatasan Scar-Watch, Kemah Penjelajah, Kota Terbalik |
-| **11** | `11_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/11_CROSS_REGION_ORGANIZATIONS.md | Imperial Court, Merchant Alliance, Beast Union, Courier, Dao Registry, Bounty Tribunal, Sanxiu, Demonic Outlaws |
-| **12** | `12_CULTIVATION_RESONANCE_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/12_CULTIVATION_RESONANCE_SYSTEM.md | Inisiasi Mortal, 9 Major Realm, Formula QiCap, Law Origins, Nine Meridian Laws, Tribulasi, Karma |
-| **13** | `13_ECONOMY_MARKET_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/13_ECONOMY_MARKET_SYSTEM.md | Mata uang resmi, Tier Base Values, Dynamic Price Formula, Harga Jasa/Aset, Haggling Rules |
-| **14** | `14_VITALITY_BODY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/14_VITALITY_BODY_SYSTEM.md | Formula HP Universal, Law HP Multiplier, Wound/Trauma, Satiety Decay, Fasting Multipliers (Bi Gu), Rest |
-| **15** | `15_COMBAT_TACTICAL_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/15_COMBAT_TACTICAL_SYSTEM.md | Initiative, Action Economy (1 Main + 1 Minor), Hit Chance, Damage Resolution, Posture/Position States, Cooldowns |
-| **16** | `16_CRAFTING_ALCHEMY_ARRAY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/16_CRAFTING_ALCHEMY_ARRAY_SYSTEM.md | Alchemy, Forging, Formation Array, Talisman Inscription, Quality Grades, Success Rates & Risks |
-| **17** | `17_ROLES_PROFESSIONS_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/17_ROLES_PROFESSIONS_SYSTEM.md | 10 Primary Combat Roles, 10 Secondary Professions (5 Tiers), Social Roles & Access Rights |
-| **18** | `18_SPIRIT_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/18_SPIRIT_GARDENING_SYSTEM.md | Spirit Soil Grades 1–6, Growth Duration Formula, Spirit Water & Bee Pollination, Hybrid Crossbreeding, Plant Catalog |
-| **19** | `19_BEAST_BOND_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/19_BEAST_BOND_SYSTEM.md | 3 Contract Types, Trust Metric (0–100), Taming Success Rate, Bloodline Awakening Evolution, Shared Telepathy |
-| **20** | `20_BESTIARY_ECOLOGY.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/20_BESTIARY_ECOLOGY.md | MonsterHP & Attack formulas, Ambush Chance, Loot Drop Rates, Threat Levels, Common & Regional Monster Catalogs |
+| **00** | `00_CORE_RULES_AI_GM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/00_CORE_RULES_AI_GM.md?v=1 | Aturan mutlak, anti-cheat, format respon wajib, cheat-sheet formula — **selalu difetch pertama** |
+| 👤 | `players.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players.md?v=1 | Katalog **data AWAL** karakter (statis, dikelola admin) — memuat link RAW ke file individual di `players/` |
+| **01** | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/01_WORLD_OVERVIEW_AND_CAPITAL.md?v=1 | Peta jarak benua Qianyuan, Nine Meridian Currents, Ibu Kota Yuanjing & 7 Cincin |
+| **02** | `02_VERMILION_RIVER_BASIN.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/02_VERMILION_RIVER_BASIN.md?v=1 | Vermilion River Basin: Pelabuhan Zhuque, Desa Bunga Embun, kota & NPC perairan |
+| **03** | `03_BLACKSTONE_SKYREACH.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/03_BLACKSTONE_SKYREACH.md?v=1 | Blackstone Skyreach: Benteng Skyreach, Lembah Anvil, Gua Tambang Besi Kuno |
+| **04** | `04_ASHEN_SUN_EXPANSE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/04_ASHEN_SUN_EXPANSE.md?v=1 | Ashen Sun Expanse: Kota Oasis Sunfire, Benteng Sandgate, Istana Sunken Sun |
+| **05** | `05_NINE_REED_MIRE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/05_NINE_REED_MIRE.md?v=1 | Nine-Reed Mire: Desa Panggung Mirewood, Pasar Kabut Kelam, Labirin Alang-Alang |
+| **06** | `06_ASTRAL_TIDE_SEA.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/06_ASTRAL_TIDE_SEA.md?v=1 | Astral Tide Sea: Pelabuhan Star-Compass, Benteng Pulau Coral, Palung Abyss |
+| **07** | `07_WHISPERING_ROOT_FOREST.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/07_WHISPERING_ROOT_FOREST.md?v=1 | Whispering Root Forest: Desa Root-Bound, Pondok Pemburu, World Tree Sanctuary |
+| **08** | `08_FROSTGLASS_CROWN.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/08_FROSTGLASS_CROWN.md?v=1 | Frostglass Crown: Benteng Salju Frost-Edge, Desa Gletser Bening, Puncak Meditasi |
+| **09** | `09_HOLLOW_GALE_CORRIDOR.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/09_HOLLOW_GALE_CORRIDOR.md?v=1 | Hollow Gale Corridor: Kota Wind-Gale, Pos Tebing Bisik, Lembah Gema |
+| **10** | `10_FATE_SCARLANDS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/10_FATE_SCARLANDS.md?v=1 | Fate Scarlands: Pos Perbatasan Scar-Watch, Kemah Penjelajah, Kota Terbalik |
+| **11** | `11_CROSS_REGION_ORGANIZATIONS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/11_CROSS_REGION_ORGANIZATIONS.md?v=1 | Imperial Court, Merchant Alliance, Beast Union, Courier, Dao Registry, Bounty Tribunal, Sanxiu, Demonic Outlaws |
+| **12** | `12_CULTIVATION_RESONANCE_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/12_CULTIVATION_RESONANCE_SYSTEM.md?v=1 | Inisiasi Mortal, 9 Major Realm, Formula QiCap, Law Origins, Nine Meridian Laws, Tribulasi, Karma |
+| **13** | `13_ECONOMY_MARKET_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/13_ECONOMY_MARKET_SYSTEM.md?v=1 | Mata uang resmi, Tier Base Values, Dynamic Price Formula, Harga Jasa/Aset, Haggling Rules |
+| **14** | `14_VITALITY_BODY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/14_VITALITY_BODY_SYSTEM.md?v=1 | Formula HP Universal, Law HP Multiplier, Wound/Trauma, Satiety Decay, Fasting Multipliers (Bi Gu), Rest |
+| **15** | `15_COMBAT_TACTICAL_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/15_COMBAT_TACTICAL_SYSTEM.md?v=1 | Initiative, Action Economy (1 Main + 1 Minor), Hit Chance, Damage Resolution, Posture/Position States, Cooldowns |
+| **16** | `16_CRAFTING_ALCHEMY_ARRAY_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/16_CRAFTING_ALCHEMY_ARRAY_SYSTEM.md?v=1 | Alchemy, Forging, Formation Array, Talisman Inscription, Quality Grades, Success Rates & Risks |
+| **17** | `17_ROLES_PROFESSIONS_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/17_ROLES_PROFESSIONS_SYSTEM.md?v=1 | 10 Primary Combat Roles, 10 Secondary Professions (5 Tiers), Social Roles & Access Rights |
+| **18** | `18_SPIRIT_GARDENING_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/18_SPIRIT_GARDENING_SYSTEM.md?v=1 | Spirit Soil Grades 1–6, Growth Duration Formula, Spirit Water & Bee Pollination, Hybrid Crossbreeding, Plant Catalog |
+| **19** | `19_BEAST_BOND_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/19_BEAST_BOND_SYSTEM.md?v=1 | 3 Contract Types, Trust Metric (0–100), Taming Success Rate, Bloodline Awakening Evolution, Shared Telepathy |
+| **20** | `20_BESTIARY_ECOLOGY.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/20_BESTIARY_ECOLOGY.md?v=1 | MonsterHP & Attack formulas, Ambush Chance, Loot Drop Rates, Threat Levels, Common & Regional Monster Catalogs |
 | **21–30** | *(10 file sekte/perguruan individual)* | — | Lihat **§1a** di bawah untuk daftar lengkap per-file — **JANGAN** fetch semuanya sekaligus, cari nama sekte yang relevan lalu fetch HANYA file itu |
-| **31** | `31_SPIRIT_AIRSHIP_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/31_SPIRIT_AIRSHIP_SYSTEM.md | Sistem Kapal Udara Lingzhou, rute penerbangan, dan pertempuran udara |
-| **32** | `32_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/32_CUSTOM_EVENTS.md | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
-| **33** | `33_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/33_CUSTOM_LAWS.md | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| **34** | `34_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/34_CUSTOM_SECTS.md | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| **35** | `35_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/35_CUSTOM_TECHNIQUES.md | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
-| **Oracle** | `ECONOMY_ORACLE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/ECONOMY_ORACLE.md | Cheat-sheet Referensi Harga Cepat GM |
-| — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/README.md | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
+| **31** | `31_SPIRIT_AIRSHIP_SYSTEM.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/31_SPIRIT_AIRSHIP_SYSTEM.md?v=1 | Sistem Kapal Udara Lingzhou, rute penerbangan, dan pertempuran udara |
+| **32** | `32_CUSTOM_EVENTS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/32_CUSTOM_EVENTS.md?v=1 | **Event khusus & peristiwa dunia** — diisi Admin, AI wajib cek di awal sesi |
+| **33** | `33_CUSTOM_LAWS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/33_CUSTOM_LAWS.md?v=1 | **Hukum Kultivasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| **34** | `34_CUSTOM_SECTS.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/34_CUSTOM_SECTS.md?v=1 | **Sekte/Dojo/Organisasi kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| **35** | `35_CUSTOM_TECHNIQUES.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/35_CUSTOM_TECHNIQUES.md?v=1 | **Teknik & Jurus Kustom** — buatan pemain/Admin, dicatat di sini agar resmi |
+| **Oracle** | `ECONOMY_ORACLE.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/ECONOMY_ORACLE.md?v=1 | Cheat-sheet Referensi Harga Cepat GM |
+| — | `README.md` | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/README.md?v=1 | Dokumentasi setup untuk manusia (jarang perlu difetch AI) |
 
 ---
 
@@ -68,16 +68,16 @@
 
 | Sekte / Perguruan Utama | Wilayah Dominan | Link RAW (Langsung Klik / Fetch AI) |
 |---|---|---|
-| **Moonlit Abyss Sect** | Astral Tide Sea (`06`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/21_MOONLIT_ABYSS_SECT.md |
-| **River Lantern School** | Vermilion River Basin (`02`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/22_RIVER_LANTERN_SCHOOL.md |
-| **Blackstone Vow Sect** | Blackstone Skyreach (`03`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/23_BLACKSTONE_VOW_SECT.md |
-| **Red Sand Caravan** | Ashen Sun Expanse (`04`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/24_RED_SAND_CARAVAN.md |
-| **Mire Blood Orchid Sect** | Nine-Reed Mire (`05`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/25_MIRE_BLOOD_ORCHID_SECT.md |
-| **Star Compass School** | Astral Tide Sea (`06`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/26_STAR_COMPASS_SCHOOL.md |
-| **Rootbound Covenant Sect** | Whispering Root Forest (`07`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/27_ROOTBOUND_COVENANT_SECT.md |
-| **Frost Edge School** | Frostglass Crown (`08`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/28_FROST_EDGE_SCHOOL.md |
-| **Hollow Wind Sect** | Hollow Gale Corridor (`09`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/29_HOLLOW_WIND_SECT.md |
-| **Golden Thread Medicine Hall** | Ibu Kota Yuanjing (`01`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/30_GOLDEN_THREAD_MEDICINE_HALL.md |
+| **Moonlit Abyss Sect** | Astral Tide Sea (`06`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/21_MOONLIT_ABYSS_SECT.md?v=1 |
+| **River Lantern School** | Vermilion River Basin (`02`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/22_RIVER_LANTERN_SCHOOL.md?v=1 |
+| **Blackstone Vow Sect** | Blackstone Skyreach (`03`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/23_BLACKSTONE_VOW_SECT.md?v=1 |
+| **Red Sand Caravan** | Ashen Sun Expanse (`04`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/24_RED_SAND_CARAVAN.md?v=1 |
+| **Mire Blood Orchid Sect** | Nine-Reed Mire (`05`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/25_MIRE_BLOOD_ORCHID_SECT.md?v=1 |
+| **Star Compass School** | Astral Tide Sea (`06`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/26_STAR_COMPASS_SCHOOL.md?v=1 |
+| **Rootbound Covenant Sect** | Whispering Root Forest (`07`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/27_ROOTBOUND_COVENANT_SECT.md?v=1 |
+| **Frost Edge School** | Frostglass Crown (`08`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/28_FROST_EDGE_SCHOOL.md?v=1 |
+| **Hollow Wind Sect** | Hollow Gale Corridor (`09`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/29_HOLLOW_WIND_SECT.md?v=1 |
+| **Golden Thread Medicine Hall** | Ibu Kota Yuanjing (`01`) | https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/30_GOLDEN_THREAD_MEDICINE_HALL.md?v=1 |
 
 ---
 
