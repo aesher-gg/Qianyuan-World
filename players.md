@@ -2,7 +2,7 @@
 
 > **Modul:** players — dirujuk lewat `INDEX.md` §3, HANYA dipakai saat karakter yang namanya terdaftar di sini dimainkan untuk **pertama kali**.
 > **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** Ini murni katalog & referensi **data awal** karakter — bukan sistem save, bukan checkpoint, bukan status terkini. AI tidak pernah menulis, mengedit, atau menyarankan perubahan pada file ini maupun file individual di folder `players/`. Hanya **admin (aesher-gg)** yang berhak mengubah isinya, langsung di GitHub, di luar sesi roleplay.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `12_CULTIVATION_RESONANCE_SYSTEM.md` (Law Origin & QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (Item Origin & mata uang)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `12_CULTIVATION_RESONANCE_SYSTEM.md` (Law Origin & QiCap), `13_ECONOMY_MARKET_SYSTEM.md` (Item Origin & mata uang), `14_VITALITY_BODY_SYSTEM.md` (HP Formula)
 
 ---
 
@@ -24,8 +24,8 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| - | - | - | - | -|
-| - | - | - | - |
+| **Lin Feng** *(contoh)* | Kota Vermilion Port, Vermilion River Basin | Foundation Establishment, Early | River Lantern School (Murid Luar) | [`Lin_Feng.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Lin_Feng.md) |
+| **Ye Chen** | Benteng Skyreach, Blackstone Skyreach | Body Refining, Early | Blackstone Vow Sect (Murid Magang) | [`Ye_Chen.md`](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Ye_Chen.md) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
@@ -37,18 +37,18 @@
 # 👤 [Nama Karakter]
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `01`–`10` (Regional Modules)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.9, `01`–`10` (Regional Modules), `14_VITALITY_BODY_SYSTEM.md` (HP Formula)
 
 ---
 
 **Nama Karakter:** [Nama Karakter]
 **Lokasi Awal:** [nama lokasi, sesuai modul 01–10]
-**Realm & Stage Awal:** [Realm, Stage] — Qi Cap: [angka] *(kalkulasi: RealmBase × StageMultiplier per `12`)*
+**Realm & Stage Awal:** [Realm, Stage] — Qi Cap: [angka] *(kalkulasi: RealmBase × StageMultiplier per `12`, Mortal = 0 QiCap)*
 **Hukum Kultivasi Awal:** [nama Hukum, atau "Belum ada — akan ditentukan lewat roleplay"]
 **Law Origin (jika sudah ada Hukum):** Jalur [Guru/Manual/Pencerahan] — [detail singkat]
 **Sekte/Afiliasi Awal:** [nama sekte + peran, atau "Sanxiu"]
 
-**Kondisi Awal:** HP X/Y · Qi X/Y · Stamina X/100 · Satiety X% · Kondisi Normal · Karma Netral
+**Kondisi Awal:** HP X/Y *(kalkulasi: HPBase = 100 + QiCap × 1,0 per `14`)* · Qi X/Y · Stamina X/100 · Satiety X% · Kondisi Normal · Karma Netral
 
 **Currency Awal:**
 - Copper Taels × [jumlah]
@@ -70,5 +70,4 @@
 
 **Latar Belakang & Kepribadian:**
 [1–2 paragraf: siapa dia, sifatnya, motivasinya, relasi penting dengan NPC kanon jika ada]
-
 ```
