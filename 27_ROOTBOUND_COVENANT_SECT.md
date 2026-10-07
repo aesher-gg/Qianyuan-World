@@ -115,7 +115,7 @@ Rootbound Covenant Sect mempraktikkan **Hukum Perjanjian & Kehidupan Kayu (*Wood
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
 Calon murid harus mendatangi *Altar Perjanjian Purba* di Ancient Tree Sanctuary dan menyelesaikan dua tahapan uji kelayakan:
-1. **Ujian Resonansi Kehidupan**: Mengalirkan *Wood Qi* untuk menyembuhkan bibit tanaman spiritual yang hampir layu hingga tumbuh mekar kembali dalam waktu 1 Shichen.
+1. **Ujian Resonansi Kehidupan**: Mengalirkan *Wood Qi* untuk menyembuhkan bibit tanaman spiritual yang hampir layu hingga tumbuh mekar kembali dalam waktu 2 Jam.
 2. **Ujian Kemurnian Batin**: Mendekati seekor *Emerald Panther* liar tanpa memicu amarah atau mengeluarkan niat membunuh (*Killing Intent*).
 
 Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Affinity Check*).

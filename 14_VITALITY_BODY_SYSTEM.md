@@ -15,7 +15,7 @@ Sama seperti energi Qi yang tunduk pada `QiCap` dan harga yang tunduk pada `Fina
 1. **Larangan Deklarasi HP Sepihak**: Maksimal HP karakter dihitung otomatis oleh AI GM menggunakan formula `HPMax(realm, stage, law)`. Klaim nilai HP di atas formula otomatis **DITOLAK**.
 2. **Log Kerusakan Bertimestamp**: Setiap luka (*Wound*), trauma batin (*Trauma*), dan pengurangan HP akibat pertarungan atau racun wajib dicatat di log percakapan bertimestamp dan tidak bisa diedit mundur.
 3. **Pengobatan Medis Terintegrasi**: Penyembuhan luka berat (*Major/Severe Wound*) dan trauma Dantian hanya bisa dipulihkan lewat ramuan alkimia (*Pills*) atau jasa Tabib resmi yang tunduk pada Sistem Ekonomi (`13_ECONOMY_MARKET_SYSTEM.md`).
-4. **Kelaparan Berdasarkan Waktu (*Satiety Decay*)**: Penurunan tingkat kenyang (*Satiety*) dihitung per Shichen berdasarkan *Fasting Multiplier* Realm karakter, bukan klaim sepihak pemain.
+4. **Kelaparan Berdasarkan Waktu (*Satiety Decay*)**: Penurunan tingkat kenyang (*Satiety*) dihitung per Jam berdasarkan *Fasting Multiplier* Realm karakter, bukan klaim sepihak pemain.
 5. **Pembaruan Otomatis Terobosan**: Terobosan Realm (*Breakthrough*) secara otomatis memperbarui nilai Max HP, Max Stamina, dan Fasting Multiplier karakter, serta memicu pemulihan HP dan Qi penuh.
 
 ---
@@ -86,7 +86,7 @@ HPMax(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 | **100% s/d 50%** | **Sehat (Healthy)** | Kondisi prima, tidak ada penalti. |
 | **49% s/d 20%** | **Terluka (Wounded)** | Penalti Output Qi -10%, penalti Evasion -10%. |
 | **19% s/d 1%** | **Kritis (Critical)** | Penalti Output Qi -30%, penalti Evasion -25%, risiko *Qi Deviation* ringan. |
-| **0%** | **Pingsan / Dying State** | Tak sadarkan diri. Wajib mendapat pertolongan medis dalam 2 Shichen. |
+| **0%** | **Pingsan / Dying State** | Tak sadarkan diri. Wajib mendapat pertolongan medis dalam 4 Jam. |
 | **-1% s/d -30%** | **Nyaris Mati (Near Death)**| Memerlukan Tabib Realm ≥ Realm karakter; jika gagal → *Permanent Dantian Trauma*. |
 | **Di bawah -50%** | **Kematian Permanen** | Overkill ekstrem tervalidasi GM (karakter tewas permanen). |
 
@@ -104,7 +104,7 @@ HPMax(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 * **Soul Trauma**: Kerusakan jiwa batin akibat serangan mental/ilusi. Penalti Max Qi -30%.
 
 ### 4.3 Racun & Pendarahan (Poison & Bleeding)
-* **Poison Status (Sengatan Racun)**: Mengurangi HP sebesar 5 s/d 30 poin per Shichen tergantung grade racun (*Minor / Moderate / Lethal*) hingga diminumi *Antidote Pill*.
+* **Poison Status (Sengatan Racun)**: Mengurangi HP sebesar 2,5 s/d 15 poin per Jam tergantung grade racun (*Minor / Moderate / Lethal*) hingga diminumi *Antidote Pill*.
 * **Bleeding (Pendarahan)**: Mengurangi HP dan Stamina sebesar 5 poin per turn pertempuran hingga dibalut dengan perban/salep.
 
 ---
@@ -114,37 +114,37 @@ HPMax(realm, stage, law) = HPBase(realm, stage) × LawHPMultiplier(law)
 Trope xianxia klasik: seiring meningkatnya Realm kultivasi, kultivator mampu menyerap energi Qi lingkungan untuk menggantikan makanan fisik (*Bi Gu / 辟谷*).
 
 ```
-DecayRatePerShichen(realm) = BaseDecayRate / FastingMultiplier(realm)
-BaseDecayRate = 25 Satiety Points per Shichen (Mortal biasa kehilangan kenyang penuh dalam 4 Shichen / 8 Jam)
+DecayRatePerHour(realm) = BaseDecayRate / FastingMultiplier(realm)
+BaseDecayRate = 12,5 Satiety Points per Jam (Mortal biasa kehilangan kenyang penuh dalam 8 Jam)
 ```
 
 ### 📊 Fasting Multiplier per Realm Qianyuan
 
 | Realm Kultivasi | FastingMultiplier | Waktu Sampai Lapar (Satiety < 30) |
 |---|---|---|
-| **0 — Non-Kultivator (Mortal)** | ×1,0 | 4 Shichen (8 Jam) |
-| **1 — Body Refining Realm (Qi-Guan)** | ×1,5 | 6 Shichen (12 Jam) |
-| **2 — Qi Gathering Realm (Qi-Ji)** | ×3,0 | 12 Shichen (24 Jam / 1 Hari) |
-| **3 — Foundation Establishment (Zhu-Ji)** | ×10,0 | 40 Shichen (3,3 Hari) |
-| **4 — Core Formation Realm (Jie-Dan)** | ×30,0 | 120 Shichen (10 Hari) |
-| **5 — Nascent Soul Realm (Yuan-Ying)** | ×100,0 | 400 Shichen (33 Hari / 1 Bulan) |
-| **6 — Soul Formation Realm (Hua-Shen)** | ×500,0 | 2.000 Shichen (~5 Bulan) |
-| **7 — Void Refinement Realm (Lian-Xu)** | ×2.000,0 | 8.000 Shichen (~1,8 Tahun) |
-| **8 — Dao Integration Realm (He-Dao)** | ×10.000,0 | 40.000 Shichen (~9 Tahun) |
+| **0 — Non-Kultivator (Mortal)** | ×1,0 | 8 Jam |
+| **1 — Body Refining Realm (Qi-Guan)** | ×1,5 | 12 Jam |
+| **2 — Qi Gathering Realm (Qi-Ji)** | ×3,0 | 24 Jam (1 Hari) |
+| **3 — Foundation Establishment (Zhu-Ji)** | ×10,0 | 80 Jam (~3,3 Hari) |
+| **4 — Core Formation Realm (Jie-Dan)** | ×30,0 | 240 Jam (10 Hari) |
+| **5 — Nascent Soul Realm (Yuan-Ying)** | ×100,0 | 800 Jam (~33 Hari / 1 Bulan) |
+| **6 — Soul Formation Realm (Hua-Shen)** | ×500,0 | 4.000 Jam (~5 Bulan) |
+| **7 — Void Refinement Realm (Lian-Xu)** | ×2.000,0 | 16.000 Jam (~1,8 Tahun) |
+| **8 — Dao Integration Realm (He-Dao)** | ×10.000,0 | 80.000 Jam (~9 Tahun) |
 | **9 — Tribulation Transcendence (Du-Jie)**| **Tak Terbatas** | **Bi Gu Sempurna** (Tidak butuh makan selamanya). |
 
 ### 🥣 Status Efek Satiety
 * **Satiety 70 s/d 100 (Kenyang)**: Bonus regenerasi Stamina & Qi +10%.
 * **Satiety 30 s/d 69 (Normal)**: Kondisi fisik biasa.
 * **Satiety 10 s/d 29 (Lapar)**: Penalti Max Stamina -25%, penalti Kecepatan Pemulihan Qi -20%.
-* **Satiety 0 (Kelaparan Kritis)**: Pengurangan HP sebesar 5 poin per Shichen, **TIDAK BISA** melakukan terobosan Realm atau regenerasi Qi alami.
+* **Satiety 0 (Kelaparan Kritis)**: Pengurangan HP sebesar 2,5 poin per Jam, **TIDAK BISA** melakukan terobosan Realm atau regenerasi Qi alami.
 
 ---
 
 ## 🛌 6. Mekanik Istirahat & Pemulihan (Rest & Recovery)
 
-* **Short Rest (1 Shichen / 2 Jam)**: Memulihkan Stamina sebesar 30%, memulihkan Qi sebesar 25%. Memerlukan konsumsi 1 porsi makanan/air.
-* **Long Rest (4 Shichen / 8 Jam)**: Memulihkan HP sebesar 50%, memulihkan Qi & Stamina penuh.
+* **Short Rest (2 Jam)**: Memulihkan Stamina sebesar 30%, memulihkan Qi sebesar 25%. Memerlukan konsumsi 1 porsi makanan/air.
+* **Long Rest (8 Jam)**: Memulihkan HP sebesar 50%, memulihkan Qi & Stamina penuh.
 * **Pengobatan Tabib / Pill Alkimia**: Diperlukan untuk memulihkan *Major/Severe Wound*, menyembuhkan *Dantian Shock*, atau menghilangkan racun mematikan.
 
 ---

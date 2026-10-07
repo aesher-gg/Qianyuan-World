@@ -103,10 +103,10 @@ Mire Blood Orchid Sect mempraktikkan **Hukum Racun Miasma & Anggrek Darah (*Pois
 
 ## 🎭 10. Rahasia & Plot Hook Internal
 
-Di dalam Laboratorium Alkimia Rawa terdapat kuali rahasia yang sedang meracik **Racun Penumpas Dantian (*Nascent Soul Inhibitor*)** — sebuah ramuan alkimia legendaris yang mampu melumpuhkan aliran Qi kultivator Realm Nascent Soul secara permanen jika tidak diminumi penawar dalam 3 Shichen.
+Di dalam Laboratorium Alkimia Rawa terdapat kuali rahasia yang sedang meracik **Racun Penumpas Dantian (*Nascent Soul Inhibitor*)** — sebuah ramuan alkimia legendaris yang mampu melumpuhkan aliran Qi kultivator Realm Nascent Soul secara permanen jika tidak diminumi penawar dalam 6 Jam.
 
 ---
 
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
-Calon murid wajib mendaftar di perbatasan *Blood Orchid Valley* dan meminum **Cairan Racun Uji Coba**: meminum dosis racun ringan dan meracik penawarnya secara mandiri menggunakan herbal rawa dalam waktu 1 Shichen. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).
+Calon murid wajib mendaftar di perbatasan *Blood Orchid Valley* dan meminum **Cairan Racun Uji Coba**: meminum dosis racun ringan dan meracik penawarnya secara mandiri menggunakan herbal rawa dalam waktu 2 Jam. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).

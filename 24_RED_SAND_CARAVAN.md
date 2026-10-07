@@ -109,4 +109,4 @@ Saudagar Agung Master Chitu menyimpan peta astronomi rahasia yang mencatat keber
 
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
-Calon anggota wajib mendaftar di *Sunfire Oasis Hub* dan lulus **Ujian Navigasi Laut Pasir**: menyeberangi bukit pasir bergeser sejauh 100 li tanpa membawa kompas standar dalam waktu 2 Shichen. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan fisik (*Stamina Check*).
+Calon anggota wajib mendaftar di *Sunfire Oasis Hub* dan lulus **Ujian Navigasi Laut Pasir**: menyeberangi bukit pasir bergeser sejauh 100 li tanpa membawa kompas standar dalam waktu 4 Jam. Kualifikasi pendaftaran memerlukan Realm minimal *Body Refining Early Stage* dan pengujian ketahanan fisik (*Stamina Check*).

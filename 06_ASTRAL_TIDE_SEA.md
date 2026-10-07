@@ -24,7 +24,7 @@ Eksplorasi di lautan lepas dan palung bawah laut Astral Tide Sea menyimpan ancam
 
 1. **🌊 Tekanan Meremukkan Palung Gelap (*Abyssal Crushing Pressure*)**
    - **Lokasi Dampak:** Zona Palung Gelap (*Astral Abyss*) pada kedalaman lebih dari 800 meter.
-   - **Efek Mekanis:** Tekanan air raksasa tanpa sinar matahari yang langsung meremukkan raga tanpa perisai Qi aktif. Memicu status *Crushing Pressure & Suffocation* (kerusakan HP fisik **20–50 poin per Shichen** dan penalti Movement Speed -40%).
+   - **Efek Mekanis:** Tekanan air raksasa tanpa sinar matahari yang langsung meremukkan raga tanpa perisai Qi aktif. Memicu status *Crushing Pressure & Suffocation* (kerusakan HP fisik **10–25 poin per Jam** dan penalti Movement Speed -40%).
 2. **🌪️ Badai Pasang Astral (*Astral Tide Storms*)**
    - **Lokasi Dampak:** Perairan lepas laut timur saat konyjungsi rasi bintang malam.
    - **Efek Mekanis:** Gelombang pasang raksasa bercahaya yang mengocok kestabilan perahu/kapal. Memicu pemeriksaan kestabilan Posture (*Balance Check*) dengan penalti mendadak *Severely Off-Balance*, serta risiko kapal karam jika formasi pelindung runtuh.

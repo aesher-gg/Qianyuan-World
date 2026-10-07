@@ -24,7 +24,7 @@ Puncak pegunungan salju Frostglass Crown menyimpan ancaman alamiah ekstrem yang 
 
 1. **🧊 Sengatan Hipotermia Es Abadi (*Eternal Frostbite Hazard*)**
    - **Lokasi Dampak:** Seluruh wilayah gletser di atas ketinggian 2.000 meter dari permukaan laut.
-   - **Efek Mekanis:** Tanpa pakaian ber-Qi hangat atau teknik pertahanan es, kultivator menderita status *Frostbite* (kehilangan Stamina **-10 per Shichen** dan penalti Posture *Unstable* akibat tubuh membeku).
+   - **Efek Mekanis:** Tanpa pakaian ber-Qi hangat atau teknik pertahanan es, kultivator menderita status *Frostbite* (kehilangan Stamina **-5 per Jam** dan penalti Posture *Unstable* akibat tubuh membeku).
 2. **🌨️ Badai Salju Penumbuk Posture (*Glacier Blizzard Storms*)**
    - **Lokasi Dampak:** Puncak Meditasi dan celah gletser terbuka.
    - **Efek Mekanis:** Angin kencang bersuhu di bawah nol menyapu padang salju. Memicu status *Blizzard Disorientation* (jarak pandang berkurang hingga 3 meter, penalti Accuracy/Hit Rate -25%, dan risiko terdorong jatuh ke dalam celah gletser).
@@ -145,6 +145,6 @@ Kafilah karavan khusus yang mengangkut komoditas mineral Cold Steel, Bunga Terat
 ---
 
 ## GM Notes & Instructions
-* Berada di Frostglass Crown tanpa pakaian ber-Qi hangat atau teknik pertahanan es memberikan penalti Stamina -10 per Shichen dan risiko status *Frostbite*.
+* Berada di Frostglass Crown tanpa pakaian ber-Qi hangat atau teknik pertahanan es memberikan penalti Stamina -5 per Jam dan risiko status *Frostbite*.
 * Praktisi ilmu pedang (*Sword Cultivation*) dan teknik elemen es menerima bonus efisiensi latihan & breakthrough sebesar +20% saat bertapa di Puncak Meditasi Keheningan.
 * Pertarungan di atas permukaan gletser bening licin memicu pemeriksaan kestabilan Posture (*Balance Check*) setiap kali melancarkan serangan fisik bertipe dash/charge.

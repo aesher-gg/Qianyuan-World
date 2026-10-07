@@ -63,13 +63,13 @@ MonsterAttackPower = QiCap(realm, stage) × 0,15 × LawAttackMultiplier(element)
 
 ## 🎯 3. Sistem Kemunculan & Ambush Chance
 
-Peluang disergap monster liar di wilayah terbuka dihitung per Shichen (2 Jam) perjalanan:
+Peluang disergap monster liar di wilayah terbuka dihitung per Jam perjalanan:
 
 ```
 AmbushChance = BaseChance × RegionalDangerMod × TimeMod
 ```
 
-- `BaseChance` = 5% per Shichen perjalanan.
+- `BaseChance` = 2,5% per Jam perjalanan.
 
 | Modifier | Nilai Multiplier | Catatan Aplikasi |
 |---|---|---|
@@ -125,7 +125,7 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 
 ---
 
-### 🏯 6.1 Ibu Kota Yuanjing & Perbatasan (`01`) — 20 Spesies
+### 🏯 6.1 Ibu Kota Yuanjing & Perbatasan (`01`) — 24 Spesies
 *(Rujukan: `01_WORLD_OVERVIEW_AND_CAPITAL.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -150,10 +150,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | White-Tail Deer | 🐺 Spirit Beast | 1, Mid (Body Refining) | 32 | 6 | Rusa bertanduk putih di hutan bambu kekaisaran. Pemalu dan sangat cepat berlari. | Umum: Daging Rusa Putih (Tier 1) — Jarang: Tanduk Rusa Emas (Tier 1) |
 | Stream Fish Spirit | 🐺 Spirit Beast | 1, Early (Body Refining) | 25 | 7 | Ikan mas kecil ber-Qi air murni di parit Cincin 1–3. Melompat dan memancarkan cahaya giok. | Umum: Daging Ikan Murni (Tier 1) — Jarang: Sisik Mas Giok (Tier 1) |
 | Imperial Guard Falcon | 🐺 Spirit Beast | 3, Early (Foundation Est.) | 312 | 112 | Elang terlatih milik Pasukan Pengawal Kekaisaran yang terlepas di perbatasan luar. | Umum: Bulu Elang Militer (Tier 2) — Jarang: Cakar Elang Kekaisaran (Tier 3) |
+| Imperial Gold Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.406 | 421 | Anak naga emas bersisik logam kekaisaran di pegunungan perbatasan utara Cincin 4. | Umum: Sisik Naga Emas Muda (Tier 3) — Jarang: Darah Naga Emas Purba (Tier 3) |
+| Jade Scale Serpent | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 187 | 56 | Ular bersisik hijau terang penunggu taman giok istana lama. | Umum: Kulit Ular Giok (Tier 1) — Jarang: Bisa Ular Giok (Tier 2) |
+| Golden Lion Guard Golem | 🗿 Ancient Guardian | 4, Peak (Core Formation) | 11.718 | 2.812 | Golem singa emas raksasa penjaga gerbang gerhana kuno. | Umum: Logam Emas Purba (Tier 4) — Jarang: Inti Golem Singa Emas (Tier 4) |
+| Golden Dragon Sovereign Purba | 🗿 Mitos / Sovereign | 8, Mid (Dao Integration) | 4.394.531 | 1.318.359 | Naga Emas Mitos purba penyeimbang takdir Kekaisaran Qianyuan di dasar Gunung Yuanjing. | Legendaris: Mutiara Naga Emas Mitos (Tier 8, bahan artefak Sheng-Grade Utama) |
 
 ---
 
-### 🌊 6.2 Vermilion River Basin (`02`) — 20 Spesies
+### 🌊 6.2 Vermilion River Basin (`02`) — 24 Spesies
 *(Rujukan: `02_VERMILION_RIVER_BASIN.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -178,10 +182,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Marsh Water Spider | 🐛 Insect / Swarm | 2, Mid (Qi Gathering) | 150 | 67 | Laba-laba air pembentang jaring bening di permukaan sungai. | Umum: Benang Jaring Air (Tier 1) — Jarang: Kelenjar Jaring Sungai (Tier 2) |
 | Mud Snail Spirit | 🐺 Spirit Beast | 1, Mid (Body Refining) | 37 | 6 | Siput raksasa bercangkang tebal di rawa teratai. Bergerak lambat. | Umum: Cangkang Siput Lumpur (Tier 1) — Jarang: Daging Siput Ber-Qi (Tier 1) |
 | Ancient Vermilion Carp Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 15.625 | 4.687 | Karper purba raksasa berumur 500 tahun di dasar Lembah Embun Merah. | Legendaris: Sisik Karper Purba Vermilion (Tier 5, bahan obat Sheng-Grade) |
+| Vermilion River Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.125 | 337 | Anak naga sungai ber-Qi air murni yang meliuk di arus deras Vermilion. | Umum: Sisik Naga Sungai (Tier 3) — Jarang: Inti Air Naga Muda (Tier 3) |
+| Vermilion Water Heron | 🐺 Spirit Beast | 1, Late (Body Refining) | 50 | 15 | Bangau bersayap kemerahan pemangsa ikan spiritual di muara sungai. | Umum: Bulu Bangau Merah (Tier 1) — Jarang: Paruh Bangau Sungai (Tier 1) |
+| Jade Shell River Turtle | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 243 | 42 | Kura-kura air tawar cangkang hijau tebal di dasar batu kali. | Umum: Cangkang Kura Giok (Tier 2) — Jarang: Darah Kura Air Tawar (Tier 2) |
+| Vermilion River Turtle Purba | 🗿 Mitos / Sovereign | 7, Peak (Void Refinement) | 1.464.843 | 292.968 | Kura-kura raksasa purba seukuran pulau penyangga muara Sungai Vermilion. | Legendaris: Cangkang Kura Purba Mitos (Tier 7, bahan formasi pertahanan utama) |
 
 ---
 
-### ⛰️ 6.3 Blackstone Skyreach (`03`) — 20 Spesies
+### ⛰️ 6.3 Blackstone Skyreach (`03`) — 24 Spesies
 *(Rujukan: `03_BLACKSTONE_SKYREACH.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -206,10 +214,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Iron-Spined Porcupine | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 250 | 48 | Landak berduri duri besi tajam di lereng Pos Jembatan Rantai. | Umum: Duri Besi Landak (Tier 2) — Jarang: Kulit Duri Logam (Tier 2) |
 | Magnet Golem Small | 🗿 Elemental | 3, Early (Foundation Est.) | 468 | 75 | Golem magnetik kecil buatan formasi pelindung tungku tempa purba. | Umum: Batu Magnetik Tempa (Tier 2) — Jarang: Inti Magnetik Kecil (Tier 3) |
 | Deep Iron Centipede Purba | 🐛 Insect / Boss | 5, Early (Nascent Soul) | 23.437 | 3.750 | Lipan purba sepanjang 20 meter di Zona Inti Gua Tambang Kuno. | Legendaris: Cangkang Lipan Besi Purba (Tier 5, bahan zirah Sheng-Grade) |
+| Blackstone Earth Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.687 | 281 | Anak naga bumi bersisik batu hitam tebal penghuni jurang tambang dalam. | Umum: Sisik Naga Batu Hitam (Tier 3) — Jarang: Tanduk Naga Bumi Muda (Tier 3) |
+| Mountain Ridge Cliff Hawk | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 187 | 75 | Elang raksasa penyergap penambang di celah batu tinggi. | Umum: Bulu Elang Tebing (Tier 2) — Jarang: Cakar Tebing Hitam (Tier 2) |
+| Deep Cavern Ore Spider | 🐛 Insect / Swarm | 2, Early (Qi Gathering) | 187 | 37 | Laba-laba pemakan bijih besi ber-Qi di lorong bawah tanah. | Umum: Benang Kawat Besi (Tier 1) — Jarang: Kelenjar Bijih Besi (Tier 2) |
+| Skyreach Mountain Behemoth | 🗿 Mitos / Sovereign | 8, Early (Dao Integration) | 3.906.250 | 878.906 | Behemoth titan batu raksasa penghuni inti Gunung Blackstone Skyreach. | Legendaris: Inti Bumi Purba Behemoth (Tier 8, bahan artefak tanah Sheng-Grade) |
 
 ---
 
-### 🏜️ 6.4 Ashen Sun Expanse (`04`) — 20 Spesies
+### 🏜️ 6.4 Ashen Sun Expanse (`04`) — 24 Spesies
 *(Rujukan: `04_ASHEN_SUN_EXPANSE.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -234,10 +246,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Ash Rat Swarm | 🐛 Insect / Swarm | 1, Early (Body Refining) | 22 | 9 | Tikus abu gurun penggerogoti bahan bekal karavan. | Umum: Kulit Tikus Abu (Tier 1) — Jarang: Gigi Tikus Gurun (Tier 1) |
 | Sunstone Golem Small | 🗿 Elemental | 3, Early (Foundation Est.) | 253 | 146 | Golem batu surya buatan Gua Reruntuhan Altar Api Purba. | Umum: Batu Surya Tempa (Tier 2) — Jarang: Inti Kristal Surya (Tier 3) |
 | Flame Scorpion King Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 14.062 | 6.093 | Raja kalajengking api purba penghuni Reruntuhan Buried Sun Palace. | Legendaris: Sengat Raja Kalajengking Purba (Tier 5, bahan senjata Di-Grade) |
+| Sunfire Desert Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.012 | 450 | Anak naga padang pasir penyembur nafas api surya di gundukan pasir merah. | Umum: Sisik Naga Api Gurun (Tier 3) — Jarang: Kantong Api Naga Surya (Tier 3) |
+| Sandstorm Vulture | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 125 | 56 | Burung pemakan bangkai ber-Qi panas penghuni bukit pasir. | Umum: Bulu Burung Pasir (Tier 1) — Jarang: Paruh Burung Gurun (Tier 2) |
+| Desert Flame Viper | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 125 | 75 | Ular pasir berbisa menyengat yang bersembunyi di dalam pasir panas. | Umum: Kulit Ular Api (Tier 2) — Jarang: Bisa Api Gurun (Tier 2) |
+| Ashen Phoenix Purba | 🗿 Mitos / Sovereign | 8, Late (Dao Integration) | 4.218.750 | 2.109.375 | Burung Phoenix api legendaris pemancar gelombang panas abadi Gurun Ashen Sun. | Legendaris: Bulu Phoenix Api Mitos (Tier 8, bahan piro-alkimia Sheng-Grade) |
 
 ---
 
-### 🌿 6.5 Nine-Reed Mire (`05`) — 20 Spesies
+### 🌿 6.5 Nine-Reed Mire (`05`) — 24 Spesies
 *(Rujukan: `05_NINE_REED_MIRE.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -262,10 +278,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Toxic Marsh Crab | 🐺 Spirit Beast | 1, Late (Body Refining) | 40 | 10 | Kepiting rawa bersupit racun korosif perusak logam. | Umum: Supit Kepiting Rawa (Tier 1) — Jarang: Cangkang Racun Crab (Tier 1) |
 | Miasma Firefly Swarm | 🐛 Insect / Swarm | 2, Early (Qi Gathering) | 100 | 42 | Kawanan kunang-kunang rawa pemancar cahaya racun ilusi. | Umum: Serbuk Cahaya Rawa (Tier 1) — Jarang: Kelenjar Ilusi Miasma (Tier 2) |
 | Purba Miasma Serpent Boss | 🗿 Ancient Guardian | 6, Early (Soul Formation) | 105.468 | 32.812 | Ular purba raksasa penghuni inti Labirin Alang-Alang Sembilan. | Legendaris: Sisik Ular Purba Miasma (Tier 6, bahan zirah Sheng-Grade) |
+| Poison Miasma Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 900 | 421 | Anak naga miasma bersisik hijau kehitaman penghuni rawa terlarang. | Umum: Sisik Naga Miasma (Tier 3) — Jarang: Inti Racun Naga Rawa (Tier 3) |
+| Violet Swamp Toad | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 150 | 45 | Kodok racun warna ungu pelempar asam korosif di rawa dalam. | Umum: Lendir Kodok Ungu (Tier 1) — Jarang: Kelenjar Acid Purple (Tier 2) |
+| Mud Miasma Swarm | 🐛 Insect / Swarm | 1, Late (Body Refining) | 35 | 12 | Kawanan serangga rawa pemakan Qi di balik rumpun alang-alang. | Umum: Sayap Serangga Rawa (Tier 1) — Jarang: Serbuk Miasma Green (Tier 1) |
+| Nine-Headed Hydra Mitos | 🗿 Mitos / Sovereign | 7, Late (Void Refinement) | 625.000 | 351.562 | Hydra sembilan kepala purba penghuni titik terlarang Labirin Alang-Alang Sembilan. | Legendaris: Inti Racun Sembilan Kepala Mitos (Tier 7, bahan obat Sheng-Grade) |
 
 ---
 
-### 🌊 6.6 Astral Tide Sea (`06`) — 20 Spesies
+### 🌊 6.6 Astral Tide Sea (`06`) — 24 Spesies
 *(Rujukan: `06_ASTRAL_TIDE_SEA.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -290,10 +310,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Coral Mantis Shrimp | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 250 | 75 | Udang mantis bersupit pemicu ledakan tekanan air jarak dekat. | Umum: Cangkang Udang Mantis (Tier 2) — Jarang: Supit Pemecah Karang (Tier 2) |
 | Manta Ray Purba | 🐺 Spirit Beast | 4, Early (Core Formation) | 3.125 | 937 | Pari purba bentang sayap 15 meter di kedalaman 600 meter. | Umum: Kulit Pari Purba (Tier 3) — Jarang: Inti Manta Bintang Tier 4 (Tier 4) |
 | Kraken Palung Gelap Boss | 🗿 Ancient Guardian | 6, Early (Soul Formation) | 78.125 | 23.437 | Monster cumi-cumi purba tentakel raksasa pemotong kapal perang. | Legendaris: Inti Samudra Purba Kraken (Tier 6, bahan artefak Sheng-Grade) |
+| Astral Sea Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.125 | 337 | Anak naga laut bersisik cahaya bintang di perairan terumbu karang. | Umum: Sisik Naga Laut Bintang (Tier 3) — Jarang: Mutiara Naga Astral Muda (Tier 3) |
+| Coral Reef Guardian Crab | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 150 | 45 | Kepiting raksasa berzirah karang keras penunggu dasar laut. | Umum: Cangkang Karang Keras (Tier 2) — Jarang: Supit Karang Bintang (Tier 2) |
+| Astral Jellyfish Swarm | 🐛 Creature / Swarm | 2, Mid (Qi Gathering) | 112 | 33 | Kawanan ubur-ubur bintang pemancar aliran listrik penenang. | Umum: Lendir Bintang Laut (Tier 1) — Jarang: Kelenjar Listrik Astral (Tier 2) |
+| Leviathan Astral Purba | 🗿 Mitos / Sovereign | 8, Mid (Dao Integration) | 3.515.625 | 1.318.359 | Leviathan bintang purba raksasa penyeimbang arus samudra astral Qianyuan. | Legendaris: Inti Bintang Mitos Leviathan (Tier 8, bahan kapal perang Sheng-Grade) |
 
 ---
 
-### 🌲 6.7 Whispering Root Forest (`07`) — 20 Spesies
+### 🌲 6.7 Whispering Root Forest (`07`) — 24 Spesies
 *(Rujukan: `07_WHISPERING_ROOT_FOREST.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -318,10 +342,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Emerald Snake Small | 🐺 Spirit Beast | 1, Late (Body Refining) | 48 | 12 | Anak ular giok bersisik bening di rawa kecil hutan. | Umum: Kulit Ular Giok Kecil (Tier 1) — Jarang: Bisa Giok Muda (Tier 1) |
 | Ancient Tree Guardian Boss | 🗿 Ancient Guardian | 5, Early (Nascent Soul) | 20.312 | 3.750 | Pelindung purba berbentuk pohon raksasa 30 meter di Sanctuary. | Legendaris: Teras Kayu Purba World Tree (Tier 5, bahan tongkat Sheng-Grade) |
 | Great Emerald Panther King Boss | 🐺 Spirit Beast / Boss | 4, Mid (Core Formation) | 6.093 | 1.335 | Raja macan giok purba pemimpin kawanan panther Zona Inti. | Legendaris: Inti Macan Giok Purba Tier 4 (Tier 4, bahan artefak Di-Grade) |
+| Verdant Wood Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.462 | 337 | Anak naga kayu bersisik serat daun giok penghuni rimba suci Whispering Root. | Umum: Sisik Naga Kayu Purba (Tier 3) — Jarang: Darah Naga Life Qi (Tier 3) |
+| Ancient Tree Bark Beetle | 🐛 Insect / Swarm | 2, Mid (Qi Gathering) | 146 | 33 | Kumbang raksasa pelubang kayu pohon purba penyerap getah spiritual. | Umum: Cangkang Kumbang Kayu (Tier 1) — Jarang: Serbuk Getah Purba (Tier 2) |
+| Whispering Moss Panther | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 195 | 45 | Macan tutul berselimut lumut hijau berjalan tanpa suara di kanopi hutan. | Umum: Kulit Macan Lumut (Tier 2) — Jarang: Cakar Bisikan Kayu (Tier 2) |
+| World Tree Dragon Sovereign Purba | 🗿 Mitos / Sovereign | 8, Peak (Dao Integration) | 7.628.906 | 1.757.812 | Naga Kayu Mitos purba raksasa penjaga urat kehidupan Pohon Dunia Qianyuan. | Legendaris: Teras Naga Kayu Mitos (Tier 8, bahan artefak kehidupan Sheng-Grade) |
 
 ---
 
-### ❄️ 6.8 Frostglass Crown (`08`) — 20 Spesies
+### ❄️ 6.8 Frostglass Crown (`08`) — 24 Spesies
 *(Rujukan: `08_FROSTGLASS_CROWN.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -346,10 +374,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Ice Crystal Stag | 🐺 Spirit Beast | 2, Peak (Qi Gathering) | 312 | 62 | Rusa bertanduk kristal es murni pemikat cahaya malam. | Umum: Daging Rusa Es (Tier 2) — Jarang: Tanduk Kristal Es (Tier 2) |
 | Glacial Wurm Small | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 468 | 140 | Cacing es gletser pelubang tebing es bening bawah tanah. | Umum: Lendir Beku Wurm (Tier 2) — Jarang: Kulit Cacing Es (Tier 3) |
 | Dragon-Ice Purba Boss | 🗿 Ancient Guardian | 6, Early (Soul Formation) | 78.125 | 23.437 | Naga es purba terlelap di kedalaman Gua Meditasi Inti Es Purba. | Legendaris: Sisik Naga Es Purba (Tier 6, bahan zirah Sheng-Grade) |
+| Frost-Marrow Ice Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.125 | 337 | Anak naga es bersisik kristal beku di lereng Pegunungan Frostglass. | Umum: Sisik Naga Es Beku (Tier 3) — Jarang: Inti Sumsum Es Naga (Tier 3) |
+| Frostglass Snow Leopard | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 150 | 45 | Macan tutul salju berbulu perak penyergap di tengah badai es. | Umum: Bulu Macan Salju (Tier 2) — Jarang: Cakar Kristal Es (Tier 2) |
+| Ice-Spire Falcon | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 112 | 33 | Elang bersayap kristal es pemotong angin dingin puncak pegunungan. | Umum: Bulu Elang Es (Tier 1) — Jarang: Paruh Kristal Beku (Tier 2) |
+| Absolute Zero Glacial Dragon Mitos | 🗿 Mitos / Sovereign | 8, Mid (Dao Integration) | 3.515.625 | 1.318.359 | Naga Es Abadi Mitos penyimpan rahasia pembekuan total di dasar Puncak Frostglass. | Legendaris: Inti Es Abadi Mitos Dragon (Tier 8, bahan artefak es Sheng-Grade) |
 
 ---
 
-### 🌪️ 6.9 Hollow Gale Corridor (`09`) — 20 Spesies
+### 🌪️ 6.9 Hollow Gale Corridor (`09`) — 24 Spesies
 *(Rujukan: `09_HOLLOW_GALE_CORRIDOR.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -374,10 +406,14 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Gale Dragonfly | 🐛 Insect / Swarm | 1, Mid (Body Refining) | 25 | 10 | Capung raksasa berkecepatan angin kencang di tebing lembah. | Umum: Sayap Capung Topan (Tier 1) — Jarang: Mata Capung Angin (Tier 1) |
 | Canyon Stalker Cat | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 187 | 67 | Kucing liar ngarai berbulu warna batu penyamar dinding tebing. | Umum: Bulu Kucing Ngarai (Tier 1) — Jarang: Cakar Stalker Tebing (Tier 2) |
 | Great Gale Falcon King Boss | 🐺 Spirit Beast / Boss | 4, Early (Core Formation) | 3.125 | 1.350 | Raja elang topan raksasa pemimpin kawanan elang Lembah Gema. | Legendaris: Inti Elang Topan Purba Tier 4 (Tier 4, bahan artefak Di-Grade) |
+| Gale Wind Dragon Fledgling | 🐺 Spirit Beast | 3, Mid (Foundation Est.) | 1.068 | 371 | Anak naga angin bersayap gelombang suara di tebing Hollow Gale. | Umum: Sisik Naga Angin Topan (Tier 3) — Jarang: Kelenjar Suara Naga (Tier 3) |
+| Sonic Echo Eagle | 🐺 Spirit Beast | 2, Late (Qi Gathering) | 142 | 49 | Elang raksasa pemancar jeritan gelombang suara di ngarai batu. | Umum: Bulu Elang Gema (Tier 2) — Jarang: Paruh Suara Topan (Tier 2) |
+| Canyon Wind Serpent | 🐺 Spirit Beast | 2, Mid (Qi Gathering) | 106 | 37 | Ular angin melayang penjelajah lorong-lorong batu berongga. | Umum: Kulit Ular Angin (Tier 1) — Jarang: Bisa Gema Ngarai (Tier 2) |
+| Heavenly Tempest Dragon Mitos | 🗿 Mitos / Sovereign | 8, Early (Dao Integration) | 2.226.562 | 791.015 | Naga Badai Topan Mitos pemanggil arus badai angin ngarai Koridor Gale. | Legendaris: Mutiara Badai Topan Mitos (Tier 8, bahan artefak angin Sheng-Grade) |
 
 ---
 
-### 🌀 6.10 Fate Scarlands (`10`) — 20 Spesies
+### 🌀 6.10 Fate Scarlands (`10`) — 24 Spesies
 *(Rujukan: `10_FATE_SCARLANDS.md`)*
 
 | Monster | Kategori | Tier (Realm Setara) | HP | Attack Power | Kemampuan & Deskripsi | Loot Drop |
@@ -402,6 +438,10 @@ Spesies binatang spiritual umum yang dapat ditemukan di berbagai wilayah benua Q
 | Scarland Vulture | 🐺 Spirit Beast Mutasi | 2, Peak (Qi Gathering) | 250 | 70 | Burung bangau pemakan sisa daging mahluk anomali terdistorsi. | Umum: Bulu Burung Anomali (Tier 2) — Jarang: Paruh Vulture Fate (Tier 2) |
 | Spatial Worm Small | 🐛 Insect / Swarm | 3, Mid (Foundation Est.) | 375 | 131 | Cacing belah ruang penggali terowongan linimasa waktu bawah tanah. | Umum: Lendir Belah Ruang (Tier 2) — Jarang: Kulit Cacing Dimensi (Tier 3) |
 | Lord of Anomaly Boss | 🗿 Ancient Guardian / Calamity | 8, Early (Dao Integration) | 1.660.156 | 527.343 | Penguasa anomali takdir raksasa di pusat Celah Takdir Purba. | Legendaris: Inti Takdir Purba Dao Integration (Tier 8, bahan terobos Tribulation) |
+| Chrono Rift Dragon Fledgling | 🐺 Spirit Beast Mutasi | 3, Mid (Foundation Est.) | 956 | 379 | Anak naga mutasi ruang-waktu bersisik ungu keemasan di Celah Takdir. | Umum: Sisik Naga Celah Takdir (Tier 3) — Jarang: Inti Ruang-Waktu Naga (Tier 3) |
+| Temporal Scar Phantom | 👤 Bayangan / Anomali | 3, Late (Foundation Est.) | 318 | 126 | Bayangan arwah linimasa masa lalu yang terjebak di zona keretakan. | Umum: Serpihan Arwah Waktu (Tier 2) — Jarang: Esens Distorsi Temporal (Tier 3) |
+| Scarland Anomaly Wyrm | 🐺 Spirit Beast Mutasi | 4, Mid (Core Formation) | 2.390 | 759 | Cacing naga mutasi raksasa pembelah batas dimensi tanah. | Umum: Kulit Wyrm Anomali (Tier 3) — Jarang: Inti Belah Ruang Wyrm (Tier 4) |
+| Primordial Chrono-Dragon Mitos | 🗿 Mitos / Sovereign | 9, Early (Tribulation Transcendence) | 8.300.781 | 2.490.234 | Naga Waktu Mitos purba teragung penguasa linimasa dan keretakan takdir Qianyuan-World. | Legendaris: Inti Naga Waktu Purba Tribulation (Tier 9, bahan obat/artefak Mitos Tertinggi) |
 
 ---
 
@@ -432,16 +472,16 @@ Jika **salah satu** poin di atas meragukan → Encounter / Loot **DIKOREKSI OTOM
 
 | Wilayah Qianyuan-World | Jumlah Spesies Canon | Threat Level Tertinggi |
 |---|---|---|
-| **Ibu Kota Yuanjing & Perbatasan (`01`)** | 20 Spesies | 🔴 Red (Tier 4 — Stone Lion Guardian) |
-| **Vermilion River Basin (`02`)** | 20 Spesies | 🖤 Black (Tier 5 — Ancient Vermilion Carp Boss) |
-| **Blackstone Skyreach (`03`)** | 20 Spesies | 🖤 Black (Tier 5 — Deep Iron Centipede Purba) |
-| **Ashen Sun Expanse (`04`)** | 20 Spesies | 🖤 Black (Tier 6 — Cacing Pasir Purba & Flame Scorpion King) |
-| **Nine-Reed Mire (`05`)** | 20 Spesies | 🖤 Black (Tier 6 — Purba Miasma Serpent Boss) |
-| **Astral Tide Sea (`06`)** | 20 Spesies | 🖤 Black (Tier 6 — Kraken Palung Gelap Boss) |
-| **Whispering Root Forest (`07`)** | 20 Spesies | 🖤 Black (Tier 5 — Ancient Tree Guardian Boss) |
-| **Frostglass Crown (`08`)** | 20 Spesies | 🖤 Black (Tier 6 — Dragon-Ice Purba Boss) |
-| **Hollow Gale Corridor (`09`)** | 20 Spesies | 🔴 Red (Tier 4 — Great Gale Falcon King Boss) |
-| **Fate Scarlands (`10`)** | 20 Spesies | 🖤 Black (Tier 8 — Lord of Anomaly Boss) |
+| **Ibu Kota Yuanjing & Perbatasan (`01`)** | 24 Spesies | 🖤 Black (Tier 8 — Golden Dragon Sovereign Purba) |
+| **Vermilion River Basin (`02`)** | 24 Spesies | 🖤 Black (Tier 7 — Vermilion River Turtle Purba) |
+| **Blackstone Skyreach (`03`)** | 24 Spesies | 🖤 Black (Tier 8 — Skyreach Mountain Behemoth) |
+| **Ashen Sun Expanse (`04`)** | 24 Spesies | 🖤 Black (Tier 8 — Ashen Phoenix Purba) |
+| **Nine-Reed Mire (`05`)** | 24 Spesies | 🖤 Black (Tier 7 — Nine-Headed Hydra Mitos) |
+| **Astral Tide Sea (`06`)** | 24 Spesies | 🖤 Black (Tier 8 — Leviathan Astral Purba) |
+| **Whispering Root Forest (`07`)** | 24 Spesies | 🖤 Black (Tier 8 — World Tree Dragon Sovereign Purba) |
+| **Frostglass Crown (`08`)** | 24 Spesies | 🖤 Black (Tier 8 — Absolute Zero Glacial Dragon Mitos) |
+| **Hollow Gale Corridor (`09`)** | 24 Spesies | 🖤 Black (Tier 8 — Heavenly Tempest Dragon Mitos) |
+| **Fate Scarlands (`10`)** | 24 Spesies | 🖤 Black (Tier 9 — Primordial Chrono-Dragon Mitos) |
 | **Monster Lintas Wilayah / Umum (§5)** | 15 Spesies | 🟡 Yellow (Tier 2 — Wild Horned Bull & Cloud-Rider Horse) |
 
 ---

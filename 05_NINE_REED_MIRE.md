@@ -24,7 +24,7 @@ Medan berlumpur dan udara beracun di Nine-Reed Mire mengharuskan kultivator ekst
 
 1. **☠️ Miasma Korosif Alang-Alang Purba (*Corrosive Reed Miasma*)**
    - **Lokasi Dampak:** Zona Tengah dan Zona Dalam Labirin Alang-Alang Sembilan.
-   - **Efek Mekanis:** Uap miasma hijau kehitaman yang menembus saluran pernapasan. Memicu status *Toxic Corrosion* (penalti pemulihan HP -30% dan kerusakan Qi **-10 per Shichen** jika tidak meminum *Antidote Pill* Grade 2+ atau menggunakan formasi pemurni udara).
+   - **Efek Mekanis:** Uap miasma hijau kehitaman yang menembus saluran pernapasan. Memicu status *Toxic Corrosion* (penalti pemulihan HP -30% dan kerusakan Qi **-5 per Jam** jika tidak meminum *Antidote Pill* Grade 2+ atau menggunakan formasi pemurni udara).
 2. **🌀 Lumpur Hisap Beracun (*Toxic Quicksand & Sinkholes*)**
    - **Lokasi Dampak:** Perbatasan rawa terbuka dan celah antar-semak alang-alang.
    - **Efek Mekanis:** Langkah teledor memicu jebakan lumpur hisap. Karakter mengalami status *Immobilized* (Movement Speed -70%, Posture mendadak *Severely Off-Balance*), memerlukan test Strength/Qi Control untuk melepaskan diri sebelum tenggelam dalam 3 turn.
@@ -176,6 +176,6 @@ Serikat pengembara bebas yang menguasai keahlian menyelam di dasar rawa beracun 
 ---
 
 ## GM Notes & Instructions
-* Berada di Nine-Reed Mire tanpa perlindungan/penawar racun memicu pemicuan tes Poison Status setiap 2 Shichen.
+* Berada di Nine-Reed Mire tanpa perlindungan/penawar racun memicu pemicuan tes Poison Status setiap 4 Jam.
 * Berada di Zona Dalam Labirin Alang-Alang memberikan penalti Hit Rate -15% akibat pekatnya kabut Miasma.
 * Pertarungan di atas perahu dayung (*Mire Skiff*) atau di dalam air berlumpur memerlukan pemeriksaan Posture/Position tambahan sesuai `15_COMBAT_TACTICAL_SYSTEM.md`.

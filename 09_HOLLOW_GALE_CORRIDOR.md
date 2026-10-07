@@ -27,7 +27,7 @@ Koridor Ngarai Hollow Gale yang berangin kencang dan dipenuhi batu berongga meny
    - **Efek Mekanis:** Hembusan angin kencang berkecepatan tinggi yang memotong bagaikan pisau. Memicu status *Wind Shear Pressure* (penalti Posture mendadak *Severely Off-Balance* dan risiko terlempar dari tebing, memicu *Falling Damage* tinggi jika gagal dalam test Dexterity/Qi Control).
 2. **🔊 Gema Suara Perusak Gendang (*Sonic Echo Resonance*)**
    - **Lokasi Dampak:** Ngarai Batu Berongga dan Gua Gema Suara.
-   - **Efek Mekanis:** Angin yang melewati lubang-lubang tebing menghasilkan getaran frekuensi tinggi. Memicu status *Sonic Disorientation* (pengurasan **Stamina -20 per Shichen** dan penalti Evasion -15% akibat gangguan keseimbangan telinga dalam).
+   - **Efek Mekanis:** Angin yang melewati lubang-lubang tebing menghasilkan getaran frekuensi tinggi. Memicu status *Sonic Disorientation* (pengurasan **Stamina -10 per Jam** dan penalti Evasion -15% akibat gangguan keseimbangan telinga dalam).
 3. **🌫️ Disorientasi Badai Ngarai (*Canyon Gale Disorientation*)**
    - **Lokasi Dampak:** Dataran tinggi koridor barat saat terjadinya badai angin agung.
    - **Efek Mekanis:** Debu halus pasir dan angin berpusar merusak jarak pandang hingga kurang dari 4 meter. Memicu status *Confusion* dan penalti Accuracy/Hit Rate -30%.

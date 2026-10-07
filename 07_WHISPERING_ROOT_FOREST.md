@@ -24,7 +24,7 @@ Eksplorasi di dalam Whispering Root Forest menyimpan ancaman alamiah yang sangat
 
 1. **🌿 Spora Miasma Kayu Purba (*Ancient Wood Spore Miasma*)**
    - **Lokasi Dampak:** Zona Inti Kanopi dan Desa Lembah Spora Hijau.
-   - **Efek Mekanis:** Hirupan spora beracun memicu *Spore Poisoning*. Karakter mengalami penalti pemulihan HP dan Qi sebesar -30%, serta pengurasan **Stamina -15 per Shichen** jika tidak menggunakan topeng herba penawar atau perisai Qi aktif.
+   - **Efek Mekanis:** Hirupan spora beracun memicu *Spore Poisoning*. Karakter mengalami penalti pemulihan HP dan Qi sebesar -30%, serta pengurasan **Stamina -7,5 per Jam** jika tidak menggunakan topeng herba penawar atau perisai Qi aktif.
 2. **🪵 Akar Hidup Penjerat (*Living Entangling Roots*)**
    - **Lokasi Dampak:** Zona Tengah (*Whispering Root Zone*) hingga Zona Inti.
    - **Efek Mekanis:** Akar raksasa yang peka terhadap getaran Qi dapat menjerat kaki kultivator secara mendadak. Memicu status *Entangled* (penalti Movement Speed -50% dan Posture mendadak *Unstable*), membutuhkan check Strength/Dexterity untuk melepaskan diri.
@@ -169,4 +169,4 @@ Kelompok pemburu liar ilegal yang membantai binatang spiritual tanpa lisensi dem
 ## GM Notes & Instructions
 * Berada di Whispering Root Forest meningkatkan kecepatan pemulihan HP dan Qi alami sebesar +25%.
 * Merusak vegetasi atau membantai induk beast yang sedang mengasuh anak memicu kemarahan Rootbound Covenant dan penalti pertukaran ekonomi.
-* Pergerakan di Zona Inti dan Zona Kanopi Atas wajib mengalkulasi bahaya alam (*Environmental Hazards*) sesuai tabel di atas pada setiap Shichen.
+* Pergerakan di Zona Inti dan Zona Kanopi Atas wajib mengalkulasi bahaya alam (*Environmental Hazards*) sesuai tabel di atas pada setiap Jam.

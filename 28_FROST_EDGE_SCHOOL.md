@@ -114,7 +114,7 @@ Frost Edge School mempraktikkan **Hukum Pedang & Keheningan Es (*Ice + Stillness
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
 Calon murid harus mendatangi *Benteng Salju Frost-Edge* dan lulus dua tahapan ujian es:
-1. **Ujian Ketahanan Dingin**: Bermeditasi di atas plat gletser bening tanpa baju hangat selama 1 Shichen tanpa menggetarkan Qi batin.
+1. **Ujian Ketahanan Dingin**: Bermeditasi di atas plat gletser bening tanpa baju hangat selama 2 Jam tanpa menggetarkan Qi batin.
 2. **Ujian Tebasan Keheningan**: Memotong balok kristal es abadi dengan satu tebasan pedang biasa menggunakan Niat Pedang (*Sword Intent*) murni.
 
 Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower & Strength Check*).

@@ -31,10 +31,10 @@ Fate Scarlands adalah zona terlarang (*forbidden zone*) yang terbentuk akibat ha
    - **Efek Mekanis:** Retakan ruang tak kasat mata yang memotong daratan. Memicu status *Spatial Displacement* (berjalan 10 langkah dapat memindahkan karakter sejauh 10 li secara acak, atau memicu tebasan ruang yang menimbulkan *Critical Wound Trauma* pada Dantian jika gagal dalam test Qi Control/Spatial Awareness).
 2. **⏳ Pusaran Waktu Berfluktuasi (*Chrono Distortion Vortex*)**
    - **Lokasi Dampak:** Celah Takdir Purba dan Lembah Relik Anomali.
-   - **Efek Mekanis:** Aliran waktu yang berjalan lebih lambat atau lebih cepat dibanding dunia luar. Memicu status *Chrono Stasis* (penalti Movement Speed -60%, penalti Initiative turn combat, dan pengurasan Stamina **-20 per Shichen**).
+   - **Efek Mekanis:** Aliran waktu yang berjalan lebih lambat atau lebih cepat dibanding dunia luar. Memicu status *Chrono Stasis* (penalti Movement Speed -60%, penalti Initiative turn combat, dan pengurasan Stamina **-10 per Jam**).
 3. **👁️ Kabut Pemudar Ingatan (*Memory Erosion Miasma*)**
    - **Lokasi Dampak:** Seluruh zona inti tanpa penggunaan *Anchor Talisman* atau formasi pelindung batin.
-   - **Efek Mekanis:** Uap miasma ungu keemasan yang mengikis ingatan dan identitas kultivator. Memicu status *Identity Confusion* (pengurasan **Qi -25 per Shichen** dan potensi lupa akan jurus aktif jika tidak segera dievakuasi ke zona perbatasan).
+   - **Efek Mekanis:** Uap miasma ungu keemasan yang mengikis ingatan dan identitas kultivator. Memicu status *Identity Confusion* (pengurasan **Qi -12,5 per Jam** dan potensi lupa akan jurus aktif jika tidak segera dievakuasi ke zona perbatasan).
 
 ---
 
@@ -77,7 +77,7 @@ Fate Scarlands adalah zona terlarang (*forbidden zone*) yang terbentuk akibat ha
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| **Penjaga Celah Takdir Elder Chrono-Anvil** | Peneliti Arus Takdir Purba | 195 | Void Refinement, Mid | **1.171.875** | *Hentakan Waktu Pembeku Meridian* — menghentikan pergerakan lawan dalam kurun Shichen | Misterius, dingin, hanya berbicara pada kultivator ber-Realm tinggi |
+| **Penjaga Celah Takdir Elder Chrono-Anvil** | Peneliti Arus Takdir Purba | 195 | Void Refinement, Mid | **1.171.875** | *Hentakan Waktu Pembeku Meridian* — menghentikan pergerakan lawan dalam kurun beberapa Jam | Misterius, dingin, hanya berbicara pada kultivator ber-Realm tinggi |
 
 ---
 
@@ -133,5 +133,5 @@ Jaringan penjelajah nekat dan pedagang pasar gelap yang mengorganisir ekspedisi 
 
 ## GM Notes & Instructions
 * **Aturan Acak AI-GM**: AI-GM wajib memberlakukan tes keberhasilan acak (*Randomized Checks*) pada setiap aksi di Fate Scarlands. Kondisi lingkungan tidak pernah boleh terasa normal atau terprediksi.
-* Berada di Fate Scarlands tanpa *Anchor Talisman* memicu tes *Identity Confusion* setiap Shichen (pengurasan Qi -25).
+* Berada di Fate Scarlands tanpa *Anchor Talisman* memicu tes *Identity Confusion* setiap Jam (pengurasan Qi -12,5).
 * Penggunaan teknik kultivasi standar di dalam zona scar dapat mengalami mutasi efek (misal: teknik api memancarkan aura es atau berbalik merusak Meridian pengguna).
