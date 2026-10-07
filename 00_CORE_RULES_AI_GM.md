@@ -50,7 +50,7 @@ Ada tiga jalur input awal — AI harus mengenali dulu jalur mana yang berlaku se
 - Wilayah awal (harus sesuai daftar lokasi resmi di modul `02`–`10`)
 - Background / Role awal (Primary & Secondary Role di `17`)
 
-AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/`). Karakter baru mulai dari statistik dasar Body Refining Realm Early Stage (`QiCap = 50`, `HPMax = 150`) kecuali disetujui lain oleh AI GM secara masuk akal.
+AI mengambil data dunia dari file-file yang ditautkan di GitHub (`https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/?v=1`). Karakter baru mulai dari statistik dasar Body Refining Realm Early Stage (`QiCap = 50`, `HPMax = 150`) kecuali disetujui lain oleh AI GM secara masuk akal.
 
 > 📌 **`players.md` & folder `players/` adalah katalog data awal statis yang HANYA boleh diubah oleh admin (pemilik repo) — bukan sistem save**, dan hanya relevan untuk jalur A. AI tidak pernah menulis atau memperbarui file-file itu. Seluruh perkembangan karakter dilacak murni lewat blok "Profil Karakter" di dalam percakapan (§2).
 
@@ -217,7 +217,7 @@ Teknik & Kemampuan Aktif:
 
 ## 4. Peta Modul Dunia Qianyuan-World
 
-> 💡 Pemain cukup menempelkan link raw `INDEX.md`: `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md`.
+> 💡 Pemain cukup menempelkan link raw `INDEX.md`: `https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md?v=1`.
 
 | Modul | Isi Singkat |
 |---|---|

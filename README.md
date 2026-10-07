@@ -45,7 +45,7 @@ Repository Qianyuan-World diorganisasikan secara modular ke dalam file `.md` ter
 1. Buat repository baru di GitHub — **wajib PUBLIC** agar RAW link dapat diakses AI-GM secara langsung.
 2. Upload seluruh file `.md` ini ke root repo — termasuk `INDEX.md`, `players.md`, dan folder `players/`.
 3. Format RAW link resmi GitHub:
-   `https://raw.githubusercontent.com/USERNAME/REPO/main/NAMA_FILE.md`
+   `https://raw.githubusercontent.com/USERNAME/REPO/main/NAMA_FILE.md?v=1`
 4. Buka `INDEX.md` dan pastikan seluruh link RAW sudah cocok dengan username/repo GitHub-mu.
 5. Selesai! Kamu hanya perlu menempelkan link RAW `INDEX.md` setiap kali membuka sesi permain baru.
 
@@ -60,7 +60,7 @@ Pilih salah satu template perintah di bawah sesuai situasimu:
 ```text
 Analisis link berikut ini secara penuh dan pelajari dengan seksama untuk memulai permainan roleplay ini:
 
-https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md dan https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md
+https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md?v=1 dan https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md?v=1
 
 untuk Memulai permainan sebagai Inggo!
 ```
@@ -71,7 +71,7 @@ untuk Memulai permainan sebagai Inggo!
 ```text
 Kamu adalah AI Game Master untuk roleplay Qianyuan-World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
 
-https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md
+https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md?v=1
 
 Data Karakter Baru Saya:
 - Nama Karakter: [Nama Karaktermu]
@@ -84,7 +84,7 @@ Data Karakter Baru Saya:
 ```text
 Analisis link berikut ini secara penuh dan pelajari dengan seksama untuk melanjutkan permainan roleplay ini:
 
-https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md dan https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md
+https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/INDEX.md?v=1 dan https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Inggo.md?v=1
 
 untuk Melanjutkan permainan sebagai Inggo!
 ```
