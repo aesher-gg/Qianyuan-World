@@ -141,6 +141,17 @@ Kawanan penyamun padang pasir yang membajak karavan air dan mencuri barang penin
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Oasis & Bukit Pasir Geser** | Scorched Sand Vine, Sunfire Cactus | Tier 1–2 | **Low** (Sand Lizard, Desert Scorpion) |
+| **Kawah Pasir Hangat** | Ashen Berry, Blazing Flame Orchid | Tier 3–4 | **Medium** (Flame Salamander, Sand Worm) |
+| **Retakan Magma Ashen Sun** | Solar Bloom Rose | Tier 5 | **High** (Blazing Magma Serpent) |
+| **Inti Gurun Pasir Pijar** | Ashen Sun Phoenix Fruit | Tier 8 | **Extreme** (Ancient Flame Phoenix Beast) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Ashen Sun Expanse memberikan bonus kekuatan serangan elemen Api sebesar **+20%**.
 * Eksplorasi gurun pasir menguras Satiety & Stamina sebesar **-15 poin per Shichen** jika tidak menggunakan pasokan air spiritual atau pakaian pelindung gurun.

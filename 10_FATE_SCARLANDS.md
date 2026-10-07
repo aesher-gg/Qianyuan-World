@@ -120,6 +120,17 @@ Jaringan penjelajah nekat dan pedagang pasar gelap yang mengorganisir ekspedisi 
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Perbatasan Scarlands** | Scar Weaved Grass, Memory-Erosion Mushroom | Tier 2–3 | **Medium** (Anomaly Void Hound, Scar Beetle) |
+| **Zona Retakan Ruang** | Distortion Blossom, Void Berry | Tier 4, 7 | **High** (Spatial Distortion Phantom) |
+| **Inti Anomali Retakan Ruang** | Fate-Rewind Lily | Tier 8 | **Extreme** (Fate Anomali Guardian) |
+| **Kedalaman Anomali Ruang Hampa**| Chaos Void World-Tree Seedling | Tier 9 | **God-Tier / Fatal** (Chaos Void Entity / Void Sovereign) |
+
+---
+
 ## GM Notes & Instructions
 * **Aturan Acak AI-GM**: AI-GM wajib memberlakukan tes keberhasilan acak (*Randomized Checks*) pada setiap aksi di Fate Scarlands. Kondisi lingkungan tidak pernah boleh terasa normal atau terprediksi.
 * Berada di Fate Scarlands tanpa *Anchor Talisman* memicu tes *Identity Confusion* setiap Shichen (kehilangan Focus -25).

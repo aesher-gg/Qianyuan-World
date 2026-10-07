@@ -133,6 +133,17 @@ Kelompok perampok jalur udara yang bersembunyi di celah-celah tebing untuk memot
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Tebing Ngarai Berbatu** | Gale-Spur Blossom, Echo Grass | Tier 1–2 | **Low** (Gale Hawk, Canyon Swift) |
+| **Gua Ngarai Bergema** | Sound-Echo Fern, Feather-Wind Vine | Tier 3–4 | **Medium** (Echo Bat Swarm, Gale Leopard) |
+| **Inti Pusaran Ngarai Angin** | Hollow Wind Lotus | Tier 6 | **High** (Wind Anomaly Elemental) |
+| **Puncak Pusaran Ngarai Utama** | Nine-Gale Tempest Blossom | Tier 7 | **Extreme** (Ancient Tempest Roc) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Hollow Gale Corridor memberikan bonus teknik gelombang suara (*Sound-based techniques*) dan pergerakan angin sebesar +20%.
 * Karakter yang melintasi jembatan gantung tali atau celah tebing tinggi wajib melakukan pemeriksaan kestabilan Posture (*Balance Check*) saat ditiup badai angin pemotong (*Void Gale Shear*).

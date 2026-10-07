@@ -33,15 +33,25 @@ Alkimia adalah seni mengekstraksi dan memurnikan aura herbal spiritual menggunak
 
 | Tier | Nama Dan-Pill | Bahan Utama | Fungsi & Efek Mekanis |
 |---|---|---|---|
-| **Tier 1** | **Pil Pemulih Qi Ringan (Basic Qi Pill)** | Gale Grass + Water Dew | Memulihkan 20 Qi seketika. |
+| **Tier 1** | **Pil Pemulih Qi Ringan (Basic Qi Pill)** | Gale Grass + Water Dew Flower | Memulihkan 20 Qi seketika. |
+| **Tier 1** | **Salep Embun Pembersih (Dew Cleansing Ointment)** | Red Lantern Blossom + Water Dew Flower | Menyembuhkan status *Minor Wound* & luka bakar luar. |
 | **Tier 2** | **Foundation Pill (Pil Pembentuk Fondasi)** | Vermilion Ginseng + Spirit Core T2 | Syarat terobos Qi Gathering → Foundation (`12`). |
+| **Tier 2** | **Pil Kaki Awan (Cloud Foot Pill)** | Skyreach Cloud Moss + Gale-Spur Blossom | Bonus *Movement Speed* +25% & penghematan Stamina. |
 | **Tier 3** | **Golden Core Pill (Pil Inti Emas)** | Jade Dewflower + Cold Steel Vein + Core T3 | Syarat terobos Foundation → Core Formation (`12`). |
+| **Tier 3** | **Pil Kebal Api Gurun (Ashen Fire Shield Pill)** | Ashen Berry + Sunfire Cactus | Kekebalan terhadap efek *Burn* & panas Gurun Ashen Sun 6 Shichen. |
 | **Tier 4** | **Nascent Soul Pill (Pil Jiwa Kuno)** | Ancient Wood Sap + Core T4 | Syarat terobos Core Formation → Nascent Soul (`12`). |
+| **Tier 4** | **Pil Pembawa Darah (Blood Renewal Pill)** | Mire Blood Orchid + Root-Heart Ginseng | Memulihkan 50% Max HP seketika & menghentikan pendarahan. |
+| **Tier 4** | **Pil Ketahanan Sungai (River Resilience Pill)** | River Willow Root + Spirit Core T4 | Peningkatan pertahanan fisik +30% & bernapas di dalam air. |
 | **Tier 5** | **Soul Refinement Pill (Pil Pemurni Jiwa)** | Snow Lotus + Spirit Core T5 | Memulihkan *Soul Trauma* dan Max Focus +30%. |
+| **Tier 5** | **Pil Pemurni Surya (Solar Refinement Pill)** | Solar Bloom Rose + Blazing Flame Orchid | Memurnikan Qi buruk/kotor dari Dantian & bonus Fire Damage +35%. |
 | **Tier 6** | **Void Severing Pill (Pil Kehampaan)** | Spatial Shard + Core T6 | Bonus peluang sukses Trial Kehampaan +20%. |
+| **Tier 6** | **Pil Terobos Sumsum Es (Cold Core Breakthrough Pill)**| Eternal Cold-Marrow Fungus + Starlight Lotus | Bonus +25% terobos Core Formation → Nascent Soul (Ice Element). |
 | **Tier 7** | **Heavenly Tribulation Shield Pill** | Cold Core Crystal + Core T7 | Mengurangi kerusakan Tribulasi Petir sebesar -15%. |
+| **Tier 7** | **Pil Pasak Ruang (Spatial Anchor Pill)** | Void Berry + Distortion Blossom + Core T7 | Mencegah efek *Memory Erosion* & disorientasi Fate Scarlands (`10`). |
 | **Tier 8** | **Dao Integration Essence Pill** | Nine Currents Essence + Core T8 | Syarat terobos Dao Integration Realm (`12`). |
+| **Tier 8** | **Elixir Kebangkitan Phoenix (Phoenix Rebirth Elixir)**| Ashen Sun Phoenix Fruit + Absolute Zero Glacial Plum | Mencegah kematian permanen (1x kebangkitan dengan 30% HP saat tewas). |
 | **Tier 9** | **Immortal Ascension Pill (Pil Keabadian)**| Fate Core Crystal + Core T9 | Menetralkan *Backlash* Tribulasi Petir Agung. |
+| **Tier 9** | **Pil Pemurni Esens Dao (Dao Integration Essence Pill)**| Myriad-Year Whispering Root + Celestial Sea-Core Blossom | Syarat terobos Dao Integration Realm (`12`). |
 
 ### 1.3 Resep Cairan Nutrisi & Pupuk Alkimia Kebun (Nutrient Liquids — `18`)
 

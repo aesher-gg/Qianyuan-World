@@ -22,13 +22,28 @@ Dokumen ini berfungsi sebagai patokan referensi cepat (Oracle/Cheat-sheet) bagi 
 * **Cold Steel Ore (1 Jin)**: 2 Spirit Stones Tier 1
 * **Star Coral (1 Biji)**: 5 Spirit Stones Tier 1
 
-### 2.3 Herbal & Bahan Alkimia
-* **Dewflower Herb (Segar)**: 1 Silver Tael
-* **Ginseng Vermilion 50 Tahun**: 5 Spirit Stones Tier 1
-* **Blood Orchid (Rawa)**: 10 Spirit Stones Tier 1
-* **Centennial Snow Lotus**: 1 Spirit Stone Tier 2 (100 Spirit Stones Tier 1)
+### 2.3 Standar Harga Herba Spiritual Menurut Tier (Segar & Benih)
 
-### 2.4 Pil Alkimia (Dan-Pill)
+| Tier Herba | Harga Herba Segar (Base Market) | Harga Benih Spiritual (*Spirit Seeds*) |
+|---|---|---|
+| **Tier 1** | 5 – 10 Silver Taels | 1 – 2 Silver Taels |
+| **Tier 2** | 1 – 3 Spirit Stones Tier 1 | 5 – 10 Silver Taels |
+| **Tier 3** | 8 – 15 Spirit Stones Tier 1 | 2 – 4 Spirit Stones Tier 1 |
+| **Tier 4** | 30 – 50 Spirit Stones Tier 1 | 8 – 12 Spirit Stones Tier 1 |
+| **Tier 5** | 1 – 2 Spirit Stones Tier 2 (100–200 SS T1) | 25 – 40 Spirit Stones Tier 1 |
+| **Tier 6** | 5 – 8 Spirit Stones Tier 2 | 1 – 2 Spirit Stones Tier 2 |
+| **Tier 7** | 20 – 35 Spirit Stones Tier 2 | 5 – 8 Spirit Stones Tier 2 |
+| **Tier 8** | 1 – 2 Spirit Stones Tier 3 (100–200 SS T2) | 20 – 35 Spirit Stones Tier 2 |
+| **Tier 9** | 5 – 10 Spirit Stones Tier 3 | 1 – 2 Spirit Stones Tier 3 |
+
+### 2.4 Cairan Nutrisi Alkimia Kebun (Nutrient Liquids — `18`)
+* **Basic Spirit Nutrient Liquid (Grade 1)**: 5 Silver Taels
+* **Wood-Vitality Nutrient Essence (Grade 2)**: 1 Spirit Stone Tier 1
+* **Elemental Harmony Liquid (Grade 3)**: 5 Spirit Stones Tier 1
+* **Life-Surge Nutrient Elixir (Grade 4)**: 20 Spirit Stones Tier 1
+* **Grand Dao Spirit Catalytic Dew (Grade 5)**: 1 Spirit Stone Tier 2 (100 SS T1)
+
+### 2.5 Pil Alkimia (Dan-Pill)
 * **Qi Replenishing Pill (Basic)**: 2 Spirit Stones Tier 1
 * **Healing Wound Pill (Basic)**: 3 Spirit Stones Tier 1
 * **Foundation Breakthrough Pill**: 5 Spirit Stones Tier 2

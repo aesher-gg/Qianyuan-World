@@ -146,6 +146,17 @@ Armada raider laut independen yang menyergap kapal dagang kargo tanpa formasi pe
 
 ---
 
+## 🌿 Titik Panen Herba Liar (Spirit Herb Gathering Nodes & Danger Level)
+
+| Titik Panen (Gathering Node) | Spesies Herba Utama | Tier Herba | Tingkat Bahaya & Penjaga Liar (`20_BESTIARY_ECOLOGY.md`) |
+|---|---|---|---|
+| **Pantai Kepulauan Astral** | Tide Kelp, Astral Tide Algae | Tier 1–2 | **Low** (Coral Crab, Flying Fish) |
+| **Terumbu Karang Rembulan** | Moonlit Coral Blossom, Star Herb | Tier 3–4 | **Medium** (Astral Tide Jellyfish, Star Shark) |
+| **Danau Kawah Pulau Astral** | Starlight Lotus | Tier 6 | **High** (Starlight Sea Serpent) |
+| **Inti Palung Laut Astral** | Celestial Astral Sea-Core Blossom | Tier 9 | **Extreme** (Ancient Celestial Kraken Spirit) |
+
+---
+
 ## GM Notes & Instructions
 * Berada di Astral Tide Sea pada malam hari berbintang memberikan bonus jangkauan teknik formasi dan navigasi sebesar **+20%**.
 * Pertarungan di bawah air di Zona Palung Gelap memerlukan perisai Qi khusus agar tidak terkena debuff *Suffocating & Crushing Pressure*.
