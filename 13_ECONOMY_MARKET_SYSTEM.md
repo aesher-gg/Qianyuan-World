@@ -46,7 +46,7 @@ Setiap barang di dunia Qianyuan dikategorikan ke dalam 9 Tier material:
 | Tier Barang | Tier Base Value (Copper Tael) | Konversi Praktis | Contoh Barang |
 |---|---|---|---|
 | **Tier 1** | 5 Copper | 5 Copper Taels | Herbal biasa, pedang besi desa, pakan ternak. |
-| **Tier 2** | 50 Copper | 50 Copper Taels | Pil pemulih Qi ringan, zirah kulit dojo, obat luka luar. |
+| **Tier 2** | 50 Copper | 50 Copper Taels | Pil pemulih Qi ringan, zirah kulit perguruan, obat luka luar. |
 | **Tier 3** | 500 Copper | 5 Silver Taels | Pil penawar racun Grade 2, pedang baja tempa bermutu. |
 | **Tier 4** | 5.000 Copper | 50 Silver Taels | Foundation Pill, senjata Cold Steel ber-Qi ringan. |
 | **Tier 5** | 50.000 Copper | 5 Gold Taels / 50 SS-T1 | Golden Core Pill, Spirit Beast Collar, zirah batu hitam. |
@@ -64,7 +64,7 @@ TierBase(n) = 5 × 10^(n−1) Copper Taels
 | Quality Grade | Nama Grade | Multiplier | Catatan Kualitas |
 |---|---|---|---|
 | **Grade 1** | **Fan-Grade (凡品)** | ×0,5 | Kualitas buatan amatir/cacat, efisiensi rendah. |
-| **Grade 2** | **Huang-Grade (黄品)** | ×1,0 | Kualitas standar pasar / dojo biasa. |
+| **Grade 2** | **Huang-Grade (黄品)** | ×1,0 | Kualitas standar pasar / perguruan biasa. |
 | **Grade 3** | **Xuan-Grade (玄品)** | ×2,5 | Kualitas sekte menengah, ber-Qi murni. |
 | **Grade 4** | **Di-Grade (地品)** | ×6,0 | Kualitas sekte besar, dibuat alchemist/penempa ahli. |
 | **Grade 5** | **Tian-Grade (天品)** | ×15,0 | Kualitas master / pusaka sekte utama. |
@@ -145,7 +145,7 @@ ContractFee = (TargetQiCap × 0,001 Copper Taels) + DifficultyBonus
 |---|---|---|
 | **Rumah Panggung / Pondok Kayu Desa** | 20 s/d 100 Silver Taels | Izin Kepala Desa lokal. |
 | **Toko / Lapak Pasar Kota Utama** | 5 s/d 20 Gold Taels | Pajak bulanan Kekaisaran Yuanjing. |
-| **Pendirian Dojo / Perguruan Cabang** | 500 Gold Taels + Sertifikat Dao Registry | Wajib terdaftar di Dao Registry Council (`11`). |
+| **Pendirian Perguruan Cabang / Sekte** | 500 Gold Taels + Sertifikat Dao Registry | Wajib terdaftar di Dao Registry Council (`11`). |
 | **Perahu Dayung Rawa (*Mire Skiff*)** | 10 s/d 30 Silver Taels | Moda transportasi utama Nine-Reed Mire. |
 | **Kapal Dagang Laut / Perang Maritim** | 50 s/d 500 Gold Taels | Galangan kapal Pelabuhan Star-Compass. |
 | **Kapal Udara Lingzhou (*Spirit Airship*)** | 2.000 s/d 10.000 Gold Taels | Memerlukan izin penerbangan Kekaisaran. |

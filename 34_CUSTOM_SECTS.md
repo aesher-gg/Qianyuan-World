@@ -1,19 +1,19 @@
-# 🏯 Qianyuan-World — Modul 34: Custom Sects (Database Sekte & Dojo Baru)
+# 🏯 Qianyuan-World — Modul 34: Custom Sects (Database Sekte & Perguruan Baru)
 
 > **Modul:** 34 — Custom Sects
-> **Fungsi:** Database dinamis untuk mencatat sekte baru, dojo lokal, perkumpulan sanxiu, dan faksi baru yang didirikan oleh pemain atau didaftarkan di Dao Registry selama perkembangan cerita di Qianyuan-World.
+> **Fungsi:** Database dinamis untuk mencatat sekte baru, perguruan lokal, perkumpulan sanxiu, dan faksi baru yang didirikan oleh pemain atau didaftarkan di Dao Registry selama perkembangan cerita di Qianyuan-World.
 > **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.10 (legalitas Dao Registry), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (Cincin 3 Dao Registry), `11_CROSS_REGION_ORGANIZATIONS.md` (faksi benua)
 
 ---
 
 ## 📜 1. Overview & Format Standard Faksi Khusus
 
-Setiap faksi, sekte, atau dojo baru yang didirikan oleh pemain atau dibentuk oleh kelompok NPC wajib dicatat secara resmi menggunakan struktur baku berikut:
+Setiap faksi, sekte, atau perguruan baru yang didirikan oleh pemain atau dibentuk oleh kelompok NPC wajib dicatat secara resmi menggunakan struktur baku berikut:
 
 ```markdown
 * **Faction ID**: Kode unik (Misal: `FCT-001`)
-* **Name**: Nama Resmi Sekte / Dojo / Aliansi
-* **Type**: Jenis faksi (Dojo Lokal / Sekte Orthodoks / Aliansi Sanxiu / Guild Dagang)
+* **Name**: Nama Resmi Sekte / Perguruan / Aliansi
+* **Type**: Jenis faksi (Perguruan Lokal / Sekte Orthodoks / Aliansi Sanxiu / Guild Dagang)
 * **Region**: Wilayah domisili & lokasi markas utama
 * **Origin**: Sejarah singkat pendirian faksi
 * **Leadership**: Pemimpin / Pendiri resmi
@@ -27,18 +27,18 @@ Setiap faksi, sekte, atau dojo baru yang didirikan oleh pemain atau dibentuk ole
 
 ---
 
-## 🏛️ 2. Registered Custom Sects (Sampel Terdaftar)
+## 🏛️ 2. Registered Custom Sects (Database Faksi Terdaftar)
 
-### 🎍 FCT-001: Dojo Bambu Hijau (Green Bamboo Dojo)
+### 🎍 FCT-001: Perguruan Bambu Hijau (Green Bamboo Academy)
 * **Faction ID**: `FCT-001`
-* **Name**: Green Bamboo Dojo (Dojo Bambu Hijau)
-* **Type**: Dojo Bela Diri Lokal
+* **Name**: Green Bamboo Academy (Perguruan Bambu Hijau)
+* **Type**: Perguruan Bela Diri Lokal
 * **Region**: Vermilion River Basin (Tepi Dewflower Village — `02`).
 * **Origin**: Didirikan oleh bekas prajurit veteran kekaisaran untuk melatih pemuda desa bertarung membela diri dari serangan pembajak sungai.
 * **Leadership**: Guru Lin (Veteran Body Refining Realm Late Stage).
 * **Doctrine**: *"Lentur Bagaikan Bambu, Teguh Menghadapi Badai."*
 * **Techniques**: *Bamboo Pole Staff Art*, *Wind-Breeze Footwork*.
-* **Resources**: Bangunan dojo kayu bambu, lapangan latihan, kebun obat herbal kecil.
+* **Resources**: Bangunan perguruan kayu bambu, lapangan latihan, kebun obat herbal kecil.
 * **Relations**: Bersahabat erat dengan warga Desa Bunga Embun dan River Lantern School (`22`).
 * **Political Position**: Terdaftar resmi di *Dao Registry* Cabang Vermilion.
 * **Secrets**: Menyimpan teknik staf bambu rahasia warisan jenderal kekaisaran yang mampu memutus pedang besi biasa.
@@ -77,7 +77,39 @@ Setiap faksi, sekte, atau dojo baru yang didirikan oleh pemain atau dibentuk ole
 
 ---
 
+### ❄️ FCT-004: Perguruan Pedang Embun Beku (Frost Dew Sword Pavilion)
+* **Faction ID**: `FCT-004`
+* **Name**: Frost Dew Sword Pavilion (Perguruan Pedang Embun Beku)
+* **Type**: Perguruan Pedang Regional
+* **Region**: Frostglass Crown (Gletser Bening — `08`).
+* **Origin**: Dibentuk oleh pendekar pedang wanita independen yang mengasingkan diri dari konflik politik benua.
+* **Leadership**: Master Han Xue-Yi (Nascent Soul Early Stage).
+* **Doctrine**: *"Hati Sebening Es, Tebasan Setajam Embun Beku."*
+* **Techniques**: *Frost Dew Blade Art*, *Glacial Shield Form*.
+* **Resources**: Kompleks paviliun batu es, gua meditasi gletser, kebun Bunga Teratai Salju.
+* **Relations**: Menjaga jarak dari konflik politik, bersahabat netral dengan Frost Edge School (`28`).
+* **Political Position**: Terdaftar resmi di *Dao Registry* Cincin 3 Yuanjing.
+* **Secrets**: Menyimpan inskripsi kuno teknik pertahanan pedang es yang mampu membekukan serangan panah bermantra.
+
+---
+
+### 🌿 FCT-005: Aliansi Penjelajah Akar Purba (Rootbound Pathfinder Lodge)
+* **Faction ID**: `FCT-005`
+* **Name**: Rootbound Pathfinder Lodge
+* **Type**: Aliansi Pemburu & Penjelajah Hutan
+* **Region**: Whispering Root Forest (Desa Root-Bound — `07`).
+* **Origin**: Gabungan pemburu spirit beast lokal dan pencari herba spiritual langka di pedalaman hutan.
+* **Leadership**: Chief Tracker Mu-Rong (Core Formation Mid Stage).
+* **Doctrine**: *"Hormati Dendang Hutan, Ambil Hanya Yang Diizinkan Akar Purba."*
+* **Techniques**: *Beast Tracking Eye*, *Vine Snare Trap Art*.
+* **Resources**: Pondok kayu persinggahan 2 lantai, peta jalur aman hutan, pasokan obat penawar racun serangga.
+* **Relations**: Bermitra rapat dengan Rootbound Covenant Sect (`27`) dan Merchant Alliance.
+* **Political Position**: Terdaftar resmi di *Dao Registry* Cabang Forest.
+* **Secrets**: Memiliki kompas penunjuk arah gaib yang mampu menembus kabut ilusi di pedalaman World Tree Sanctuary.
+
+---
+
 ## 🛠️ 3. GM Instructions & Pendaftaran Faksi Baru
 
-1. **Syarat Pendaftaran Pemain**: Pemain yang telah memiliki Realm minimal *Foundation Establishment Early Stage* dan dana modal 500 Tael Emas berhak mengajukan pendirian dojo/sekte baru ke *Dao Registry* (Cincin 3 Yuanjing).
+1. **Syarat Pendaftaran Pemain**: Pemain yang telah memiliki Realm minimal *Foundation Establishment Early Stage* dan dana modal 500 Tael Emas berhak mengajukan pendirian perguruan/sekte baru ke *Dao Registry* (Cincin 3 Yuanjing).
 2. **Pencatatan Baru**: AI GM wajib mencatatkan faksi baru yang berhasil didirikan ke dalam modul ini agar status politik, wilayah kekuasaan, dan hubungan diplomasi sekte terakumulasi secara permanen.

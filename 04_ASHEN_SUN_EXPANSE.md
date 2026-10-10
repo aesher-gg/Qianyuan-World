@@ -108,7 +108,7 @@ Faksi perdagangan, pengawalan logistik, dan navigasi gurun terbesar di Ashen Sun
 
 ---
 
-### 🦅 Mata Elang Pasir (Dojo / Guild Tentara Bayaran Gurun)
+### 🦅 Mata Elang Pasir (Perguruan / Guild Tentara Bayaran Gurun)
 *Lokasi: Sunfire Oasis & Sandgate Post*
 
 Guild tentara bayaran independen spesialis pengawalan pribadi, perburuan Sandstorm Scorpion, dan misi penyelamatan di laut pasir.

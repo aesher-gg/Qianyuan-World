@@ -28,7 +28,7 @@ Setiap jurus, mantra, atau teknik gerakan baru yang berhasil dikembangkan oleh p
 
 ---
 
-## 🏛️ 2. Registered Custom Techniques (Sampel Terdaftar)
+## 🏛️ 2. Registered Custom Techniques (Database Teknik Terdaftar)
 
 ### 🗡️ TECH-001: Tebasan Angin Pemotong Embun (Dew-Cutting Wind Slash)
 * **Technique ID**: `TECH-001`
@@ -69,7 +69,7 @@ Setiap jurus, mantra, atau teknik gerakan baru yang berhasil dikembangkan oleh p
 * **Name**: Astral Ray Spear (Tombak Sinar Bintang)
 * **Type**: Ranged Spell / Attack
 * **Element**: Star Qi
-* **Origin**: Diciptakan dari penelitian konyjungsi rasi bintang di Astral Tide Sea.
+* **Origin**: Diciptakan dari penelitian konjungsi rasi bintang di Astral Tide Sea.
 * **Requirements**: Realm Core Formation Early Stage, Star Qi Law.
 * **Mastery**: Proficient.
 * **Qi Cost**: 65 Qi.
@@ -81,8 +81,42 @@ Setiap jurus, mantra, atau teknik gerakan baru yang berhasil dikembangkan oleh p
 
 ---
 
+### 🌿 TECH-004: Tarian Lilitan Akar Kayu Purba (Ancient Wood Vine Bind)
+* **Technique ID**: `TECH-004`
+* **Name**: Ancient Wood Vine Bind (Tarian Lilitan Akar Kayu Purba)
+* **Type**: Utility / Crowd Control
+* **Element**: Wood + Life Qi
+* **Origin**: Hasil perenungan di bawah World Tree Sanctuary Whispering Root Forest.
+* **Requirements**: Realm Qi Gathering Mid Stage, Wood Affinity.
+* **Mastery**: Proficient.
+* **Qi Cost**: 25 Qi.
+* **Stamina Cost**: 10 Stamina.
+* **Effects**: Menyemburkan akar-akar kayu ber-Qi dari tanah yang melilit kaki target sejauh 15 langkah (Status *Rooted* selama 2 Ronde, menyerap 10 HP per ronde untuk memulihkan Stamina pengguna).
+* **Limitations**: Tidak efektif pada target terbang di atas ketinggian 5 langkah.
+* **Risks**: Penggunaan di tanah berbatu keras/tanpa unsur tanah meningkatkan konsumsi Qi +15.
+* **Known Users**: Murid Perguruan Rootbound Covenant Sect (`27`).
+
+---
+
+### ❄️ TECH-005: Tebasan Es Jarum Embun Beku (Glacial Needle Blade)
+* **Technique ID**: `TECH-005`
+* **Name**: Glacial Needle Blade (Tebasan Es Jarum Embun Beku)
+* **Type**: Melee / Piercing Attack
+* **Element**: Ice Qi
+* **Origin**: Diciptakan di Puncak Meditasi Frostglass Crown.
+* **Requirements**: Realm Foundation Establishment Mid Stage, Sword Mastery Master.
+* **Mastery**: Master.
+* **Qi Cost**: 35 Qi.
+* **Stamina Cost**: 15 Stamina.
+* **Effects**: Memadatkan hawa dingin menjadi ribuan jarum es transparan di sepanjang mata pedang yang menusuk pertahanan musuh (Damage Piercing + Ice 65 HP, mengurangi *Movement Speed* target -25% selama 2 Ronde).
+* **Limitations**: Memerlukan fokus pertarungan jarak dekat.
+* **Risks**: Kegagalan pemicuan memicu *Frostbite* ringan pada telapak tangan pengguna (-5 HP).
+* **Known Users**: Instruktur Frost Edge School (`28`).
+
+---
+
 ## 🛠️ 3. GM Instructions & Validasi Kreasi Jurus
 
-1. **Aturan Kreasi Jurus Pemain**: AI GM wajib memvalidasi bahwa teknik baru yang diciptakan pemain membutuhkan pengorbanan latihan yang pantas, biaya Qi/Stamina yang seimbang, serta risiko kegagalan/penyampangan jika eksperimen dilakukan tanpa guru.
+1. **Aturan Kreasi Jurus Pemain**: AI GM wajib memvalidasi bahwa teknik baru yang diciptakan pemain membutuhkan pengorbanan latihan yang pantas, biaya Qi/Stamina yang seimbang, serta risiko kegagalan/penyimpangan jika eksperimen dilakukan tanpa guru.
 2. **Kenaikan Mastery**: Tingkat mastery (*Basic -> Proficient -> Master -> Perfection*) bertambah secara bertahap seiring frekuensi penggunaan jurus dalam pertempuran resmi.
 3. **Pencatatan Permanen**: Setiap jurus baru yang dikonfirmasi oleh AI GM wajib dimasukkan ke dalam daftar di atas agar siap digunakan di sesi roleplay selanjutnya.

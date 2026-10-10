@@ -26,7 +26,7 @@ Setiap event baru yang muncul dari dinamika permainan atau aksi pemain wajib dic
 
 ---
 
-## 🏛️ 2. Registered Custom Events (Sampel Terdaftar)
+## 🏛️ 2. Registered Custom Events (Database Event Terdaftar)
 
 ### 🏆 EVT-001: Ujian Perekrutan Murid Baru Sepuluh Sekte Utama
 * **Event ID**: `EVT-001`
@@ -70,6 +70,36 @@ Setiap event baru yang muncul dari dinamika permainan atau aksi pemain wajib dic
 * **Success Condition**: Merebut *Sunfire Gem* dan membawa keluar inskripsi formasi kuno secara utuh.
 * **Failure Condition**: Terjebak di dalam istana saat badai pasir meruntuhkan lorong gua bawah tanah.
 * **World Consequence**: Munculnya artefak purba baru di bursa lelang Cincin 4 Yuanjing dan pertempuran berdarah di gurun barat.
+
+---
+
+### ❄️ EVT-004: Retakan Es Abadi Puncak Frostglass
+* **Event ID**: `EVT-004`
+* **Title**: Anomali Retakan Jiwa Es & Kemunculan Elemental Ice Dragon Fledgling
+* **Trigger**: Penurunan suhu ekstrem yang memicu rekahnya Dinding Glacial Wall di Frostglass Crown.
+* **Location**: Puncak Meditasi Frostglass Crown (`08`).
+* **Participants**: Frost Edge School, Pemburu Naga Es Sanxiu, Utusan Imperial Court.
+* **Public Objective**: Membendung serbuan elemental monster es dan mengamankan wilayah perbatasan dari pembekuan total.
+* **Hidden Objective**: Memburu atau menjinakkan anak Naga Es (*Elemental Ice Dragon Fledgling* Tier 7) yang menetas dari retakan purba.
+* **Time Limit**: 5 Hari.
+* **Success Condition**: Menyegel kembali retakan menggunakan Formasi Penyegel Es atau menaklukkan anak naga es.
+* **Failure Condition**: Badai salju abadi meluas ke Hollow Gale Corridor, menutup rute penerbangan Lingzhou.
+* **World Consequence**: Kelangkaan kristal es spiritual di pasar dan terjadinya konflik antara Frost Edge School dan Imperial Court.
+
+---
+
+### 🌌 EVT-005: Konjungsi Rasi Bintang Pasang Pasifik
+* **Event ID**: `EVT-005`
+* **Title**: Pasang Bintang Sembilan & Kemunculan Mutiara Bintang Purba
+* **Trigger**: Kesejajaran 9 rasi bintang di atas lautan Astral Tide Sea yang terjadi sekali setiap 3 tahun.
+* **Location**: Palung Abyss & Perairan Pulau Coral (`06`).
+* **Participants**: Star Compass School, Moonlit Abyss Sect, Kapten Bajak Laut Sea-Wolf, Nelayan Mutiara.
+* **Public Objective**: Memanen *Astral Pearl Tier 5* yang memancar ke permukaan laut selama fenomena konjungsi.
+* **Hidden Objective**: Membuka pilar segel bawah laut kuno yang menyimpan kitab pusaka *Astral Tide Compass Law*.
+* **Time Limit**: 24 Jam (1 Hari).
+* **Success Condition**: Mendapatkan *Astral Pearl* dan mempertahankan kapal dari serangan monster palung.
+* **Failure Condition**: Pilar segel runtuh, membebaskan makhluk palung purba *Kraken Titan* ke perairan terbuka.
+* **World Consequence**: Fluktuasi harga Mutiara Bintang di lelang Yuanjing dan pertempuran kapal maritim berskala besar.
 
 ---
 
