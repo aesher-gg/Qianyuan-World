@@ -62,6 +62,38 @@ Terdapat **9 Major Realm** utama di dunia Qianyuan, di mana setiap Realm dibagi 
 | 8 | **Dao Integration Realm (He-Dao)** | **3.906.250** | Menyatu dengan salah satu hukum Nine Meridian Currents. |
 | 9 | **Tribulation Transcendence Realm (Du-Jie)** ⚡ | **19.531.250** | Menghadapi petir kesengsaraan langit untuk mencapai keabadian. |
 
+---
+
+### 🚀 3.1 Aturan Terobos Stage Dalam Realm (Intra-Realm Stage Breakthrough Rules)
+
+Setiap Major Realm terbagi menjadi 4 Stage bertingkat (**Early Stage → Mid Stage → Late Stage → Peak Stage**). Berbeda dengan terobosan antar Major Realm (misal: Body Refining → Qi Gathering) yang membutuhkan kualifikasi penuh dan ujian besar, terobosan antar-Stage di dalam Realm yang sama merupakan proses ekspansi Dantian dan pematangan jalur meridian.
+
+```
+Early Stage (×1,0 QiCap)
+   └── ⚡ Terobos Stage 1 → Mid Stage (×1,5 QiCap)
+            └── ⚡ Terobos Stage 2 → Late Stage (×2,0 QiCap)
+                     └── ⚡ Terobos Stage 3 → Peak Stage (×2,5 QiCap)
+                              └── 💥 Major Breakthrough → Next Realm Early Stage (×1,0 QiCap Next Realm)
+```
+
+#### 📌 4 Syarat Wajib Terobosan Stage (Intra-Realm Breakthrough Requirements)
+Untuk melangkah dari satu Stage ke Stage berikutnya di dalam Realm yang sama, kultivator **HARUS** memenuhi 4 syarat berikut:
+
+| Parameter Syarat | Deskripsi & Formula Pemenuhan | Dampak Jika Tidak Terpenuhi |
+|---|---|---|
+| **1. Saturation QiCap 100%** | Qi karakter saat ini **WAJIB** mencapai 100% dari batas `QiCap` Stage yang sedang dijalani. (Misal: Qi Gathering Early wajib memegang 250/250 Qi). | Terobosan **Gagal Otomatis**. Dantian tidak memiliki tekanan internal yang cukup untuk menembus dinding Stage. |
+| **2. Akumulasi Insight Points Stage** | Mengumpulkan *Insight Points* minimum khusus Stage dari narasi roleplay / meditasi: <br>• **Early → Mid**: 5 IP (Realm 1–3), 15 IP (Realm 4–6), 30 IP (Realm 7–9)<br>• **Mid → Late**: 10 IP (Realm 1–3), 25 IP (Realm 4–6), 50 IP (Realm 7–9)<br>• **Late → Peak**: 15 IP (Realm 1–3), 35 IP (Realm 4–6), 75 IP (Realm 7–9) | Penalti Success Rate -50% dan pemicuan risiko *Backlash Dantian*. |
+| **3. Meditasi Penjelajahan Meridian** | Melakukan sesi meditasi khusus penyelarasan meridian (durasi min. 1 jam) untuk membuka percabangan meridian sekunder (*Sub-Meridian Nodes*). | Terjadi sumbatan Qi saat Dantian mengembang, memicu status *Meridian Strain*. |
+| **4. Bahan/Pil Pendukung Stage** | **Realm 1–2**: 1 unit Spirit Herb Tier-n atau Meditasi Murni di lokasi kaya Qi.<br>**Realm 3–5**: 1 unit *Stage Consolidation Pill* Tier-n atau 2 unit Spirit Herb Tier-n.<br>**Realm 6–9**: 1 unit *High-Grade Stage Pill* Tier-n + Formasi Pelindung Dantian. | Tanpa bahan pendukung, terobosan bergantung 100% pada rolls keberhasilan batin (Success Rate Base 50%). |
+
+#### ⚠️ Risiko Kegagalan Terobos Stage & Backlash (Stage Cultivation Deviation)
+Jika kultivator memaksakan terobosan Stage tanpa memenuhi syarat di atas atau mengalami kegagalan roll batin (dadu AI GM < Success Rate):
+1. **Pelepasan Energi Liar (Qi Backlash)**: Karakter kehilangan 40% Qi saat ini secara instan dan menderita *Minor Dantian Trauma* (pemulihan Qi terhenti selama 12 Jam waktu dunia).
+2. **Kelelahan Raga**: HP terpotong sebesar 20% dari HPMax dan Stamina berkurang 50 poin.
+3. **Masa Pembekuan Terobosan (Breakthrough Cooldown)**: Dantian mengalami guncangan batin dan **TIDAK BISA** mencoba terobosan Stage lagi selama **3 Hari waktu dunia** (72 Jam).
+
+---
+
 ### 🔒 Formula Resmi Qi Capacity (WAJIB DIPAKAI AI GM)
 
 ```

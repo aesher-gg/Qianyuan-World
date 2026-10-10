@@ -109,7 +109,7 @@ Social Role menentukan kedudukan hukum, reputasi politik (`11`), dan hak akses t
 | **Official (Pejabat Kekaisaran)** | Petugas sipil / militer Kekaisaran Qianyuan (`11`).| Wewenang pemeriksaan surat izin wilayah, komando pengawal gerbang perbatasan. |
 | **Clan Member (Anggota Klan)** | Klan keluarga kultivasi lokal. | Hak atas bagian hasil usaha klan dan bantuan pertahanan klan saat diserang. |
 | **Sect Elder (Tetua Sekte)** | Pemegang otoritas tinggi sekte utama. | Wewenang pengajaran jurus tingkat tinggi, komando murid, dan keputusan perang. |
-| **Teacher (Guru / Master Dojo)** | Pengajar perguruan/dojo mandiri. | Hak memungut biaya pendaftaran murid dan mendirikan dojo resmi tervalidasi. |
+| **Teacher (Guru / Master Perguruan)** | Pengajar perguruan mandiri. | Hak memungut biaya pendaftaran murid dan mendirikan perguruan resmi tervalidasi. |
 
 ---
 

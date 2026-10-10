@@ -180,6 +180,13 @@ Teknik & Kemampuan Aktif:
 ### 3.1 Qi Capacity & Realm Hierarchy (detail: `12_CULTIVATION_RESONANCE_SYSTEM.md`)
 `QiCap = RealmBase × StageMultiplier` (Early ×1.0 | Mid ×1.5 | Late ×2.0 | Peak ×2.5)
 
+**Syarat Ringkas Terobosan Stage (Intra-Realm Breakthrough Early → Mid → Late → Peak):**
+1. **Qi Full 100%** dari batas Stage berjalan.
+2. **Insight Points** cukup sesuai Stage & Realm ( Early→Mid: 5/15/30 IP, Mid→Late: 10/25/50 IP, Late→Peak: 15/35/75 IP).
+3. **Meditasi Penjelajahan Meridian** (min. 1 jam).
+4. **Bahan/Pil Pendukung Stage** (Herba/Pil Konsolidasi Stage Tier-n).
+*Gagal terobos stage memicu Qi Backlash -40% Qi, Minor Dantian Trauma, dan Cooldown Terobos Stage 3 Hari.*
+
 | # | Major Realm | RealmBase Qi |
 |---|---|---|
 | 0 | Non-Kultivator (Mortal) | 0 *(Tanpa Qi Cap)* |
@@ -247,7 +254,7 @@ Teknik & Kemampuan Aktif:
 | `31_SPIRIT_AIRSHIP_SYSTEM.md` | Sistem Kapal Udara Lingzhou & Transportasi Udara |
 | `32_CUSTOM_EVENTS.md` | 🎭 Database Event Khusus & Krisis Wilayah |
 | `33_CUSTOM_LAWS.md` | 📜 Database Hukum Kultivasi Khusus & Kitab Kuno |
-| `34_CUSTOM_SECTS.md` | 🏯 Database Sekte / Dojo Baru Ciptaan Pemain |
+| `34_CUSTOM_SECTS.md` | 🏯 Database Sekte / Perguruan Baru Ciptaan Pemain |
 | `35_CUSTOM_TECHNIQUES.md` | ⚔️ Database Jurus / Teknik Baru Ciptaan Pemain |
 | `ECONOMY_ORACLE.md` | 💰 Cheat-sheet Referensi Harga Instan GM |
 

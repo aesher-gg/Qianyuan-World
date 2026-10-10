@@ -55,7 +55,7 @@ Organisasi ekspedisi kilat yang mengelola pengiriman dokumen rahasia, paket spir
 ---
 
 ### 📜 2.5 Pengadilan & Pendaftaran Hukum Dao (Dao Registry Council)
-Lembaga resmi penerbit sertifikasi Realm kultivator, pendaftaran dojo/sekte baru, dan penguji keaslian hukum Dao.
+Lembaga resmi penerbit sertifikasi Realm kultivator, pendaftaran perguruan/sekte baru, dan penguji keaslian hukum Dao.
 
 | NPC | Peran & Kedudukan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -133,7 +133,7 @@ Dunia bawah Qianyuan juga dihuni oleh tokoh-tokoh mortal tanpa kekuatan Qi yang 
 *(Selaras dengan Ikhtisar Dunia di `01_WORLD_OVERVIEW_AND_CAPITAL.md`)*
 
 - **85% populasi (± 263 juta jiwa)** adalah **mortal biasa tanpa kultivasi** — petani, pedagang, buruh tambang, rentenir, mucikari, dan pejabat sipil. Kekerasan masyarakat sehari-hari (pemalakan, penipuan, perampokan jalanan) sebagian besar berasal dari kalangan ini.
-- **14% populasi (± 43 juta jiwa)** adalah **kultivator tingkat awal (Body Refining hingga Foundation Establishment)** — murid dojo, pengawal karavan, pemburu berlisensi, dan anggota militer biasa.
+- **14% populasi (± 43 juta jiwa)** adalah **kultivator tingkat awal (Body Refining hingga Foundation Establishment)** — murid perguruan, pengawal karavan, pemburu berlisensi, dan anggota militer biasa.
 - **< 1% populasi (± 4 juta jiwa)** adalah **kultivator tingkat tinggi (Core Formation ke atas)** — sesepuh sekte, jenderal kekaisaran, dan master ahli yang menentukan jalannya politik benua.
 
 > 📌 **Instruksi AI GM**: Encounter acak di permukiman umum atau pasar harus didominasi oleh NPC non-kultivator atau kultivator tingkat awal (Realm 1–3), bukan kultivator tingkat tinggi, demi menjaga realisme distribusi kekuatan dunia Qianyuan.

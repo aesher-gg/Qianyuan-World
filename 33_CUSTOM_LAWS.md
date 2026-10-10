@@ -26,7 +26,7 @@ Setiap Hukum Kultivasi Khusus atau Kitab Mantra Purba baru yang dipelajari atau 
 
 ---
 
-## 🏛️ 2. Registered Custom Laws (Sampel Terdaftar)
+## 🏛️ 2. Registered Custom Laws (Database Hukum Terdaftar)
 
 ### ❄️ LAW-001: Hukum Es Keheningan Abadi (Eternal Stillness Ice Law)
 * **Law ID**: `LAW-001`
@@ -38,7 +38,7 @@ Setiap Hukum Kultivasi Khusus atau Kitab Mantra Purba baru yang dipelajari atau 
 * **Abilities**: Kebal penuh terhadap provokasi emosi/mentalis, bonus damage teknik pedang es +30%, membekukan aliran Qi musuh sebesar -15% saat kontak fisik.
 * **Risks**: Emosi fisik menumpul secara perlahan; risiko hipotermia batin jika terburu-buru melakukan breakthrough.
 * **Restrictions**: Dilarang mengombinasikan dengan teknik pemurni *Fire Qi* berintensitas tinggi (memicu benturan Dantian).
-* **Known Users**: Master Sekolah Han Bing-Fei (`28`), Pendekar Leng-Yue.
+* **Known Users**: Master Perguruan Han Bing-Fei (`28`), Pendekar Leng-Yue.
 * **Hidden Effects**: Mampu membekukan aliran waktu lokal di dalam radius 3 langkah selama 1 detik pada pemahaman puncak (*Peak Insight*).
 
 ---
@@ -70,6 +70,36 @@ Setiap Hukum Kultivasi Khusus atau Kitab Mantra Purba baru yang dipelajari atau 
 * **Restrictions**: Memerlukan kompas formasi bintang untuk pemicuan teknik ultimate.
 * **Known Users**: Master Star-Navigator (`26`), Captain Hai-Yue.
 * **Hidden Effects**: Mampu memanggil proyeksi jarum cahaya bintang sembilan yang menyegel aliran Qi Dantian musuh pada pemahaman puncak.
+
+---
+
+### 🔥 LAW-004: Hukum Nyala Api Pasir Ashen (Ashen Fire Sun Law)
+* **Law ID**: `LAW-004`
+* **Name**: Ashen Fire Sun Law (Hukum Nyala Api Pasir Ashen)
+* **Element**: Fire + Sun Qi
+* **Origin**: Ashen Sun Expanse (Kuil Matahari Tenggelam — `04`).
+* **Requirements**: Realm Foundation Establishment Early Stage, Fire Affinity, Heat Resistance > 50%.
+* **Stages**: 3 Stage (Entry: *Sunfire Ember* -> Master: *Solar Flare Core* -> Ancestor: *Ashen Sun Domain*).
+* **Abilities**: Mengubah aura Qi menjadi gelombang panas yang membakar perisai Qi lawan (Damage Fire +25%), serta kebal terhadap efek dehidrasi gurun.
+* **Risks**: Pengeluaran Stamina melonjak +20% dalam pertempuran panjang di lingkungan bersuhu dingin.
+* **Restrictions**: Pantang dikombinasikan dengan teknik berbasis *Water Qi* murni.
+* **Known Users**: Tetua Red Sand Caravan (`24`), Pengawal Istana Sunfire.
+* **Hidden Effects**: Mampu menciptakan percikan *Sunfire Explosion* yang melelehkan senjata besi biasa saat memangkas tebasan lawan.
+
+---
+
+### 🌪️ LAW-005: Hukum Gema Angin Topan Ngarai (Hollow Gale Resonance Law)
+* **Law ID**: `LAW-005`
+* **Name**: Hollow Gale Resonance Law (Hukum Gema Angin Topan Ngarai)
+* **Element**: Wind + Sound Qi
+* **Origin**: Hollow Gale Corridor (Lembah Bisik — `09`).
+* **Requirements**: Realm Qi Gathering Late Stage, Movement Speed Modifier ≥ +10%.
+* **Stages**: 3 Stage (Entry: *Wind Echo* -> Master: *Sonic Tempest* -> Ancestor: *Void Voice Domain*).
+* **Abilities**: Meningkatkan kecepatan bergerak (*Movement Speed*) sebesar +30%, memancarkan gelombang sonik pemecah konsentrasi mantra musuh, serta melacak suara dalam radius 1 li.
+* **Risks**: Rentan mengalami getaran gendang telinga jika diserang gelombang gema yang dipantulkan.
+* **Restrictions**: Efektivitas berlipat di ngarai/gua, namun menurun -15% di padang terbuka tanpa gema.
+* **Known Users**: Utusan Hollow Wind Sect (`29`), Kurir Wind-Gale.
+* **Hidden Effects**: Mampu memancarkan tebasan bisikan gema kedap suara yang menembus pertahanan aura fisik target.
 
 ---
 
