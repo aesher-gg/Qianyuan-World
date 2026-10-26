@@ -114,3 +114,13 @@ Di dalam sekte terdapat persaingan dingin antara dua faksi internal:
 ## 🚪 11. Cara Bergabung (Untuk Karakter Pemain)
 
 Calon murid harus menemukan agen *Rumah Teratai Malam* di salah satu kota besar dan menyelesaikan ujian keberanian malam: melintasi *Gua Bayangan* tanpa membawa obor penerang dalam waktu 2 Jam. Penerimaan resmi memerlukan kualifikasi Realm minimal *Body Refining Early Stage* dan pengujian ketahanan batin (*Willpower Check*).
+
+---
+
+## 📜 12. Misi & Kontrak Khusus Sekte (Sect Quest Board)
+
+| Tier Misi | Nama Kontrak Misi | Target & Lokasi | Imbalan Resmi (`13`) |
+|---|---|---|---|
+| **Tier 1 (Murid Luar)** | *Pengintaian Dermaga Malam* | Pelabuhan Star-Compass (`06`) | 50 Silver Taels + 1 Pil Pemulih Qi |
+| **Tier 2 (Murid Dalam)** | *Pencurian Dokumen Kargo* | Kapal Jelajah Merchant Alliance (`11`) | 2 Spirit Stones T1 + Kitab *Shadow Step* |
+| **Tier 3 (Murid Inti)** | *Eliminasi Buronan Racun* | Rawa Nine-Reed Mire (`05`) | 10 Spirit Stones T1 + Akses Altar Rembulan |
