@@ -25,6 +25,8 @@
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
 | **Xuan Yu** | Whispering Root Forest (`07`) | Foundation Establishment, Late Stage | Rootbound Covenant Sect (Murid Tamu) | [RAW File](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Xuan_Yu.md?v=1) |
+| **Li Feng** | Vermilion River Basin (`02`) | Qi Gathering, Late Stage | River Lantern School (Murid Senior Perahu) | [RAW File](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Li_Feng.md?v=1) |
+| **Yun Cai** | Ashen Sun Expanse (`04`) | Body Refining, Late Stage | Red Sand Caravan (Tentara Bayaran) | [RAW File](https://raw.githubusercontent.com/aesher-gg/Qianyuan-World/main/players/Yun_Cai.md?v=1) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
